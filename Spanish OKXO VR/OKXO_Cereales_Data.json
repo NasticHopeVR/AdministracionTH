@@ -9,11 +9,59 @@
     },
     {
       "name": "mi_atlas_1",
-      "x": 682,   // <-- VALOR DE EJEMPLO, PON EL REAL
-      "y": 3061,  // <-- VALOR DE EJEMPLO, PON EL REAL
-      "width": 682, // <-- VALOR DE EJEMPLO, PON EL REAL
-      "height": 1035// <-- VALOR DE EJEMPLO, PON EL REAL
+      "x": 682,   
+      "y": 3061,  
+      "width": 682, 
+      "height": 1035
     },
-    // ...Añade aquí una entrada para cada uno de tus recortes...
+    {
+      "name": "mi_atlas_2",
+      "x": 1364,  
+      "y": 3061,  
+      "width": 682, 
+      "height": 1035
+    },
+    {
+      "name": "mi_atlas_3",
+      "x": 0,     
+      "y": 2026,  
+      "width": 682, 
+      "height": 1035
+    },
+    {
+      "name": "mi_atlas_4",
+      "x": 682,   
+      "y": 2026,  
+      "width": 682, 
+      "height": 1035
+    },
+    {
+      "name": "mi_atlas_5",
+      "x": 1364,  
+      "y": 2026,  
+      "width": 682, 
+      "height": 1035
+    },
+    {
+      "name": "mi_atlas_6",
+      "x": 0,     
+      "y": 991,   
+      "width": 682, 
+      "height": 1035
+    },
+    {
+      "name": "mi_atlas_7",
+      "x": 682,   
+      "y": 991,   
+      "width": 682, 
+      "height": 1035
+    },
+    {
+      "name": "mi_atlas_8",
+      "x": 1364,  
+      "y": 991,   
+      "width": 682, 
+      "height": 1035
+    }
   ]
 }
