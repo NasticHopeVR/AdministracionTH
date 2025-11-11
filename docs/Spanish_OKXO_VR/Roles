@@ -1,0 +1,14 @@
+{
+  "roles": {
+    "usr_abc123xyz456": {
+      "rol": "Guardián",
+      "acceso": ["SalaSecreta", "EspadaLegendaria"],
+      "animaciones": ["PoseGuardián"]
+    },
+    "usr_def789uvw000": {
+      "rol": "Explorador",
+      "acceso": ["ZonaBosque"],
+      "animaciones": ["SaltoExplorador"]
+    }
+  }
+}
