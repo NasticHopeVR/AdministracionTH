@@ -1,6 +1,6 @@
 {
   "roles": {
-    "usr_abc123xyz456": {
+    "usr_95d3d123-4519-4593-87ee-191cd66a7c85": {
       "rol": "Guardián",
       "acceso": ["SalaSecreta", "EspadaLegendaria"],
       "animaciones": ["PoseGuardián"]
