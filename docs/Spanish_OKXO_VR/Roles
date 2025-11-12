@@ -1,14 +1,4 @@
-{
-  "roles": {
-    "usr_95d3d123-4519-4593-87ee-191cd66a7c85": {
-      "rol": "Guardián",
-      "acceso": ["SalaSecreta", "EspadaLegendaria"],
-      "animaciones": ["PoseGuardián"]
-    },
-    "usr_c304cc86-ac3a-4f58-922c-165442c4e64d": {
-      "rol": "Vip",
-      "acceso": ["ZonaBosque"],
-      "animaciones": ["SaltoExplorador"]
-    }
-  }
-}
+# NasticHopeVR,OWNER
+TuAmigoVIP,VIP
+MiPartner,PARTNER
+MiManager,MANAGER
