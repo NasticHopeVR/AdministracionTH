@@ -6,7 +6,7 @@
       "animaciones": ["PoseGuardián"]
     },
     "usr_c304cc86-ac3a-4f58-922c-165442c4e64d": {
-      "rol": "Explorador",
+      "rol": "Vip",
       "acceso": ["ZonaBosque"],
       "animaciones": ["SaltoExplorador"]
     }
