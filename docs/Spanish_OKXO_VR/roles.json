@@ -2,27 +2,11 @@
   {
     "displayName": "Nastic Hope",
     "rank": "Owner",
-    "groups": []
-  },
-  {
-    "displayName": "JAL08",
-    "rank": "STAFF",
-    "groups": []
-  },
-  {
-    "displayName": "ƝƛƓȺ★ƑʘɌȾ",
-    "rank": "STAFF",
-    "groups": []
+    "groups": ["Oficina", "PuertasVip"]
   },
   {
     "displayName": "Sainthe",
     "rank": "STAFF",
-    "groups": []
-  },
-  {
-    "displayName": "ᴋʏᴄʜu",
-    "rank": "STAFF",
-    "groups": []
+    "groups": ["PuertasVip"]
   }
 ]
-
