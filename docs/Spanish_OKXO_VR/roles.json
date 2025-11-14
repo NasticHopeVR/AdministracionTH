@@ -5,7 +5,12 @@
     "groups": ["Oficina", "PuertasVip"]
   },
   {
-    "displayName": "Sainthe",
+    "displayName": "JAL08",
+    "rank": "STAFF",
+    "groups": ["PuertasVip"]
+  },
+  {
+    "displayName": "JAL08",
     "rank": "STAFF",
     "groups": ["PuertasVip"]
   }
