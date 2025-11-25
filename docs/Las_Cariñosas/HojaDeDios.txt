@@ -183,7 +183,8 @@ URL Ranks by DiscoPeligro.
         "Retrosnz",
         "gabo121567",
         "XmatrixX97",
-        "test"
+        "test",
+        "Xiomis"
     ],
     "Icon": [
         "Icοn4500",
@@ -336,7 +337,9 @@ URL Ranks by DiscoPeligro.
         "samantha2301",
         "iTeo_zz",
         "Tamamo Yuki",
-        "rebe_76 754d"
+        "rebe_76 754d",
+        "EnzoNova",
+        "ALEXMARIN"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
