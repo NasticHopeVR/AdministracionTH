@@ -182,7 +182,8 @@ URL Ranks by DiscoPeligro.
         "BEETHOHIR0",
         "Retrosnz",
         "gabo121567",
-        "XmatrixX97"
+        "XmatrixX97",
+        "test"
     ],
     "Icon": [
         "Icοn4500",
