@@ -29,7 +29,8 @@ URL Ranks by DiscoPeligro.
         "KazumiiVT",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "SweetMochi0",
-        "naelvl3"
+        "naelvl3",
+        "ISLA DEL PECADO"
     ],
     "Admin": [
         "NosticChop"
@@ -75,13 +76,12 @@ URL Ranks by DiscoPeligro.
         "Ƙυѕт",
         "El Kyu",
         "Karurus_Sღ",
-        "¿ᴘʜᴏɴᴇ - sᴇx?",
-        "c1geerzs",
         "Kevin GlezAnc",
         "IG XimenaGtz04",
         "TAILINGXA",
         "iTeo_zz",
-        "Dilocc"
+        "Dilocc",
+        "Gormi1"
     ],
     "Mod": [
         "Uni ウサギ",
@@ -180,7 +180,10 @@ URL Ranks by DiscoPeligro.
         "｢Demonic｣",
         "BEETHOHIR0",
         "Retrosnz",
-        "gabo121567"
+        "gabo121567",
+        "XmatrixX97",
+        "test",
+        "Xiomis"
     ],
     "Icon": [
         "Icοn4500",
@@ -263,10 +266,6 @@ URL Ranks by DiscoPeligro.
         "ʀʊʄʊʟ",
         "Dᴀʏɪ",
         "Nene33",
-        "KattzeKatt",
-        "Xexuuu",
-        "Nuzossj",
-        "tr0y4n0Ҳ",
         "S0mbrr4",
         "˚ʚ sᴛᴀʀ ɞ˚",
         "かStarSmøkeか",
@@ -301,13 +300,6 @@ URL Ranks by DiscoPeligro.
         "Ricanmami",
         "LaBurbuPR",
         "CindyMoon0",
-        "RooskerPein be64",
-        "xsmichel07x",
-        "MithZh",
-        "AABBII",
-        "Nolan_Shot14",
-        "AngelSq",
-        "MizuQwQ",
         "Violet Himiko",
         "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
@@ -316,7 +308,7 @@ URL Ranks by DiscoPeligro.
         "CindyMღon",
         "Vexiop",
         "tr0y4n0Ҳ",
-        "Moonshiney7",
+        "Aoi Kitsune",
         "Karel_1507",
         "ayubken7",
         "ZeroPositivo",
@@ -337,7 +329,18 @@ URL Ranks by DiscoPeligro.
         "Shyvanae",
         "TheDoctorSnake",
         "aperta",
-        "Littlebunnyy19"
+        "Littlebunnyy19",
+        "marovimartin",
+        "Night-moon",
+        "samantha2301",
+        "iTeo_zz",
+        "Tamamo Yuki",
+        "rebe_76 754d",
+        "EnzoNova",
+        "ALEXMARIN",
+        "Tvvtrymartin",
+        "Vanny77",
+        "-RollBack-"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
