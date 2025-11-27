@@ -76,13 +76,12 @@ URL Ranks by DiscoPeligro.
         "Ƙυѕт",
         "El Kyu",
         "Karurus_Sღ",
-        "¿ᴘʜᴏɴᴇ - sᴇx?",
-        "c1geerzs",
         "Kevin GlezAnc",
         "IG XimenaGtz04",
         "TAILINGXA",
         "iTeo_zz",
-        "Dilocc"
+        "Dilocc",
+        "Gormi1"
     ],
     "Mod": [
         "Uni ウサギ",
