@@ -338,7 +338,9 @@ URL Ranks by DiscoPeligro.
         "rebe_76 754d",
         "EnzoNova",
         "ALEXMARIN",
-        "Tvvtrymartin"
+        "Tvvtrymartin",
+        "Vanny77",
+        "-RollBack-"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
