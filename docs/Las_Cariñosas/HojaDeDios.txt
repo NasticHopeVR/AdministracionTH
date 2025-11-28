@@ -273,8 +273,6 @@ URL Ranks by DiscoPeligro.
         "NeoStyxx",
         "GERMAN002",
         "GREAT_ONE",
-        "Lord_Zonuax",
-        "John Wipe",
         "Aquiles_wolf",
         "-Shaila-",
         "Retrosnz",
@@ -340,7 +338,8 @@ URL Ranks by DiscoPeligro.
         "ALEXMARIN",
         "Tvvtrymartin",
         "Vanny77",
-        "-RollBack-"
+        "-RollBack-",
+        "Kevinggvr"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
