@@ -333,12 +333,12 @@ URL Ranks by DiscoPeligro.
         "rebe_76 754d",
         "EnzoNova",
         "ALEXMARIN",
-        "Tvvtrymartin",
         "Vanny77",
         "-RollBack-",
         "Kevinggvr",
         "MithZh",
-        "JavaBean123"
+        "JavaBean123",
+        "Tvvtrymartin"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
