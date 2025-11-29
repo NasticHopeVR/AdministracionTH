@@ -108,7 +108,8 @@ URL Ranks by DiscoPeligro.
     "Bonice": [
         "Brandynauta",
         "Cuervito_",
-        "duckis"
+        "duckis",
+        "sara_dj03"
     ],
     "DancerCapitan": [
         "KatheKatt",
@@ -203,8 +204,6 @@ URL Ranks by DiscoPeligro.
         "Prototipo0121",
         "Sra_Ibañez",
         "Luismi92",
-        "Vaininya",
-        "cherrypoison69",
         "Tamamo Yuki",
         "Dan_Meza",
         "TakoMura",
@@ -267,8 +266,6 @@ URL Ranks by DiscoPeligro.
         "Dᴀʏɪ",
         "Nene33",
         "S0mbrr4",
-        "˚ʚ sᴛᴀʀ ɞ˚",
-        "かStarSmøkeか",
         "IG OnealGaming",
         "NeoStyxx",
         "GERMAN002",
