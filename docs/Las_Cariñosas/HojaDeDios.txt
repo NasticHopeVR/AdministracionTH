@@ -1,4 +1,3 @@
-URL Ranks by DiscoPeligro.
 {
     "Co-Owner": [
         "ღItzAkaneღ",
@@ -190,9 +189,6 @@ URL Ranks by DiscoPeligro.
         "Icοn4500",
         "karу"
     ],
-    "Testeo": [
-        "testin"
-    ],
     "VIP": [
         "El_CADEJO_SV",
         "ShadowN01",
@@ -271,6 +267,8 @@ URL Ranks by DiscoPeligro.
         "NeoStyxx",
         "GERMAN002",
         "GREAT_ONE",
+        "Lord_Zonuax",
+        "John Wipe",
         "Aquiles_wolf",
         "-Shaila-",
         "Retrosnz",
@@ -359,9 +357,9 @@ URL Ranks by DiscoPeligro.
         "Nelson_KAELA",
         "Lord_Zonuax",
         "Soso 2020",
-        "John Wipe",
-        "Prototipo0121",
         "DoLaRnEiToR_15",
+        "Prototipo0121",
+        "John Wipe",
         "Karurus_Sღ"
     ]
 }
