@@ -190,6 +190,9 @@ URL Ranks by DiscoPeligro.
         "Icοn4500",
         "karу"
     ],
+    "Testeo": [
+        "testin"
+    ],
     "VIP": [
         "El_CADEJO_SV",
         "ShadowN01",
