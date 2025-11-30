@@ -202,8 +202,6 @@ URL Ranks by DiscoPeligro.
         "ChrissVencha",
         "Daiki Chikita",
         "Prototipo0121",
-        "Sra_Ibañez",
-        "Luismi92",
         "Tamamo Yuki",
         "Dan_Meza",
         "TakoMura",
@@ -299,7 +297,6 @@ URL Ranks by DiscoPeligro.
         "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
         "༒ Vᴇɴᴜs ༒",
-        "ItsKing62",
         "CindyMღon",
         "Vexiop",
         "tr0y4n0Ҳ",
@@ -338,7 +335,9 @@ URL Ranks by DiscoPeligro.
         "Kevinggvr",
         "MithZh",
         "JavaBean123",
-        "Tvvtrymartin"
+        "Tvvtrymartin",
+        "Nuzossj",
+        "ogperalta 146f"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
