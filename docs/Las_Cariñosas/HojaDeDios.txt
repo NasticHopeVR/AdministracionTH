@@ -257,7 +257,6 @@
         "MoonSerein",
         "capitan_uron",
         "galogb204",
-        "BEETHOHIR0",
         "ᴋɪᴅᴀ_ʟʏs22",
         "ʀʊʄʊʟ",
         "Dᴀʏɪ",
@@ -338,7 +337,10 @@
         "JavaBean123",
         "Tvvtrymartin",
         "Nuzossj",
-        "ogperalta 146f"
+        "ogperalta 146f",
+        "Ruoben",
+        "Mili696rr3",
+        "PURIF1K"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
