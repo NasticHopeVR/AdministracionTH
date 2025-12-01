@@ -1,8 +1,7 @@
 URL Ranks by DiscoPeligro.
 {
     "Co-Owner": [
-        "ღItzAkaneღ",
-        "Sainthe"
+        "ღItzAkaneღ"
     ],
     "NoviaIcon": [
         "Dulcecоmocandy"
@@ -31,9 +30,6 @@ URL Ranks by DiscoPeligro.
         "SweetMochi0",
         "naelvl3",
         "ISLA DEL PECADO"
-    ],
-    "Admin": [
-        "NosticChop"
     ],
     "MonsterMusume": [
         "BlauThemce",
@@ -188,6 +184,9 @@ URL Ranks by DiscoPeligro.
     "Icon": [
         "Icοn4500",
         "karу"
+    ],
+    "Admin": [
+        "Sainthe"
     ],
     "VIP": [
         "El_CADEJO_SV",
