@@ -189,9 +189,6 @@ URL Ranks by DiscoPeligro.
         "Icοn4500",
         "karу"
     ],
-    "Developer": [
-        "Sainthe"
-    ],
     "VIP": [
         "El_CADEJO_SV",
         "ShadowN01",
