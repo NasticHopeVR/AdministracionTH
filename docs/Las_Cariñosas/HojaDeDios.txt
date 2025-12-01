@@ -4,6 +4,9 @@ URL Ranks by DiscoPeligro.
         "ღItzAkaneღ",
         "Sainthe"
     ],
+    "Desarrollador": [
+        "Sainthecito"
+    ],
     "NoviaIcon": [
         "Dulcecоmocandy"
     ],
