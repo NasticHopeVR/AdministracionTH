@@ -1,8 +1,7 @@
 URL Ranks by DiscoPeligro.
 {
     "Co-Owner": [
-        "ღItzAkaneღ",
-        "Sainthe"
+        "ღItzAkaneღ"
     ],
     "NoviaIcon": [
         "Dulcecоmocandy"
@@ -188,6 +187,9 @@ URL Ranks by DiscoPeligro.
     "Icon": [
         "Icοn4500",
         "karу"
+    ],
+    "Developer": [
+        "Sainthe"
     ],
     "VIP": [
         "El_CADEJO_SV",
