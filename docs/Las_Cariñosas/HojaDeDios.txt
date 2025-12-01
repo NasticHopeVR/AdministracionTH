@@ -100,7 +100,6 @@ URL Ranks by DiscoPeligro.
         "MokaPaut",
         "GreyGrace",
         "Naim Ulloa",
-        "yamiyamero",
         "KirikuVT",
         "Amurysse",
         "RocketSaul"
@@ -240,8 +239,6 @@ URL Ranks by DiscoPeligro.
         "LaNubi23",
         "Majestad",
         "jc_jaime f84f",
-        "Karurus_Sღ",
-        "LEA_Kღ",
         "Dulcecоmocandy",
         "nаrumi",
         "Alliebearcx",
@@ -255,10 +252,7 @@ URL Ranks by DiscoPeligro.
         "Martguzz",
         "Sofi-Sticada",
         "༒I̴s̴h̴~0̴0̴7̴༒",
-        "MoonSerein",
-        "capitan_uron",
         "galogb204",
-        "BEETHOHIR0",
         "ᴋɪᴅᴀ_ʟʏs22",
         "ʀʊʄʊʟ",
         "Dᴀʏɪ",
@@ -268,6 +262,8 @@ URL Ranks by DiscoPeligro.
         "NeoStyxx",
         "GERMAN002",
         "GREAT_ONE",
+        "Lord_Zonuax",
+        "John Wipe",
         "Aquiles_wolf",
         "-Shaila-",
         "Retrosnz",
@@ -299,8 +295,6 @@ URL Ranks by DiscoPeligro.
         "༒ Vᴇɴᴜs ༒",
         "CindyMღon",
         "Vexiop",
-        "tr0y4n0Ҳ",
-        "Aoi Kitsune",
         "Karel_1507",
         "ayubken7",
         "ZeroPositivo",
@@ -336,8 +330,12 @@ URL Ranks by DiscoPeligro.
         "MithZh",
         "JavaBean123",
         "Tvvtrymartin",
+        "RoseHearts69",
         "Nuzossj",
-        "ogperalta 146f"
+        "ogperalta 146f",
+        "Ruoben",
+        "PURIF1K",
+        "Mili696rr3"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
@@ -356,9 +354,9 @@ URL Ranks by DiscoPeligro.
         "Nelson_KAELA",
         "Lord_Zonuax",
         "Soso 2020",
-        "John Wipe",
-        "Prototipo0121",
         "DoLaRnEiToR_15",
+        "Prototipo0121",
+        "John Wipe",
         "Karurus_Sღ"
     ]
 }
