@@ -107,8 +107,8 @@ URL Ranks by DiscoPeligro.
     "Bonice": [
         "Brandynauta",
         "Cuervito_",
-        "duckis",
-        "sara_dj03"
+        "sara_dj03",
+        "duckis"
     ],
     "DancerCapitan": [
         "KatheKatt",
@@ -162,7 +162,6 @@ URL Ranks by DiscoPeligro.
         "M Ѧ Y ҂",
         "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
         "Matiusito",
-        "bunny02x",
         "WorldDestroyers",
         "༒MixedDesire's༒",
         "faunotears",
@@ -182,12 +181,16 @@ URL Ranks by DiscoPeligro.
         "Retrosnz",
         "gabo121567",
         "XmatrixX97",
-        "test",
-        "Xiomis"
+        "Xiomis",
+        "bunny02x",
+        "test"
     ],
     "Icon": [
         "Icοn4500",
         "karу"
+    ],
+    "Developer": [
+        "Sainthe"
     ],
     "VIP": [
         "El_CADEJO_SV",
@@ -204,11 +207,6 @@ URL Ranks by DiscoPeligro.
         "Tamamo Yuki",
         "Dan_Meza",
         "TakoMura",
-        "SugarLoliUwU",
-        "Icοn4500",
-        "¿ᴘʜᴏɴᴇ - sᴇx?",
-        "CopycatPortal",
-        "Diegomex 8f11",
         "DEVILZOO_",
         "Rini_Clowny",
         "_Viscochin_",
@@ -239,6 +237,8 @@ URL Ranks by DiscoPeligro.
         "LaNubi23",
         "Majestad",
         "jc_jaime f84f",
+        "Karurus_Sღ",
+        "LEA_Kღ",
         "Dulcecоmocandy",
         "nаrumi",
         "Alliebearcx",
@@ -252,6 +252,8 @@ URL Ranks by DiscoPeligro.
         "Martguzz",
         "Sofi-Sticada",
         "༒I̴s̴h̴~0̴0̴7̴༒",
+        "MoonSerein",
+        "capitan_uron",
         "galogb204",
         "ᴋɪᴅᴀ_ʟʏs22",
         "ʀʊʄʊʟ",
