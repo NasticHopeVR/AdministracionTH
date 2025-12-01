@@ -1,3 +1,4 @@
+URL Ranks by DiscoPeligro.
 {
     "Co-Owner": [
         "ღItzAkaneღ",
