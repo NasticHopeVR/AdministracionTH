@@ -185,7 +185,7 @@ URL Ranks by DiscoPeligro.
         "Icοn4500",
         "karу"
     ],
-    "Admin": [
+    "VipManager": [
         "Sainthe"
     ],
     "VIP": [
@@ -200,6 +200,7 @@ URL Ranks by DiscoPeligro.
         "ChrissVencha",
         "Daiki Chikita",
         "Prototipo0121",
+        "_MimiPR_",
         "Tamamo Yuki",
         "Dan_Meza",
         "TakoMura",
@@ -256,8 +257,6 @@ URL Ranks by DiscoPeligro.
         "Dᴀʏɪ",
         "Nene33",
         "S0mbrr4",
-        "IG OnealGaming",
-        "NeoStyxx",
         "GERMAN002",
         "GREAT_ONE",
         "Lord_Zonuax",
@@ -293,8 +292,6 @@ URL Ranks by DiscoPeligro.
         "༒ Vᴇɴᴜs ༒",
         "CindyMღon",
         "Vexiop",
-        "Karel_1507",
-        "ayubken7",
         "ZeroPositivo",
         "Sebastián_M",
         "Rogerred1170",
