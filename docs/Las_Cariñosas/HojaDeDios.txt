@@ -189,6 +189,7 @@ URL Ranks by DiscoPeligro.
         "karу"
     ],
     "VIP": [
+        "El_CADEJO_SV",
         "ShadowN01",
         "c1geerzs",
         "BebecitaShey",
@@ -207,6 +208,8 @@ URL Ranks by DiscoPeligro.
         "_Viscochin_",
         "Roxytooty",
         "KazumiiVT",
+        "ilimusa",
+        "࿇-S͓̽uu͓̽Ji-࿇",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "AndreaAlejandra",
