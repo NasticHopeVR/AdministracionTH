@@ -332,7 +332,9 @@ URL Ranks by DiscoPeligro.
         "PURIF1K",
         "Mili696rr3",
         "لØセ₳_M̶B̶",
-        "HQuinn96"
+        "HQuinn96",
+        "Akita Neru〆",
+        "kami․in․sky"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
