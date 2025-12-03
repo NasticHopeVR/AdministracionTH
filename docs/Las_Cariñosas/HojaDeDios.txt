@@ -322,7 +322,9 @@ URL Ranks by DiscoPeligro.
         "ogperalta 146f",
         "Ruoben",
         "PURIF1K",
-        "Mili696rr3"
+        "Mili696rr3",
+        "لØセ₳_M̶B̶",
+        "HQuinn96"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
