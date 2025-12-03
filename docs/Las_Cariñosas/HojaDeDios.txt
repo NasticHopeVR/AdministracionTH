@@ -189,6 +189,7 @@ URL Ranks by DiscoPeligro.
         "karу"
     ],
     "VIP": [
+        "El_CADEJO_SV",
         "ShadowN01",
         "c1geerzs",
         "BebecitaShey",
@@ -202,11 +203,18 @@ URL Ranks by DiscoPeligro.
         "Tamamo Yuki",
         "Dan_Meza",
         "TakoMura",
+        "SugarLoliUwU",
+        "¿ᴘʜᴏɴᴇ - sᴇx?",
+        "CopycatPortal",
+        "Icοn4500",
+        "Diegomex 8f11",
         "DEVILZOO_",
         "Rini_Clowny",
         "_Viscochin_",
         "Roxytooty",
         "KazumiiVT",
+        "ilimusa",
+        "࿇-S͓̽uu͓̽Ji-࿇",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "AndreaAlejandra",
@@ -324,7 +332,9 @@ URL Ranks by DiscoPeligro.
         "PURIF1K",
         "Mili696rr3",
         "لØセ₳_M̶B̶",
-        "HQuinn96"
+        "HQuinn96",
+        "Akita Neru〆",
+        "kami․in․sky"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
