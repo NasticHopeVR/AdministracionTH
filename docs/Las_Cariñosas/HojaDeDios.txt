@@ -1,7 +1,8 @@
 URL Ranks by DiscoPeligro.
 {
     "Co-Owner": [
-        "ღItzAkaneღ"
+        "ღItzAkaneღ",
+        "Sainthe"
     ],
     "NoviaIcon": [
         "Dulcecоmocandy"
@@ -28,8 +29,8 @@ URL Ranks by DiscoPeligro.
         "KazumiiVT",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "SweetMochi0",
-        "naelvl3",
-        "ISLA DEL PECADO"
+        "ISLA DEL PECADO",
+        "naelvl3"
     ],
     "MonsterMusume": [
         "BlauThemce",
@@ -130,7 +131,8 @@ URL Ranks by DiscoPeligro.
         "Seruly",
         "D O V Ē",
         "ღ Mizuki ღ",
-        "MaurixG"
+        "MaurixG",
+        "ʚɞ sᴇx ᴅᴇsɪʀᴇ"
     ],
     "Friends": [
         "NYADETH",
@@ -185,11 +187,7 @@ URL Ranks by DiscoPeligro.
         "Icοn4500",
         "karу"
     ],
-    "VipManager": [
-        "Sainthe"
-    ],
     "VIP": [
-        "El_CADEJO_SV",
         "ShadowN01",
         "c1geerzs",
         "BebecitaShey",
@@ -199,24 +197,15 @@ URL Ranks by DiscoPeligro.
         "Houltler",
         "ChrissVencha",
         "Daiki Chikita",
-        "Prototipo0121",
         "_MimiPR_",
         "Tamamo Yuki",
         "Dan_Meza",
         "TakoMura",
-        "SugarLoliUwU",
-        "Diegomex 8f11",
-        "¿ᴘʜᴏɴᴇ - sᴇx?",
-        "CopycatPortal",
-        "Icοn4500",
         "DEVILZOO_",
         "Rini_Clowny",
         "_Viscochin_",
         "Roxytooty",
         "KazumiiVT",
-        "naelvl3",
-        "ilimusa",
-        "࿇-S͓̽uu͓̽Ji-࿇",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "AndreaAlejandra",
@@ -246,8 +235,6 @@ URL Ranks by DiscoPeligro.
         "Alliebearcx",
         "SeleNix",
         "mrbb88",
-        "KaosKynG",
-        "YuuCaliente19°",
         "Sanssha",
         "El Ceron",
         "｢ᴠɪƤᴇʀ｣",
@@ -330,7 +317,6 @@ URL Ranks by DiscoPeligro.
         "MithZh",
         "JavaBean123",
         "Tvvtrymartin",
-        "RoseHearts69",
         "Nuzossj",
         "ogperalta 146f",
         "Ruoben",
