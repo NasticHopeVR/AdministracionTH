@@ -182,7 +182,6 @@ URL Ranks by DiscoPeligro.
         "XmatrixX97",
         "Xiomis",
         "bunny02x",
-        "test",
         "AndreaAlejandra"
     ],
     "Icon": [
