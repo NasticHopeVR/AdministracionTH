@@ -232,8 +232,6 @@ URL Ranks by DiscoPeligro.
         "ო Y A M I ო",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
-        "Toki Wa Kita",
-        "ღEquiღ",
         "CAROL_RM",
         "LaNubi23",
         "Majestad",
@@ -335,7 +333,8 @@ URL Ranks by DiscoPeligro.
         "Akita Neru〆",
         "kami․in․sky",
         "Moonsp",
-        "XxSoyXivaxX"
+        "XxSoyXivaxX",
+        "Ryoya_Hanasaki"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
