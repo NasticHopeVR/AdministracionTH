@@ -286,8 +286,6 @@ URL Ranks by DiscoPeligro.
         "Ricanmami",
         "LaBurbuPR",
         "CindyMღon",
-        "Violet Himiko",
-        "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
         "༒ Vᴇɴᴜs ༒",
         "CindyMღon",
@@ -304,8 +302,6 @@ URL Ranks by DiscoPeligro.
         "Rina_Grl",
         "ketseaki",
         "AllysaClown",
-        "Tamamo Yuki",
-        "KΣIA ღ",
         "ZooboxSan",
         "Shyvanae",
         "TheDoctorSnake",
@@ -315,8 +311,6 @@ URL Ranks by DiscoPeligro.
         "Night-moon",
         "samantha2301",
         "iTeo_zz",
-        "Tamamo Yuki",
-        "rebe_76 754d",
         "EnzoNova",
         "ALEXMARIN",
         "Vanny77",
@@ -336,7 +330,8 @@ URL Ranks by DiscoPeligro.
         "kami․in․sky",
         "Moonsp",
         "XxSoyXivaxX",
-        "Ryoya_Hanasaki"
+        "Ryoya_Hanasaki",
+        "KΣIA ღ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
