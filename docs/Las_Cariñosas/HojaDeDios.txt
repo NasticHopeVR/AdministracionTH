@@ -182,7 +182,8 @@ URL Ranks by DiscoPeligro.
         "XmatrixX97",
         "Xiomis",
         "bunny02x",
-        "AndreaAlejandra"
+        "AndreaAlejandra",
+        "LordRagnar"
     ],
     "Icon": [
         "Icοn4500",
@@ -304,8 +305,6 @@ URL Ranks by DiscoPeligro.
         "Rina_Grl",
         "ketseaki",
         "AllysaClown",
-        "Tamamo Yuki",
-        "KΣIA ღ",
         "ZooboxSan",
         "Shyvanae",
         "TheDoctorSnake",
@@ -315,8 +314,6 @@ URL Ranks by DiscoPeligro.
         "Night-moon",
         "samantha2301",
         "iTeo_zz",
-        "Tamamo Yuki",
-        "rebe_76 754d",
         "EnzoNova",
         "ALEXMARIN",
         "Vanny77",
