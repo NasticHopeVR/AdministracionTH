@@ -334,7 +334,9 @@ URL Ranks by DiscoPeligro.
         "Moonsp",
         "XxSoyXivaxX",
         "Ryoya_Hanasaki",
-        "KΣIA ღ"
+        "KΣIA ღ",
+        "TuTioElUrgido",
+        "LenaaTenshi"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
