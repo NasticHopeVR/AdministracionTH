@@ -352,8 +352,8 @@ URL Ranks by DiscoPeligro.
         "Karurus_Sღ",
         "ＴＯＫＡＹＯ",
         "Elalcarazz",
-        "Pely Vega",
+        "cortis9",
         "ო Y A M I ო",
-        "cortis9"
+        "Pely Vega"
     ]
 }
