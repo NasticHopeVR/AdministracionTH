@@ -349,6 +349,11 @@ URL Ranks by DiscoPeligro.
         "DoLaRnEiToR_15",
         "Prototipo0121",
         "John Wipe",
-        "Karurus_Sღ"
+        "Karurus_Sღ",
+        "ＴＯＫＡＹＯ",
+        "Elalcarazz",
+        "Pely Vega",
+        "ო Y A M I ო",
+        "cortis9"
     ]
 }
