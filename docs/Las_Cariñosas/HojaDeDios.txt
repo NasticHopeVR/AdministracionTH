@@ -105,8 +105,7 @@ URL Ranks by DiscoPeligro.
     "Bonice": [
         "Brandynauta",
         "Cuervito_",
-        "sara_dj03",
-        "duckis"
+        "sara_dj03"
     ],
     "DancerCapitan": [
         "KatheKatt",
