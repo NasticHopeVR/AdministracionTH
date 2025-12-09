@@ -229,6 +229,10 @@ URL Ranks by DiscoPeligro.
         "VEПDEƬƬΛ",
         "-Yggdrasil",
         "︶ M i t s u ︶",
+        "ＴＯＫＡＹＯ",
+        "ო Y A M I ო",
+        "ＴＯＫＡＹＯ",
+        "ო Y A M I ო",
         "Toki Wa Kita",
         "ღEquiღ",
         "CAROL_RM",
@@ -260,6 +264,8 @@ URL Ranks by DiscoPeligro.
         "GREAT_ONE",
         "Lord_Zonuax",
         "John Wipe",
+        "ღྉAquileswolfྉღ",
+        "ღྉмєiྉღ",
         "Retrosnz",
         "KittyKatLit",
         "Chuki1",
@@ -352,8 +358,8 @@ URL Ranks by DiscoPeligro.
         "Karurus_Sღ",
         "ＴＯＫＡＹＯ",
         "Elalcarazz",
-        "Pely Vega",
+        "cortis9",
         "ო Y A M I ო",
-        "cortis9"
+        "Pely Vega"
     ]
 }
