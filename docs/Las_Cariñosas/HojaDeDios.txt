@@ -197,8 +197,6 @@ URL Ranks by DiscoPeligro.
         "ო Y A M I ო",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "Houltler",
-        "ChrissVencha",
-        "Daiki Chikita",
         "Prototipo0121",
         "_MimiPR_",
         "Tamamo Yuki",
@@ -301,8 +299,6 @@ URL Ranks by DiscoPeligro.
         "Rina_Grl",
         "ketseaki",
         "AllysaClown",
-        "Tamamo Yuki",
-        "KΣIA ღ",
         "ZooboxSan",
         "Shyvanae",
         "TheDoctorSnake",
@@ -312,8 +308,6 @@ URL Ranks by DiscoPeligro.
         "Night-moon",
         "samantha2301",
         "iTeo_zz",
-        "Tamamo Yuki",
-        "rebe_76 754d",
         "EnzoNova",
         "ALEXMARIN",
         "Vanny77",
@@ -336,7 +330,9 @@ URL Ranks by DiscoPeligro.
         "Ryoya_Hanasaki",
         "KΣIA ღ",
         "TuTioElUrgido",
-        "LenaaTenshi"
+        "LenaaTenshi",
+        "Alexis11ninja",
+        "Deadfairy360"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
