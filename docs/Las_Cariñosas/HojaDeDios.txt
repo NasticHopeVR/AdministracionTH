@@ -338,7 +338,8 @@ URL Ranks by DiscoPeligro.
         "Alexis11ninja",
         "Deadfairy360",
         "Nozxy",
-        "xXyz_luisXx"
+        "xXyz_luisXx",
+        "tes"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
