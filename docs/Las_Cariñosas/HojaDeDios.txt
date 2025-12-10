@@ -336,8 +336,7 @@ URL Ranks by DiscoPeligro.
         "TuTioElUrgido",
         "LenaaTenshi",
         "Alexis11ninja",
-        "Deadfairy360",
-        "Testeoinsano"
+        "Deadfairy360"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
