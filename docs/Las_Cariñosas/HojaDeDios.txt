@@ -105,8 +105,7 @@ URL Ranks by DiscoPeligro.
     "Bonice": [
         "Brandynauta",
         "Cuervito_",
-        "sara_dj03",
-        "duckis"
+        "sara_dj03"
     ],
     "DancerCapitan": [
         "KatheKatt",
@@ -206,10 +205,10 @@ URL Ranks by DiscoPeligro.
         "Dan_Meza",
         "TakoMura",
         "SugarLoliUwU",
-        "¿ᴘʜᴏɴᴇ - sᴇx?",
-        "Icοn4500",
-        "Diegomex 8f11",
         "CopycatPortal",
+        "Diegomex 8f11",
+        "Icοn4500",
+        "¿ᴘʜᴏɴᴇ - sᴇx?",
         "DEVILZOO_",
         "Rini_Clowny",
         "_Viscochin_",
@@ -291,6 +290,7 @@ URL Ranks by DiscoPeligro.
         "CindyMღon",
         "༒conejoo༒",
         "ZeroPositivo",
+        "Sebastián_M",
         "Rogerred1170",
         "JRaver",
         "Bymaxter23",
@@ -332,11 +332,13 @@ URL Ranks by DiscoPeligro.
         "Akita Neru〆",
         "kami․in․sky",
         "Moonsp",
-        "XxSoyXivaxX",
+        "Josuewe",
         "Ryoya_Hanasaki",
         "KΣIA ღ",
         "TuTioElUrgido",
-        "LenaaTenshi"
+        "LenaaTenshi",
+        "Alexis11ninja",
+        "Deadfairy360"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
