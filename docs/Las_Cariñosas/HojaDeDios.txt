@@ -190,13 +190,9 @@ URL Ranks by DiscoPeligro.
     ],
     "VIP": [
         "El_CADEJO_SV",
-        "ShadowN01",
-        "c1geerzs",
         "BebecitaShey",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
-        "༒d̷a̷r̷i̷1̷8̷༒",
-        "Houltler",
         "ChrissVencha",
         "Daiki Chikita",
         "Prototipo0121",
@@ -213,7 +209,6 @@ URL Ranks by DiscoPeligro.
         "Rini_Clowny",
         "_Viscochin_",
         "Roxytooty",
-        "KazumiiVT",
         "ilimusa",
         "࿇-S͓̽uu͓̽Ji-࿇",
         "ＴＯＫＡＹＯ",
@@ -289,8 +284,6 @@ URL Ranks by DiscoPeligro.
         "༒conejoo༒",
         "ZeroPositivo",
         "Sebastián_M",
-        "Rogerred1170",
-        "JRaver",
         "Bymaxter23",
         "ღPastelito",
         "ThiagoRTC",
@@ -339,7 +332,8 @@ URL Ranks by DiscoPeligro.
         "Deadfairy360",
         "Nozxy",
         "xXyz_luisXx",
-        "tes"
+        "tr0y4n0Ҳ",
+        "Aoi Kitsune"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
