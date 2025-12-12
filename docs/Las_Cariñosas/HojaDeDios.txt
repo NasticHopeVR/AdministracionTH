@@ -336,7 +336,9 @@ URL Ranks by DiscoPeligro.
         "Nozxy",
         "xXyz_luisXx",
         "tr0y4n0Ҳ",
-        "Aoi Kitsune"
+        "Aoi Kitsune",
+        "frelex01",
+        "riccu"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
