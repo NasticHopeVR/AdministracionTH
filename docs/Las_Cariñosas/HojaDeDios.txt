@@ -287,8 +287,6 @@ URL Ranks by DiscoPeligro.
         "Sebastián_M",
         "Rogerred1170",
         "JRaver",
-        "Bymaxter23",
-        "ღPastelito",
         "ThiagoRTC",
         "la mocho be45",
         "¤TRATO O PUTAS¤",
@@ -339,7 +337,8 @@ URL Ranks by DiscoPeligro.
         "Aoi Kitsune",
         "frelex01",
         "riccu",
-        "Daku_KamiFemboy"
+        "Daku_KamiFemboy",
+        "Danielss8"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
