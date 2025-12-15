@@ -190,8 +190,6 @@ URL Ranks by DiscoPeligro.
     ],
     "VIP": [
         "El_CADEJO_SV",
-        "ShadowN01",
-        "c1geerzs",
         "BebecitaShey",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
