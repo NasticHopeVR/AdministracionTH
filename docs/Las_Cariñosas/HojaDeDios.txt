@@ -330,7 +330,8 @@ URL Ranks by DiscoPeligro.
         "Danielss8",
         "duckis",
         "SweetReze",
-        "......"
+        "Tango_wk",
+        "Faaka_vr"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
