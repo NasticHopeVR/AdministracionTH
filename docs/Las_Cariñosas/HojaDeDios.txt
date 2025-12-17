@@ -199,8 +199,6 @@ URL Ranks by DiscoPeligro.
         "_MimiPR_",
         "XionyxS",
         "Tamamo Yuki",
-        "Dan_Meza",
-        "TakoMura",
         "SugarLoliUwU",
         "CopycatPortal",
         "Diegomex 8f11",
@@ -241,7 +239,6 @@ URL Ranks by DiscoPeligro.
         "KaosKynG",
         "YuuCaliente19°",
         "Sanssha",
-        "༒I̴s̴h̴~0̴0̴7̴༒",
         "MoonSerein",
         "capitan_uron",
         "galogb204",
@@ -283,8 +280,6 @@ URL Ranks by DiscoPeligro.
         "JRaver",
         "Tamamo Yuki",
         "KΣIA ღ",
-        "ZooboxSan",
-        "Shyvanae",
         "TheDoctorSnake",
         "aperta",
         "Littlebunnyy19",
@@ -331,7 +326,8 @@ URL Ranks by DiscoPeligro.
         "duckis",
         "SweetReze",
         "Tango_wk",
-        "Faaka_vr"
+        "Faaka_vr",
+        "ＴＯＫＡＹＯ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
