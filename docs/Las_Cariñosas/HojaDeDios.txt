@@ -196,6 +196,7 @@ URL Ranks by DiscoPeligro.
         "Daiki Chikita",
         "Prototipo0121",
         "_MimiPR_",
+        "XionyxS",
         "Tamamo Yuki",
         "SugarLoliUwU",
         "CopycatPortal",
@@ -276,8 +277,6 @@ URL Ranks by DiscoPeligro.
         "Sebastián_M",
         "Rogerred1170",
         "JRaver",
-        "Tamamo Yuki",
-        "KΣIA ღ",
         "ZooboxSan",
         "Shyvanae",
         "TheDoctorSnake",
@@ -287,8 +286,6 @@ URL Ranks by DiscoPeligro.
         "Night-moon",
         "samantha2301",
         "iTeo_zz",
-        "Tamamo Yuki",
-        "rebe_76 754d",
         "EnzoNova",
         "ALEXMARIN",
         "Vanny77",
@@ -327,8 +324,7 @@ URL Ranks by DiscoPeligro.
         "SweetReze",
         "Tango_wk",
         "Faaka_vr",
-        "ＴＯＫＡＹＯ",
-        "en espera....***en espera....***en espera....***"
+        "ＴＯＫＡＹＯ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
