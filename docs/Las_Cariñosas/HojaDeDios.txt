@@ -324,8 +324,7 @@ URL Ranks by DiscoPeligro.
         "SweetReze",
         "Tango_wk",
         "Faaka_vr",
-        "ＴＯＫＡＹＯ",
-        "en espera....***en espera....***en espera....***"
+        "ＴＯＫＡＹＯ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
