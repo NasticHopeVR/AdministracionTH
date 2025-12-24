@@ -277,16 +277,9 @@ URL Ranks by DiscoPeligro.
         "Sebastián_M",
         "Rogerred1170",
         "JRaver",
-        "Tamamo Yuki",
-        "KΣIA ღ",
         "ZooboxSan",
         "Shyvanae",
-        "TheDoctorSnake",
-        "aperta",
-        "Littlebunnyy19",
         "marovimartin",
-        "Tamamo Yuki",
-        "rebe_76 754d",
         "EnzoNova",
         "ALEXMARIN",
         "Vanny77",
@@ -325,7 +318,9 @@ URL Ranks by DiscoPeligro.
         "SweetReze",
         "Tango_wk",
         "Faaka_vr",
-        "ＴＯＫＡＹＯ"
+        "ＴＯＫＡＹＯ",
+        "Awita de Melon",
+        "Kateshi000 8574"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
