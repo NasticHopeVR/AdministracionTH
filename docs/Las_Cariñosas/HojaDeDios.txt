@@ -323,7 +323,8 @@ URL Ranks by DiscoPeligro.
         "Kateshi000 8574",
         "AngelSq",
         "Teeete",
-        "kapita"
+        "kapita",
+        "dequer12"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
