@@ -320,7 +320,10 @@ URL Ranks by DiscoPeligro.
         "Faaka_vr",
         "ＴＯＫＡＹＯ",
         "Awita de Melon",
-        "Kateshi000 8574"
+        "Kateshi000 8574",
+        "AngelSq",
+        "Teeete",
+        "kapita"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
