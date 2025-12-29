@@ -323,7 +323,8 @@ URL Ranks by DiscoPeligro.
         "kapita",
         "dequer12",
         "V_Mercenary_",
-        "Juanxzart"
+        "Juanxzart",
+        "DarlingDai"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
