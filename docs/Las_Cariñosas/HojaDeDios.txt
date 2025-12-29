@@ -195,8 +195,6 @@ URL Ranks by DiscoPeligro.
         "ChrissVencha",
         "Daiki Chikita",
         "Prototipo0121",
-        "_MimiPR_",
-        "Luismi92",
         "Tamamo Yuki",
         "SugarLoliUwU",
         "CopycatPortal",
@@ -322,7 +320,8 @@ URL Ranks by DiscoPeligro.
         "Teeete",
         "kapita",
         "dequer12",
-        "V_Mercenary_"
+        "V_Mercenary_",
+        "Juanxzart"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
