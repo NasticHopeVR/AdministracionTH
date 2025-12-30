@@ -346,6 +346,7 @@ URL Ranks by DiscoPeligro.
         "cortis9",
         "ო Y A M I ო",
         "Pely Vega",
-        "Ruoben"
+        "Ruoben",
+        "LordRagnar"
     ]
 }
