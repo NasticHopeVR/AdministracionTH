@@ -189,7 +189,6 @@ URL Ranks by DiscoPeligro.
     ],
     "VIP": [
         "El_CADEJO_SV",
-        "BebecitaShey",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "ChrissVencha",
@@ -286,7 +285,6 @@ URL Ranks by DiscoPeligro.
         "Vanny77",
         "-RollBack-",
         "JavaBean123",
-        "Tvvtrymartin",
         "Ruoben",
         "PURIF1K",
         "MILI_69",
