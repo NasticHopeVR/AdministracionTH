@@ -325,7 +325,9 @@ URL Ranks by DiscoPeligro.
         "Juanxzart",
         "DarlingDai",
         "Sunday0",
-        "Darknessprinces"
+        "Darknessprinces",
+        "RoOaN_MaStEr",
+        "ivonnebabyy1 b20f"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
