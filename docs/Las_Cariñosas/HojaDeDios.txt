@@ -323,7 +323,8 @@ URL Ranks by DiscoPeligro.
         "V_Mercenary_",
         "Juanxzart",
         "DarlingDai",
-        "Sunday0"
+        "Sunday0",
+        "Darknessprinces"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
