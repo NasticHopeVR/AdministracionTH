@@ -71,7 +71,7 @@ URL Ranks by DiscoPeligro.
     ],
     "Dextro": [
         "Ƙυѕт",
-        "El Kyu",
+        "Rini_Clowny",
         "Karurus_Sღ",
         "Kevin GlezAnc",
         "IG XimenaGtz04",
@@ -197,6 +197,7 @@ URL Ranks by DiscoPeligro.
         "ChrissVencha",
         "Daiki Chikita",
         "Prototipo0121",
+        "John Wipe",
         "_MimiPR_",
         "Luismi92",
         "Tamamo Yuki",
