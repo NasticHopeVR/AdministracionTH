@@ -182,7 +182,8 @@ URL Ranks by DiscoPeligro.
         "Xiomis",
         "bunny02x",
         "AndreaAlejandra",
-        "LordRagnar"
+        "LordRagnar",
+        "samantha2301"
     ],
     "Icon": [
         "Icοn4500",
@@ -190,6 +191,7 @@ URL Ranks by DiscoPeligro.
     ],
     "VIP": [
         "El_CADEJO_SV",
+        "BebecitaShey",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "ChrissVencha",
@@ -323,10 +325,12 @@ URL Ranks by DiscoPeligro.
         "V_Mercenary_",
         "Juanxzart",
         "DarlingDai",
+        "Poopluser192",
         "Sunday0",
         "Darknessprinces",
         "RoOaN_MaStEr",
-        "ivonnebabyy1 b20f"
+        "ivonnebabyy1 b20f",
+        "kami․in․sky"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
@@ -345,6 +349,9 @@ URL Ranks by DiscoPeligro.
         "Elalcarazz",
         "cortis9",
         "ო Y A M I ო",
-        "Pely Vega"
+        "Pely Vega",
+        "Ruoben",
+        "LordRagnar",
+        "PURIF1K"
     ]
 }
