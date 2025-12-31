@@ -329,7 +329,8 @@ URL Ranks by DiscoPeligro.
         "Sunday0",
         "Darknessprinces",
         "RoOaN_MaStEr",
-        "ivonnebabyy1 b20f"
+        "ivonnebabyy1 b20f",
+        "kami․in․sky"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
