@@ -183,7 +183,8 @@ URL Ranks by DiscoPeligro.
         "bunny02x",
         "AndreaAlejandra",
         "LordRagnar",
-        "samantha2301"
+        "samantha2301",
+        "biliustick48"
     ],
     "Icon": [
         "Icοn4500",
@@ -239,8 +240,6 @@ URL Ranks by DiscoPeligro.
         "KaosKynG",
         "YuuCaliente19°",
         "Sanssha",
-        "MoonSerein",
-        "capitan_uron",
         "galogb204",
         "Matabots",
         "ᴋɪᴅᴀ_ʟʏs22",
@@ -331,7 +330,8 @@ URL Ranks by DiscoPeligro.
         "Darknessprinces",
         "RoOaN_MaStEr",
         "ivonnebabyy1 b20f",
-        "kami․in․sky"
+        "kami․in․sky",
+        "7ssCleyber"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
