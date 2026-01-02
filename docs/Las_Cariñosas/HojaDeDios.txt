@@ -329,7 +329,10 @@ URL Ranks by DiscoPeligro.
         "RoOaN_MaStEr",
         "ivonnebabyy1 b20f",
         "kami․in․sky",
-        "7ssCleyber"
+        "7ssCleyber",
+        "₩Arkangel₩",
+        "ᴘᴜʀɪ́ɴ",
+        "Rina_Grl"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
