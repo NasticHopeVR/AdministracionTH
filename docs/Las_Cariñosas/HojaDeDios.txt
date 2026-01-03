@@ -287,9 +287,6 @@ URL Ranks by DiscoPeligro.
         "Vanny77",
         "-RollBack-",
         "JavaBean123",
-        "Ruoben",
-        "PURIF1K",
-        "MILI_69",
         "لØセ₳_M̶B̶",
         "HQuinn96",
         "Akita Neru〆",
@@ -322,6 +319,9 @@ URL Ranks by DiscoPeligro.
         "Teeete",
         "kapita",
         "dequer12",
+        "Tapia135777",
+        "YojanR1501",
+        "elite442",
         "V_Mercenary_",
         "Juanxzart",
         "DarlingDai",
@@ -331,7 +331,10 @@ URL Ranks by DiscoPeligro.
         "RoOaN_MaStEr",
         "ivonnebabyy1 b20f",
         "kami․in․sky",
-        "7ssCleyber"
+        "7ssCleyber",
+        "₩Arkangel₩",
+        "ᴘᴜʀɪ́ɴ",
+        "Rina_Grl"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
