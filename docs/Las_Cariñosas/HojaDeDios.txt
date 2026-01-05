@@ -336,11 +336,6 @@ URL Ranks by DiscoPeligro.
         "Pely Vega",
         "Ruoben",
         "LordRagnar",
-        "PURIF1K",
-        "Lord_Zonuax",
-        "Soso 2020",
-        "DoLaRnEiToR_15",
-        "Prototipo0121",
-        "John Wipe"
+        "PURIF1K"
     ]
 }
