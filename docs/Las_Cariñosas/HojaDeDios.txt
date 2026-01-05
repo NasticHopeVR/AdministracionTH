@@ -191,6 +191,13 @@ URL Ranks by DiscoPeligro.
         "Icοn4500",
         "karу"
     ],
+    "AntiSocialClub": [
+        "MithZh",
+        "¿RED X?",
+        "TONGU007",
+        "LilMeb",
+        "Deadfairy360"
+    ],
     "VIP": [
         "El_CADEJO_SV",
         "BebecitaShey",
