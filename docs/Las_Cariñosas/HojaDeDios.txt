@@ -88,7 +88,8 @@ URL Ranks by DiscoPeligro.
         "Mαятιи_MxVr",
         "RohandrileVR",
         "graygrace",
-        "ƝƛƓȺ★ƑʘɌȾ"
+        "ƝƛƓȺ★ƑʘɌȾ",
+        "Dadow"
     ],
     "JokerCircus": [
         "JokerStein",
