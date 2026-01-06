@@ -90,7 +90,8 @@ URL Ranks by DiscoPeligro.
         "graygrace",
         "ƝƛƓȺ★ƑʘɌȾ",
         "Dadow",
-        "ImVxc"
+        "ImVxc",
+        "NiquinPRO"
     ],
     "JokerCircus": [
         "JokerStein",
