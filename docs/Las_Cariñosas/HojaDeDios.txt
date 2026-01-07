@@ -29,7 +29,7 @@ URL Ranks by DiscoPeligro.
         "༒d̷a̷r̷i̷1̷8̷༒",
         "SweetMochi0",
         "ISLA DEL PECADO",
-        "naelvl3",
+        "NΛΣŁ",
         "Houltler"
     ],
     "MonsterMusume": [
