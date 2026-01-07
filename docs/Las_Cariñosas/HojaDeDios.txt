@@ -71,7 +71,6 @@ URL Ranks by DiscoPeligro.
     ],
     "Dextro": [
         "Ƙυѕт",
-        "Rini_Clowny",
         "Karurus_Sღ",
         "Kevin GlezAnc",
         "IG XimenaGtz04",
@@ -264,8 +263,6 @@ URL Ranks by DiscoPeligro.
         "berna mow",
         "DarkBloomm",
         "Ricanmami",
-        "Violet Himiko",
-        "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
         "༒ Vᴇɴᴜs ༒",
         "CindyMღon",
@@ -332,7 +329,8 @@ URL Ranks by DiscoPeligro.
         "7ssCleyber",
         "₩Arkangel₩",
         "ᴘᴜʀɪ́ɴ",
-        "Rina_Grl"
+        "Rina_Grl",
+        "Sanssha"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
