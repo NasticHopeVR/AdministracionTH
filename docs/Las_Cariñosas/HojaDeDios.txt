@@ -330,7 +330,8 @@ URL Ranks by DiscoPeligro.
         "₩Arkangel₩",
         "ᴘᴜʀɪ́ɴ",
         "Rina_Grl",
-        "Sanssha"
+        "Sanssha",
+        "LenaaTenshi"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
