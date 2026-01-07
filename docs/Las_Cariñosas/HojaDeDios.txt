@@ -71,7 +71,6 @@ URL Ranks by DiscoPeligro.
     ],
     "Dextro": [
         "Ƙυѕт",
-        "Rini_Clowny",
         "Karurus_Sღ",
         "Kevin GlezAnc",
         "IG XimenaGtz04",
@@ -332,7 +331,9 @@ URL Ranks by DiscoPeligro.
         "7ssCleyber",
         "₩Arkangel₩",
         "ᴘᴜʀɪ́ɴ",
-        "Rina_Grl"
+        "Rina_Grl",
+        "Sanssha",
+        "LenaaTenshi"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
