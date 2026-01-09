@@ -119,7 +119,6 @@ URL Ranks by DiscoPeligro.
         "_Viscochin_",
         "Shirou1711",
         "Roxytooty",
-        "ღItzkanaeღ",
         "OsitoPauPau",
         "sabaxius",
         "Soy Gio",
@@ -134,7 +133,6 @@ URL Ranks by DiscoPeligro.
         "ღEquiღ",
         "Seruly",
         "D O V Ē",
-        "ღ Mizuki ღ",
         "MaurixG",
         "ʚɞ sᴇx ᴅᴇsɪʀᴇ"
     ],
