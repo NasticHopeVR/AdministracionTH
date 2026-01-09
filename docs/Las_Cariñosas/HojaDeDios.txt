@@ -91,7 +91,8 @@ URL Ranks by DiscoPeligro.
         "ƝƛƓȺ★ƑʘɌȾ",
         "Dadow",
         "ImVxc",
-        "NiquinPRO"
+        "NiquinPRO",
+        "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ"
     ],
     "JokerCircus": [
         "JokerStein",
