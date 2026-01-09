@@ -329,7 +329,9 @@ URL Ranks by DiscoPeligro.
         "ᴘᴜʀɪ́ɴ",
         "Rina_Grl",
         "Sanssha",
-        "LenaaTenshi"
+        "LenaaTenshi",
+        "El Ceron",
+        "Loysss"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
