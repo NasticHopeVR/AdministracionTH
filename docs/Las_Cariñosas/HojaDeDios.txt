@@ -197,7 +197,8 @@ URL Ranks by DiscoPeligro.
         "¿RED X?",
         "TONGU007",
         "LilMeb",
-        "Deadfairy360"
+        "Deadfairy360",
+        "CriticalKiller"
     ],
     "VIP": [
         "El_CADEJO_SV",
