@@ -328,7 +328,9 @@ URL Ranks by DiscoPeligro.
         "LenaaTenshi",
         "El Ceron",
         "Loysss",
-        "WolfJhon"
+        "WolfJhon",
+        "Six007",
+        "Zarzamora24"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
