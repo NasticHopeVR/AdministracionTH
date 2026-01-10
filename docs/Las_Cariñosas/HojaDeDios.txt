@@ -104,11 +104,11 @@ URL Ranks by DiscoPeligro.
         "Naim Ulloa",
         "KirikuVT",
         "Amurysse",
-        "RocketSaul"
+        "RocketSaul",
+        "Cuervito_"
     ],
     "Bonice": [
         "Brandynauta",
-        "Cuervito_",
         "sara_dj03"
     ],
     "DancerCapitan": [
