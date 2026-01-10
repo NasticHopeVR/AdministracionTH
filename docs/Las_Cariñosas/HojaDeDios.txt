@@ -205,8 +205,6 @@ URL Ranks by DiscoPeligro.
         "BebecitaShey",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
-        "ChrissVencha",
-        "Daiki Chikita",
         "Prototipo0121",
         "John Wipe",
         "_MimiPR_",
@@ -290,8 +288,6 @@ URL Ranks by DiscoPeligro.
         "Josuewe",
         "Ryoya_Hanasaki",
         "KΣIA ღ",
-        "Alexis11ninja",
-        "Deadfairy360",
         "Nozxy",
         "xXyz_luisXx",
         "tr0y4n0Ҳ",
@@ -331,7 +327,8 @@ URL Ranks by DiscoPeligro.
         "Sanssha",
         "LenaaTenshi",
         "El Ceron",
-        "Loysss"
+        "Loysss",
+        "WolfJhon"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
