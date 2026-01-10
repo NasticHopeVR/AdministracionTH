@@ -104,11 +104,11 @@ URL Ranks by DiscoPeligro.
         "Naim Ulloa",
         "KirikuVT",
         "Amurysse",
-        "RocketSaul"
+        "RocketSaul",
+        "Cuervito_"
     ],
     "Bonice": [
         "Brandynauta",
-        "Cuervito_",
         "sara_dj03"
     ],
     "DancerCapitan": [
@@ -197,15 +197,14 @@ URL Ranks by DiscoPeligro.
         "¿RED X?",
         "TONGU007",
         "LilMeb",
-        "Deadfairy360"
+        "Deadfairy360",
+        "CriticalKiller"
     ],
     "VIP": [
         "El_CADEJO_SV",
         "BebecitaShey",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
-        "ChrissVencha",
-        "Daiki Chikita",
         "Prototipo0121",
         "John Wipe",
         "_MimiPR_",
@@ -289,8 +288,6 @@ URL Ranks by DiscoPeligro.
         "Josuewe",
         "Ryoya_Hanasaki",
         "KΣIA ღ",
-        "Alexis11ninja",
-        "Deadfairy360",
         "Nozxy",
         "xXyz_luisXx",
         "tr0y4n0Ҳ",
@@ -330,7 +327,10 @@ URL Ranks by DiscoPeligro.
         "Sanssha",
         "LenaaTenshi",
         "El Ceron",
-        "Loysss"
+        "Loysss",
+        "WolfJhon",
+        "Six007",
+        "Zarzamora24"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
