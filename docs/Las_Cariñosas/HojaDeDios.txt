@@ -327,7 +327,8 @@ URL Ranks by DiscoPeligro.
         "CataWalker",
         "Six007",
         "Zarzamora24",
-        "Erika01"
+        "Erika01",
+        "SCrifer"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
