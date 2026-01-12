@@ -78,8 +78,7 @@ URL Ranks by DiscoPeligro.
         "TAILINGXA",
         "iTeo_zz",
         "Dilocc",
-        "Gormi1",
-        "yamiyamero"
+        "Rini_Clowny"
     ],
     "Mod": [
         "Uni ウサギ",
