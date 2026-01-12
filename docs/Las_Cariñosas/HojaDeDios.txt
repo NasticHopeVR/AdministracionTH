@@ -323,7 +323,8 @@ URL Ranks by DiscoPeligro.
         "Six007",
         "Zarzamora24",
         "Erika01",
-        "SCrifer"
+        "SCrifer",
+        "Tsugikuni1"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
