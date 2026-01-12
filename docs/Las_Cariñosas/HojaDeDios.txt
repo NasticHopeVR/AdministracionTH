@@ -324,7 +324,10 @@ URL Ranks by DiscoPeligro.
         "Zarzamora24",
         "Erika01",
         "SCrifer",
-        "Tsugikuni1"
+        "Tsugikuni1",
+        "blackheartdead",
+        "LexiStar115",
+        "ItsKyokaツ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
