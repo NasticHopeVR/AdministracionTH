@@ -328,7 +328,9 @@ URL Ranks by DiscoPeligro.
         "Tsugikuni1",
         "blackheartdead",
         "LexiStar115",
-        "ItsKyokaツ"
+        "ItsKyokaツ",
+        "Majestad",
+        "jc_jaime f84f"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
