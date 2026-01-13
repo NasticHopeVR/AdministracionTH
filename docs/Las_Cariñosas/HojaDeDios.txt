@@ -330,7 +330,8 @@ URL Ranks by DiscoPeligro.
         "LexiStar115",
         "ItsKyokaツ",
         "Majestad",
-        "jc_jaime f84f"
+        "jc_jaime f84f",
+        "tes"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
