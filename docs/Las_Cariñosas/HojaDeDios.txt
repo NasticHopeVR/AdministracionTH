@@ -78,8 +78,7 @@ URL Ranks by DiscoPeligro.
         "TAILINGXA",
         "iTeo_zz",
         "Dilocc",
-        "Gormi1",
-        "yamiyamero"
+        "Rini_Clowny"
     ],
     "Mod": [
         "Uni ウサギ",
@@ -289,10 +288,6 @@ URL Ranks by DiscoPeligro.
         "Aoi Kitsune",
         "frelex01",
         "riccu",
-        "Daku_KamiFemboy",
-        "DrFarras",
-        "Danielss8_VR",
-        "duckis",
         "SweetReze",
         "Tango_wk",
         "Faaka_vr",
@@ -328,7 +323,11 @@ URL Ranks by DiscoPeligro.
         "Six007",
         "Zarzamora24",
         "Erika01",
-        "SCrifer"
+        "SCrifer",
+        "Tsugikuni1",
+        "blackheartdead",
+        "LexiStar115",
+        "ItsKyokaツ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
