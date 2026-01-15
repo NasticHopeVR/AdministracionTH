@@ -329,7 +329,8 @@ URL Ranks by DiscoPeligro.
         "Majestad",
         "jc_jaime f84f",
         "rebe_76 754d",
-        "KΣIA ღ"
+        "KΣIA ღ",
+        "Jason3D7w7"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
