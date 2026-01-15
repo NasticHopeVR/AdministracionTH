@@ -330,7 +330,8 @@ URL Ranks by DiscoPeligro.
         "jc_jaime f84f",
         "rebe_76 754d",
         "KΣIA ღ",
-        "Jason3D7w7"
+        "Jason3D7w7",
+        "_PetroleroVT_"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
