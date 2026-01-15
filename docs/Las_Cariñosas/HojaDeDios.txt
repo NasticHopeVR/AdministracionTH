@@ -328,7 +328,8 @@ URL Ranks by DiscoPeligro.
         "ItsKyokaツ",
         "Majestad",
         "jc_jaime f84f",
-        "rebe_76 754d"
+        "rebe_76 754d",
+        "KΣIA ღ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
