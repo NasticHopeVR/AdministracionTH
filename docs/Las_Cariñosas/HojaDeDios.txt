@@ -258,8 +258,6 @@ URL Ranks by DiscoPeligro.
         "sweetzeromx",
         "NiquinPRO",
         "EstafiGamerMeta 21d6",
-        "berna mow",
-        "BebecitaShey",
         "Violet Himiko",
         "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
@@ -289,7 +287,6 @@ URL Ranks by DiscoPeligro.
         "Daku_KamiFemboy",
         "DrFarras",
         "Danielss8_VR",
-        "LadyBoom9",
         "Tango_wk",
         "Faaka_vr",
         "ＴＯＫＡＹＯ",
@@ -330,7 +327,11 @@ URL Ranks by DiscoPeligro.
         "LexiStar115",
         "ItsKyokaツ",
         "Majestad",
-        "jc_jaime f84f"
+        "jc_jaime f84f",
+        "rebe_76 754d",
+        "KΣIA ღ",
+        "Jason3D7w7",
+        "_PetroleroVT_"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
