@@ -331,7 +331,8 @@ URL Ranks by DiscoPeligro.
         "rebe_76 754d",
         "KΣIA ღ",
         "Jason3D7w7",
-        "_PetroleroVT_"
+        "_PetroleroVT_",
+        "IamZegion"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
