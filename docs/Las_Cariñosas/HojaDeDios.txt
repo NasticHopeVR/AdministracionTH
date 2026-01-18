@@ -333,7 +333,9 @@ URL Ranks by DiscoPeligro.
         "KΣIA ღ",
         "Jason3D7w7",
         "_PetroleroVT_",
-        "IamZegion"
+        "IamZegion",
+        "Rogerred1170",
+        "JRaver"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
