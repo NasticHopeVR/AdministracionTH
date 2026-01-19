@@ -91,7 +91,8 @@ URL Ranks by DiscoPeligro.
         "Dadow",
         "ImVxc",
         "NiquinPRO",
-        "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ"
+        "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
+        "CriticalKiller"
     ],
     "JokerCircus": [
         "JokerStein",
@@ -196,8 +197,7 @@ URL Ranks by DiscoPeligro.
         "¿RED X?",
         "TONGU007",
         "LilMeb",
-        "Deadfairy360",
-        "CriticalKiller"
+        "Deadfairy360"
     ],
     "VIP": [
         "El_CADEJO_SV",
