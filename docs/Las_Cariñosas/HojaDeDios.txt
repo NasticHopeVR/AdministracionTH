@@ -271,7 +271,6 @@ URL Ranks by DiscoPeligro.
         "TheDoctorSnake",
         "aperta",
         "Littlebunnyy19",
-        "marovimartin",
         "Vanny77",
         "-RollBack-",
         "JavaBean123",
@@ -334,7 +333,9 @@ URL Ranks by DiscoPeligro.
         "_PetroleroVT_",
         "IamZegion",
         "Rogerred1170",
-        "JRaver"
+        "JRaver",
+        "Luismi92",
+        "SrCuatro"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
