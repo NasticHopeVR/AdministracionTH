@@ -196,7 +196,8 @@ URL Ranks by DiscoPeligro.
         "¿RED X?",
         "TONGU007",
         "LilMeb",
-        "Deadfairy360"
+        "Deadfairy360",
+        "¿? Pato ¿?"
     ],
     "VIP": [
         "El_CADEJO_SV",
@@ -248,7 +249,6 @@ URL Ranks by DiscoPeligro.
         "GERMAN002",
         "GREAT_ONE",
         "ღྉAquileswolfྉღ",
-        "ღྉмєiྉღ",
         "XoX_Ashley_XoX",
         "ｱﾑｱﾑｷ尺ﾉｲﾑ",
         "XxX_Alexa_XxX",
@@ -271,6 +271,7 @@ URL Ranks by DiscoPeligro.
         "TheDoctorSnake",
         "aperta",
         "Littlebunnyy19",
+        "marovimartin",
         "Vanny77",
         "-RollBack-",
         "JavaBean123",
