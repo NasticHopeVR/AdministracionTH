@@ -335,7 +335,9 @@ URL Ranks by DiscoPeligro.
         "Rogerred1170",
         "JRaver",
         "Luismi92",
-        "SrCuatro"
+        "SrCuatro",
+        "AndreaAlejandra",
+        "-Marcyy-"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
