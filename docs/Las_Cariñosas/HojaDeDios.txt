@@ -337,7 +337,8 @@ URL Ranks by DiscoPeligro.
         "Luismi92",
         "SrCuatro",
         "AndreaAlejandra",
-        "-Marcyy-"
+        "-Marcyy-",
+        "tes"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
