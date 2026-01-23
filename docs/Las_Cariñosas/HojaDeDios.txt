@@ -248,6 +248,7 @@ URL Ranks by DiscoPeligro.
         "GERMAN002",
         "GREAT_ONE",
         "ღྉAquileswolfྉღ",
+        "ღྉмєiྉღ",
         "XoX_Ashley_XoX",
         "ｱﾑｱﾑｷ尺ﾉｲﾑ",
         "XxX_Alexa_XxX",
@@ -291,6 +292,9 @@ URL Ranks by DiscoPeligro.
         "ＴＯＫＡＹＯ",
         "Awita de Melon",
         "Kateshi000 8574",
+        "AngelSq",
+        "Teeete",
+        "kapita",
         "dequer12",
         "Tapia135777",
         "YojanR1501",
@@ -332,7 +336,9 @@ URL Ranks by DiscoPeligro.
         "Rogerred1170",
         "JRaver",
         "Luismi92",
-        "SrCuatro"
+        "SrCuatro",
+        "AndreaAlejandra",
+        "-Marcyy-"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
