@@ -34,14 +34,16 @@ URL Ranks by DiscoPeligro.
         "ღᴋᴀᴍɪᴍɪ",
         "misi-quest",
         "Pamelachuu",
-        "ReikaVermysthra"
+        "ReikaVermysthra",
+        "EnzoNova"
     ],
     "DJ": [
         "VACIOaaaaaaaaa"
     ],
     "ManagerDancer": [
         "konflakes_",
-        "ღItzAkaneღ"
+        "ღItzAkaneღ",
+        "RocketSaul"
     ],
     "Seguridad": [
         "༒d̷a̷r̷i̷1̷8̷༒",
@@ -76,27 +78,22 @@ URL Ranks by DiscoPeligro.
         "๛Ryu๛",
         "tori_cole",
         "DEVILZOO_",
-        "Aurelian796"
+        "Aurelian796",
+        "GideonToffu"
     ],
     "VIP": [
-        "LaNubi23",
-        "Tommy1313",
-        "c1geerzs",
+        "ღKookie",
         "GREAT_ONE",
-        "SyxzZ__",
-        "Abyrys3",
-        "SofiiStoormy",
         "TuTioElUrgido",
         "LenaaTenshi"
     ],
     "Partner": [
         "Mo0nlii",
-        "Likelyz",
-        "ᴄ ʜ ᴀ ʀ ʟ ᴇ s 亗",
-        "ღ N O X Y ღ",
+        "Kanekey",
+        "saddie420",
         "Edielღ༒",
         "wgoodnightw",
-        "c1geerzs",
+        "ღKookie",
         "Akihide",
         "armelon",
         "ivannanana",
