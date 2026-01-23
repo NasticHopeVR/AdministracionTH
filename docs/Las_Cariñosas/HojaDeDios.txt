@@ -301,8 +301,7 @@ URL Ranks by DiscoPeligro.
         "Luismi92",
         "SrCuatro",
         "AndreaAlejandra",
-        "-Marcyy-",
-        "Nastic"
+        "-Marcyy-"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
