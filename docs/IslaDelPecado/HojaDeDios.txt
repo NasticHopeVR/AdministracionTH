@@ -86,8 +86,6 @@ URL Ranks by DiscoPeligro.
         "Tommy1313",
         "ღKookie",
         "GREAT_ONE",
-        "TuTioElUrgido",
-        "LenaaTenshi",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "ღ̴N̴u̴g̴g̴e̴t̴ღ"
     ],
