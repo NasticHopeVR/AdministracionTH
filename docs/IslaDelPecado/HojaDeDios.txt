@@ -87,7 +87,9 @@ URL Ranks by DiscoPeligro.
         "ღKookie",
         "GREAT_ONE",
         "TuTioElUrgido",
-        "LenaaTenshi"
+        "LenaaTenshi",
+        "༒d̷a̷r̷i̷1̷8̷༒",
+        "ღ̴N̴u̴g̴g̴e̴t̴ღ"
     ],
     "Partner": [
         "Mo0nlii",
