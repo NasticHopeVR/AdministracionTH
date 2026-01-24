@@ -82,6 +82,8 @@ URL Ranks by DiscoPeligro.
         "GideonToffu"
     ],
     "VIP": [
+        "LaNubi23",
+        "Tommy1313",
         "ღKookie",
         "GREAT_ONE",
         "TuTioElUrgido",
