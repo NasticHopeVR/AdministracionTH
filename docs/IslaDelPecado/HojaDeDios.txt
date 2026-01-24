@@ -90,9 +90,6 @@ URL Ranks by DiscoPeligro.
         "ღ̴N̴u̴g̴g̴e̴t̴ღ"
     ],
     "Partner": [
-        "Mo0nlii",
-        "Kanekey",
-        "saddie420",
         "Edielღ༒",
         "wgoodnightw",
         "ღKookie",
