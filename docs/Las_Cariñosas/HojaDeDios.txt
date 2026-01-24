@@ -149,7 +149,8 @@ URL Ranks by DiscoPeligro.
         "LordRagnar",
         "samantha2301",
         "biliustick48",
-        "-Wing-"
+        "-Wing-",
+        "ɪᴛᴢᴜɴʏ ®"
     ],
     "Icon": [
         "Icοn4500",
