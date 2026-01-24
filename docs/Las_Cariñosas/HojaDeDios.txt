@@ -148,7 +148,8 @@ URL Ranks by DiscoPeligro.
         "AndreaAlejandra",
         "LordRagnar",
         "samantha2301",
-        "biliustick48"
+        "biliustick48",
+        "-Wing-"
     ],
     "Icon": [
         "Icοn4500",
@@ -231,9 +232,6 @@ URL Ranks by DiscoPeligro.
         "ZeroPositivo",
         "ZooboxSan",
         "Shyvanae",
-        "TheDoctorSnake",
-        "aperta",
-        "Littlebunnyy19",
         "marovimartin",
         "Vanny77",
         "-RollBack-",
@@ -253,8 +251,6 @@ URL Ranks by DiscoPeligro.
         "Danielss8_VR",
         "LadyBoom9",
         "ＴＯＫＡＹＯ",
-        "Awita de Melon",
-        "Kateshi000 8574",
         "AngelSq",
         "Teeete",
         "kapita",
@@ -262,7 +258,6 @@ URL Ranks by DiscoPeligro.
         "Tapia135777",
         "YojanR1501",
         "elite442",
-        "V_Mercenary_",
         "Juanxzart",
         "DarlingDai",
         "Poopluser192",
