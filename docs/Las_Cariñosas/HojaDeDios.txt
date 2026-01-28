@@ -181,7 +181,6 @@ URL Ranks by DiscoPeligro.
         "DEVILZOO_",
         "L3LE",
         "_Viscochin_",
-        "Roxytooty",
         "ilimusa",
         "࿇-S͓̽uu͓̽Ji-࿇",
         "ＴＯＫＡＹＯ",
@@ -299,8 +298,7 @@ URL Ranks by DiscoPeligro.
         "Delicattia",
         "Imseett",
         "sg_1464",
-        "_Viscochin_",
-        "Roxytooty"
+        "_Viscochin_"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
