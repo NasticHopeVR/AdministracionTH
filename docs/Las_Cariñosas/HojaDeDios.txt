@@ -297,8 +297,7 @@ URL Ranks by DiscoPeligro.
         "soyDaddyVR",
         "Delicattia",
         "Imseett",
-        "sg_1464",
-        "_Viscochin_"
+        "sg_1464"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
