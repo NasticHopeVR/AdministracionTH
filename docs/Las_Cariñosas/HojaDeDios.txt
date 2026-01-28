@@ -149,7 +149,8 @@ URL Ranks by DiscoPeligro.
         "samantha2301",
         "biliustick48",
         "-Wing-",
-        "ɪᴛᴢᴜɴʏ ®"
+        "ɪᴛᴢᴜɴʏ ®",
+        "Bollito_Sx"
     ],
     "Icon": [
         "Icοn4500",
@@ -180,7 +181,6 @@ URL Ranks by DiscoPeligro.
         "DEVILZOO_",
         "L3LE",
         "_Viscochin_",
-        "Roxytooty",
         "ilimusa",
         "࿇-S͓̽uu͓̽Ji-࿇",
         "ＴＯＫＡＹＯ",
@@ -188,8 +188,6 @@ URL Ranks by DiscoPeligro.
         "AG TrinalGore54",
         "inniedum",
         "VEПDEƬƬΛ",
-        "-Yggdrasil",
-        "︶ M i t s u ︶",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "ＴＯＫＡＹＯ",
@@ -200,7 +198,6 @@ URL Ranks by DiscoPeligro.
         "SeleNix",
         "Alliebearcx",
         "Nаru",
-        "mrbb88",
         "KaosKynG",
         "YuuCaliente19°",
         "Sanssha",
@@ -296,7 +293,11 @@ URL Ranks by DiscoPeligro.
         "Luismi92",
         "SrCuatro",
         "AndreaAlejandra",
-        "-Marcyy-"
+        "-Marcyy-",
+        "soyDaddyVR",
+        "Delicattia",
+        "Imseett",
+        "sg_1464"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
