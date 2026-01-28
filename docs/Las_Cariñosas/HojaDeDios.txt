@@ -189,8 +189,6 @@ URL Ranks by DiscoPeligro.
         "AG TrinalGore54",
         "inniedum",
         "VEПDEƬƬΛ",
-        "-Yggdrasil",
-        "︶ M i t s u ︶",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "ＴＯＫＡＹＯ",
@@ -226,6 +224,8 @@ URL Ranks by DiscoPeligro.
         "ucranianalive_",
         "Violet Himiko",
         "ᴵᵛᵃʳᵘᵛ",
+        "༒ Neptune ༒",
+        "༒ Vᴇɴᴜs ༒",
         "CindyMღon",
         "Dღpamina",
         "ZeroPositivo",
@@ -298,7 +298,9 @@ URL Ranks by DiscoPeligro.
         "soyDaddyVR",
         "Delicattia",
         "Imseett",
-        "sg_1464"
+        "sg_1464",
+        "_Viscochin_",
+        "Roxytooty"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
