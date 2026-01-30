@@ -54,7 +54,8 @@ URL Ranks by DiscoPeligro.
         "ImVxc",
         "NiquinPRO",
         "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
-        "CriticalKiller"
+        "CriticalKiller",
+        "ParzivalOkazaki"
     ],
     "JokerCircus": [
         "JokerStein",
@@ -166,7 +167,6 @@ URL Ranks by DiscoPeligro.
     ],
     "VIP": [
         "El_CADEJO_SV",
-        "BebecitaShey",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "Prototipo0121",
@@ -234,7 +234,6 @@ URL Ranks by DiscoPeligro.
         "marovimartin",
         "Vanny77",
         "-RollBack-",
-        "JavaBean123",
         "لØセ₳_M̶B̶",
         "HQuinn96",
         "Akita Neru〆",
@@ -254,9 +253,7 @@ URL Ranks by DiscoPeligro.
         "Teeete",
         "kapita",
         "Juanxzart",
-        "Sunday0",
         "Darknessprinces",
-        "RoOaN_MaStEr",
         "kami․in․sky",
         "7ssCleyber",
         "Ashura6612",
