@@ -297,7 +297,9 @@ URL Ranks by DiscoPeligro.
         "Tapia135777",
         "YojanR1501",
         "elite442",
-        "hakunamatata93"
+        "hakunamatata93",
+        "XxSoyXivaxX",
+        "かStarSmøkeか"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
