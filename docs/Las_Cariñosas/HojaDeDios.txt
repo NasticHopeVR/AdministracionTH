@@ -167,6 +167,7 @@ URL Ranks by DiscoPeligro.
     ],
     "VIP": [
         "El_CADEJO_SV",
+        "BebecitaShey",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "Prototipo0121",
@@ -295,7 +296,8 @@ URL Ranks by DiscoPeligro.
         "dequer12",
         "Tapia135777",
         "YojanR1501",
-        "elite442"
+        "elite442",
+        "hakunamatata93"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
