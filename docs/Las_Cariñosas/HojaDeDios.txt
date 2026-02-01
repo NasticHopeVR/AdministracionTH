@@ -287,7 +287,8 @@ URL Ranks by DiscoPeligro.
         "elite442",
         "hakunamatata93",
         "XxSoyXivaxX",
-        "かStarSmøkeか"
+        "かStarSmøkeか",
+        "FrankTM"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
