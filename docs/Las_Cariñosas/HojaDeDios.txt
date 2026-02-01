@@ -288,7 +288,9 @@ URL Ranks by DiscoPeligro.
         "hakunamatata93",
         "XxSoyXivaxX",
         "かStarSmøkeか",
-        "FrankTM"
+        "FrankTM",
+        "aSeraku",
+        "ItsHosh 星"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
