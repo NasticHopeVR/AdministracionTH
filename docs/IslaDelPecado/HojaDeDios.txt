@@ -35,7 +35,9 @@ URL Ranks by DiscoPeligro.
         "misi-quest",
         "Pamelachuu",
         "ReikaVermysthra",
-        "EnzoNova"
+        "EnzoNova",
+        "Hekkah",
+        "kfezito"
     ],
     "DJ": [
         "VACIOaaaaaaaaa"
