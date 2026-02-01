@@ -157,14 +157,6 @@ URL Ranks by DiscoPeligro.
         "Icοn4500",
         "karу"
     ],
-    "AntiSocialClub": [
-        "MithZh",
-        "¿RED X?",
-        "TONGU007",
-        "LilMeb",
-        "Deadfairy360",
-        "¿? Pato ¿?"
-    ],
     "VIP": [
         "El_CADEJO_SV",
         "BebecitaShey",
@@ -191,8 +183,6 @@ URL Ranks by DiscoPeligro.
         "ო Y A M I ო",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
-        "Karurus_Sღ",
-        "LEA_Kღ",
         "Dulcecоmocandy",
         "SeleNix",
         "Alliebearcx",
@@ -223,8 +213,6 @@ URL Ranks by DiscoPeligro.
         "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
         "༒ Vᴇɴᴜs ༒",
-        "CindyMღon",
-        "Dღpamina",
         "ZeroPositivo",
         "ZooboxSan",
         "Shyvanae",
@@ -258,7 +246,6 @@ URL Ranks by DiscoPeligro.
         "Elena_PR_0341",
         "RoOaN_MaStEr",
         "kami․in․sky",
-        "7ssCleyber",
         "Ashura6612",
         "ᴘᴜʀɪ́ɴ",
         "Mitsuki_0",
