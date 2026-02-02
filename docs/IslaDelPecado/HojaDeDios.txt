@@ -94,7 +94,9 @@ URL Ranks by DiscoPeligro.
         "coquito02",
         "AndreaAlejandra",
         "Shirou1711",
-        "YovisPoro"
+        "YovisPoro",
+        "Kyokaツ",
+        "blackheartdead"
     ],
     "Partner": [
         "Edielღ༒",
