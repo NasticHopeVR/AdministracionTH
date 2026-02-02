@@ -301,6 +301,10 @@ URL Ranks by DiscoPeligro.
         "cortis9",
         "ო Y A M I ო",
         "Pely Vega",
-        "ＴＯＫＡＹＯ"
+        "ari․33",
+        "DJ CEVICHE",
+        "duckis",
+        "Darect",
+        "Sofi-Sticada"
     ]
 }
