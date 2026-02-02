@@ -93,7 +93,11 @@ URL Ranks by DiscoPeligro.
         "Rickills24",
         "coquito02",
         "AndreaAlejandra",
-        "Shirou1711"
+        "Shirou1711",
+        "YovisPoro",
+        "Kyokaツ",
+        "blackheartdead",
+        "NaranjitaACN"
     ],
     "Partner": [
         "Edielღ༒",

@@ -54,7 +54,6 @@ URL Ranks by DiscoPeligro.
         "ImVxc",
         "NiquinPRO",
         "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
-        "CriticalKiller",
         "ParzivalOkazaki",
         "MithZh"
     ],
