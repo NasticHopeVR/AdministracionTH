@@ -300,9 +300,6 @@ URL Ranks by DiscoPeligro.
         "ALCARAZZ",
         "cortis9",
         "ო Y A M I ო",
-        "Pely Vega",
-        "Ruoben",
-        "LordRagnar",
-        "PURIF1K"
+        "Pely Vega"
     ]
 }
