@@ -99,13 +99,12 @@ URL Ranks by DiscoPeligro.
         "blackheartdead",
         "NaranjitaACN",
         "_saoo_",
-        "Cyx_23"
+        "Cyx_23",
+        "NΛΣŁ",
+        "ΛПGΣL̥"
     ],
     "Partner": [
         "Edielღ༒",
-        "wgoodnightw",
-        "ღKookie",
-        "Akihide",
         "armelon",
         "ivannanana",
         "JavaBean123",
