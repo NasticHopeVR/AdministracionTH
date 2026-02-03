@@ -97,7 +97,9 @@ URL Ranks by DiscoPeligro.
         "YovisPoro",
         "Kyokaツ",
         "blackheartdead",
-        "NaranjitaACN"
+        "NaranjitaACN",
+        "_saoo_",
+        "Cyx_23"
     ],
     "Partner": [
         "Edielღ༒",
