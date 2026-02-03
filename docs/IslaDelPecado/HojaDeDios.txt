@@ -103,9 +103,6 @@ URL Ranks by DiscoPeligro.
     ],
     "Partner": [
         "Edielღ༒",
-        "wgoodnightw",
-        "ღKookie",
-        "Akihide",
         "armelon",
         "ivannanana",
         "JavaBean123",
