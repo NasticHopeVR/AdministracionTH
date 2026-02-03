@@ -99,7 +99,8 @@ URL Ranks by DiscoPeligro.
         "blackheartdead",
         "NaranjitaACN",
         "_saoo_",
-        "Cyx_23"
+        "Cyx_23",
+        "NΛΣŁ"
     ],
     "Partner": [
         "Edielღ༒",
