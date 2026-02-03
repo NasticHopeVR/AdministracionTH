@@ -39,8 +39,13 @@
     "rank": "Vip",
     "groups": []
   },
-    {
+  {
     "displayName": "Naim Ulloa",
+    "rank": "STAFF",
+    "groups": []
+  },
+  {
+    "displayName": "JokerStein",
     "rank": "STAFF",
     "groups": []
   }
