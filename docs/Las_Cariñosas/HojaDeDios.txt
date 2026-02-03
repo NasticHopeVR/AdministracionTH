@@ -11,7 +11,7 @@ URL Ranks by DiscoPeligro.
         "ElTaino"
     ],
     "InversorB": [
-        "ᴇᴛᴀᴅɪʟᴀᴠ4500-"
+        "ᴇᴛᴀᴅɪʟᴀᴠ"
     ],
     "InversorC": [
         "NeoDino"
@@ -158,7 +158,6 @@ URL Ranks by DiscoPeligro.
         "karу"
     ],
     "VIP": [
-        "El_CADEJO_SV",
         "BebecitaShey",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
@@ -172,8 +171,6 @@ URL Ranks by DiscoPeligro.
         "DEVILZOO_",
         "L3LE",
         "_Viscochin_",
-        "ilimusa",
-        "࿇-S͓̽uu͓̽Ji-࿇",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "AG TrinalGore54",
@@ -220,8 +217,6 @@ URL Ranks by DiscoPeligro.
         "marovimartin",
         "Vanny77",
         "-RollBack-",
-        "لØセ₳_M̶B̶",
-        "HQuinn96",
         "Akita Neru〆",
         "Montse 261a",
         "Moonsp",
