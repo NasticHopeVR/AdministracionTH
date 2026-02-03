@@ -100,7 +100,8 @@ URL Ranks by DiscoPeligro.
         "NaranjitaACN",
         "_saoo_",
         "Cyx_23",
-        "NΛΣŁ"
+        "NΛΣŁ",
+        "ΛПGΣL̥"
     ],
     "Partner": [
         "Edielღ༒",
