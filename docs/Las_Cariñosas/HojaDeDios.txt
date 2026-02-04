@@ -267,7 +267,8 @@ URL Ranks by DiscoPeligro.
         "かStarSmøkeか",
         "FrankTM",
         "aSeraku",
-        "ItsHosh 星"
+        "ItsHosh 星",
+        "M_A_G_G_Y"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
