@@ -268,7 +268,9 @@ URL Ranks by DiscoPeligro.
         "FrankTM",
         "aSeraku",
         "ItsHosh 星",
-        "M_A_G_G_Y"
+        "M_A_G_G_Y",
+        "_MimiPR_",
+        "Matabots"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
