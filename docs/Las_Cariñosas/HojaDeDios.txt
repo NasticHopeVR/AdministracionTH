@@ -16,9 +16,6 @@ URL Ranks by DiscoPeligro.
     "InversorC": [
         "NeoDino"
     ],
-    "InversorD": [
-        "Akihide"
-    ],
     "Pecador": [
         "CAROL_RM",
         "ShadowN01",
@@ -160,8 +157,6 @@ URL Ranks by DiscoPeligro.
         "BebecitaShey",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
-        "Prototipo0121",
-        "John Wipe",
         "SugarLoliUwU",
         "CopycatPortal",
         "Diegomex 8f11",
@@ -183,8 +178,6 @@ URL Ranks by DiscoPeligro.
         "SeleNix",
         "Alliebearcx",
         "Nаru",
-        "KaosKynG",
-        "YuuCaliente19°",
         "Sanssha",
         "galogb204",
         "Matabots",
@@ -195,9 +188,6 @@ URL Ranks by DiscoPeligro.
         "XoX_Ashley_XoX",
         "ｱﾑｱﾑｷ尺ﾉｲﾑ",
         "XxX_Alexa_XxX",
-        "IvanOliD",
-        "ari․33",
-        "sweetzeromx",
         "NiquinPRO",
         "EstafiGamerMeta 21d6",
         "berna mow",
@@ -216,8 +206,6 @@ URL Ranks by DiscoPeligro.
         "marovimartin",
         "Vanny77",
         "-RollBack-",
-        "Akita Neru〆",
-        "Montse 261a",
         "Moonsp",
         "Josuewe",
         "Ryoya_Hanasaki",
