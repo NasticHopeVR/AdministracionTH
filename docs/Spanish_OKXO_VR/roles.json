@@ -1,52 +1,62 @@
 [
   {
+    "displayName": "JokerStein",
+    "rank": "OWNER",
+    "groups": []
+  },
+  {
     "displayName": "Nastic Hope",
-    "rank": "STAFF",
-    "groups": []
-  },
-    {
-    "displayName": "Sainthe",
-    "rank": "STAFF",
-    "groups": []
-  },
-  {
-    "displayName": "SugarLoliUwU",
-    "rank": "STAFF",
-    "groups": []
-  },
-    {
-    "displayName": "MokaPaut",
-    "rank": "STAFF",
-    "groups": []
-  },
-    {
-    "displayName": "FXSCAR",
-    "rank": "Salty",
-    "groups": []
-  },
-  {
-    "displayName": "MarlonQC",
-    "rank": "STAFF",
+    "rank": "CEOMANAGER",
     "groups": []
   },
   {
     "displayName": "GreyGrace",
-    "rank": "STAFF",
+    "rank": "DEV",
+    "groups": []
+  },
+    {
+    "displayName": "MokaPaut",
+    "rank": "STAFFJKCM",
+    "groups": []
+  },
+    {
+    "displayName": "FXSCAR",
+    "rank": "STAFFJKCM",
+    "groups": []
+  },
+  {
+    "displayName": "MarlonQC",
+    "rank": "STAFFJKCM",
     "groups": []
   },
   {
     "displayName": "XionWolf V",
-    "rank": "Vip",
+    "rank": "STAFFJKCM",
     "groups": []
   },
   {
     "displayName": "Naim Ulloa",
-    "rank": "STAFF",
+    "rank": "STAFFJKCM",
     "groups": []
   },
   {
-    "displayName": "JokerStein",
-    "rank": "STAFF",
+    "displayName": "Sainthe",
+    "rank": "STAFFOKXO",
+    "groups": []
+  },
+  {
+    "displayName": "SugarLoliUwU",
+    "rank": "STAFFOKXO",
+    "groups": []
+  },
+  {
+    "displayName": "Ƙυѕт",
+    "rank": "DEXTRO",
+    "groups": []
+  },
+  {
+    "displayName": "Icοn4500",
+    "rank": "ALIADOS",
     "groups": []
   }
 ]
