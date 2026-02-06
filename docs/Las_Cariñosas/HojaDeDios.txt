@@ -38,7 +38,8 @@ URL Ranks by DiscoPeligro.
         "TAILINGXA",
         "iTeo_zz",
         "Dilocc",
-        "Rini_Clowny"
+        "Rini_Clowny",
+        "Sr_Espinoza"
     ],
     "Mod": [
         "Uni ウサギ",
@@ -216,8 +217,6 @@ URL Ranks by DiscoPeligro.
         "HQuinn96",
         "Moonsp",
         "Josuewe",
-        "Ryoya_Hanasaki",
-        "KΣIA ღ",
         "tr0y4n0Ҳ",
         "SHATIER",
         "Daku_KamiFemboy",
