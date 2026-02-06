@@ -104,10 +104,6 @@ URL Ranks by DiscoPeligro.
         "ΛПGΣL̥"
     ],
     "Partner": [
-        "Edielღ༒",
-        "armelon",
-        "ivannanana",
-        "JavaBean123",
-        "ʚGabbyɞ"
+        "Edielღ༒"
     ]
 }
