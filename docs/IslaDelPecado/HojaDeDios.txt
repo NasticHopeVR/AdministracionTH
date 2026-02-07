@@ -101,7 +101,8 @@ URL Ranks by DiscoPeligro.
         "_saoo_",
         "Cyx_23",
         "NΛΣŁ",
-        "ΛПGΣL̥"
+        "ΛПGΣL̥",
+        "lokito_sen"
     ],
     "Partner": [
         "Edielღ༒"
