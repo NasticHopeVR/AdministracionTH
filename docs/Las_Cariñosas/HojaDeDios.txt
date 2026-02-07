@@ -155,6 +155,7 @@ URL Ranks by DiscoPeligro.
         "karу"
     ],
     "VIP": [
+        "El_CADEJO_SV",
         "BebecitaShey",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
@@ -205,8 +206,6 @@ URL Ranks by DiscoPeligro.
         "berna mow",
         "BebecitaShey",
         "ucranianalive_",
-        "Violet Himiko",
-        "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
         "༒ Vᴇɴᴜs ༒",
         "ZeroPositivo",
@@ -220,8 +219,6 @@ URL Ranks by DiscoPeligro.
         "-RollBack-",
         "لØセ₳_M̶B̶",
         "HQuinn96",
-        "Moonsp",
-        "Josuewe",
         "Ryoya_Hanasaki",
         "KΣIA ღ",
         "tr0y4n0Ҳ",
@@ -244,7 +241,6 @@ URL Ranks by DiscoPeligro.
         "Ashura6612",
         "ʟʏɴᴜx",
         "Mitsuki_0",
-        "Mizuki 天",
         "El Ceron",
         "Loysss",
         "WolfJhon",
