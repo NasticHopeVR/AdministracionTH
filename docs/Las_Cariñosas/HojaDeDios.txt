@@ -285,7 +285,8 @@ URL Ranks by DiscoPeligro.
         "M_A_G_G_Y",
         "_MimiPR_",
         "Matabots",
-        "Tsuki VR"
+        "Tsuki VR",
+        "XtremeBB"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
