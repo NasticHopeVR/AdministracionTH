@@ -102,7 +102,9 @@ URL Ranks by DiscoPeligro.
         "Cyx_23",
         "NΛΣŁ",
         "ΛПGΣL̥",
-        "lokito_sen"
+        "lokito_sen",
+        "EdVanGohg",
+        "CAROL_RM"
     ],
     "Partner": [
         "Edielღ༒"
