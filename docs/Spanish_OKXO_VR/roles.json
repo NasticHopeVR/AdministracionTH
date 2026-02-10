@@ -4,12 +4,12 @@
     "rank": "OWNER",
     "groups": []
   },
-  {
+    {
     "displayName": "Nastic Hope",
     "rank": "CEOMANAGER",
     "groups": []
   },
-  {
+    {
     "displayName": "GreyGrace",
     "rank": "DEV",
     "groups": []
@@ -24,37 +24,37 @@
     "rank": "STAFFJKCM",
     "groups": []
   },
-  {
+    {
     "displayName": "MarlonQC",
     "rank": "STAFFJKCM",
     "groups": []
   },
-  {
+    {
     "displayName": "XionWolf V",
     "rank": "STAFFJKCM",
     "groups": []
   },
-  {
+    {
     "displayName": "Naim Ulloa",
     "rank": "STAFFJKCM",
     "groups": []
   },
-  {
+    {
     "displayName": "Sainthe",
     "rank": "STAFFOKXO",
     "groups": []
   },
-  {
+    {
     "displayName": "SugarLoliUwU",
     "rank": "STAFFOKXO",
     "groups": []
   },
-  {
+    {
     "displayName": "Ƙυѕт",
     "rank": "DEXTRO",
     "groups": []
   },
-  {
+    {
     "displayName": "Icοn4500",
     "rank": "ALIADOS",
     "groups": []
@@ -69,19 +69,24 @@
     "rank": "JUSTFBT",
     "groups": []
   },
-      {
+    {
     "displayName": "StreetLove?",
     "rank": "JUSTFBT",
     "groups": []
   },
     {
     "displayName": "Cuervito_",
-    "rank": "STAFFJKCM",
+    "rank": "DJS",
     "groups": []
   },
     {
     "displayName": "Keatzu-",
     "rank": "VIPS",
+    "groups": []
+  },
+    {
+    "displayName": "ღ Lazuly ღ",
+    "rank": "STREAMERS",
     "groups": []
   }
 ]
