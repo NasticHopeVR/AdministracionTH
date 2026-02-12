@@ -89,24 +89,29 @@
     "rank": "STREAMERS",
     "groups": []
   },
-      {
+    {
     "displayName": "Fluffy_kiwi",
     "rank": "STAFFJKCM",
     "groups": []
   },
-      {
+    {
     "displayName": "Kevin GlezAnc",
     "rank": "DEXTRO",
     "groups": []
   },
-      {
+    {
     "displayName": "IG XimenaGtz04",
     "rank": "DEXTRO",
     "groups": []
   },
-      {
+    {
     "displayName": "Sr_Espinoza",
     "rank": "DEXTRO",
+    "groups": []
+  },
+    {
+    "displayName": "KendoMurft",
+    "rank": "MURFT",
     "groups": []
   }
 ]
