@@ -1,6 +1,1 @@
-URL Ranks by DiscoPeligro.
-{
-    "VIP": [
-        "Sainthe"
-    ]
-}
+
