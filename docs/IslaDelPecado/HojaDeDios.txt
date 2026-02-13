@@ -65,9 +65,6 @@ URL Ranks by DiscoPeligro.
     "Pompompurin": [
         "c1geerzs"
     ],
-    "Akihide": [
-        "Akihide"
-    ],
     "Host": [
         "Zaykran"
     ],
