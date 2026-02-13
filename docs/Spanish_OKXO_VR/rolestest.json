@@ -1,7 +1,7 @@
 [
   {
-    "users": ["Nastic Hope", "Sainthe"],
-    "ranks": ["OWNER"],
-    "groups": ["THStaffcito"]
-  }
-]
+    "userId": "usr_95d3d123-4519-4593-87ee-191cd66a7c85",
+    "displayName": "Sainthe",
+    "rank": "OWNER",
+    "groups": ["Staff", "Builder"]
+  },
