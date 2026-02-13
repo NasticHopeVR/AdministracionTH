@@ -1,0 +1,17 @@
+[
+  {
+    "displayName": "SugarLoliUwU, Sainthe, OtroAmigo123",
+    "rank": "OWNER",
+    "groups": ["VIP", "Staff"]
+  },
+  {
+    "displayName": "UsuarioSolitario",
+    "rank": "Moderador",
+    "groups": ["Staff"]
+  },
+  {
+    "displayName": "PersonaA, PersonaB, PersonaC",
+    "rank": "Donador",
+    "groups": ["VIP"]
+  }
+]

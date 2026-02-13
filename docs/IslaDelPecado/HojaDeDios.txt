@@ -50,7 +50,6 @@ URL Ranks by DiscoPeligro.
     "Seguridad": [
         "༒d̷a̷r̷i̷1̷8̷༒",
         "NaranjitaACN",
-        "Nelson_KAELA",
         "Houltler",
         "NΛΣŁ"
     ],
@@ -104,7 +103,9 @@ URL Ranks by DiscoPeligro.
         "ΛПGΣL̥",
         "lokito_sen",
         "EdVanGohg",
-        "CAROL_RM"
+        "CAROL_RM",
+        "ღPastelito",
+        "Bymaxter23"
     ],
     "Partner": [
         "Edielღ༒"
