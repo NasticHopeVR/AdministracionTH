@@ -1,6 +1,6 @@
 URL Ranks by DiscoPeligro.
 {
-    "VIP": [
+    "Owner": [
         "Sainthe"
     ]
 }
