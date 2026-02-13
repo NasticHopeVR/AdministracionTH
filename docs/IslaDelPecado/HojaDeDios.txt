@@ -50,7 +50,6 @@ URL Ranks by DiscoPeligro.
     "Seguridad": [
         "༒d̷a̷r̷i̷1̷8̷༒",
         "NaranjitaACN",
-        "Nelson_KAELA",
         "Houltler",
         "NΛΣŁ"
     ],
