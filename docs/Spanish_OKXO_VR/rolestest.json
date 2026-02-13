@@ -1,8 +1,17 @@
 [
   {
-    "userId": "usr_95d3d123-4519-4593-87ee-191cd66a7c85",
-    "displayName": "Sainthe",
-    "rank": "OWNER",
-    "groups": ["Staff", "Builder"]
+    "displayName": "SugarLoliUwU, Sainthe, OtroAmigo123",
+    "rank": "Admin",
+    "groups": ["VIP", "Staff"]
+  },
+  {
+    "displayName": "UsuarioSolitario",
+    "rank": "Moderador",
+    "groups": ["Staff"]
+  },
+  {
+    "displayName": "PersonaA, PersonaB, PersonaC",
+    "rank": "Donador",
+    "groups": ["VIP"]
   }
 ]
