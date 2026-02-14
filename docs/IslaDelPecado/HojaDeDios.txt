@@ -79,6 +79,9 @@ URL Ranks by DiscoPeligro.
         "Aurelian796",
         "GideonToffu"
     ],
+    "Sorteo": [
+        "."
+    ],
     "VIP": [
         "LaNubi23",
         "Tommy1313",
