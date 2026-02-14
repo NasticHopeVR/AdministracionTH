@@ -246,8 +246,6 @@ URL Ranks by DiscoPeligro.
         "blackheartdead",
         "LexiStar115",
         "Kyokaツ",
-        "rebe_76 754d",
-        "KΣIA ღ",
         "IamZegion",
         "Luismi92",
         "SrCuatro",
@@ -272,7 +270,9 @@ URL Ranks by DiscoPeligro.
         "Matabots",
         "Tsuki VR",
         "XtremeBB",
-        "ladilar fce7"
+        "ladilar fce7",
+        "Akita Neru〆",
+        "Montse 261a"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
