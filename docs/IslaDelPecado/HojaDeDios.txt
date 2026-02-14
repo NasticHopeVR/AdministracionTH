@@ -80,7 +80,12 @@ URL Ranks by DiscoPeligro.
         "GideonToffu"
     ],
     "Sorteo": [
-        "."
+        "LaNubi23",
+        "_saoo_",
+        "ΛПGΣL̥",
+        "lokito_sen",
+        "EdVanGohg",
+        "ღPastelito"
     ],
     "VIP": [
         "LaNubi23",
