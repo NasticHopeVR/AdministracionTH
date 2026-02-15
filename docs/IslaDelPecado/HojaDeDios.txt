@@ -40,7 +40,7 @@ URL Ranks by DiscoPeligro.
         "kfezito"
     ],
     "DJ": [
-        "VACIOaaaaaaaaa"
+        "snake45655"
     ],
     "ManagerDancer": [
         "konflakes_",
