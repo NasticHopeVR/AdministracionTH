@@ -44,8 +44,7 @@ URL Ranks by DiscoPeligro.
     ],
     "ManagerDancer": [
         "konflakes_",
-        "ღItzAkaneღ",
-        "RocketSaul"
+        "ღItzAkaneღ"
     ],
     "Seguridad": [
         "༒d̷a̷r̷i̷1̷8̷༒",
