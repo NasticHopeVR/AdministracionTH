@@ -86,7 +86,8 @@ URL Ranks by DiscoPeligro.
         "lokito_sen",
         "EdVanGohg",
         "ღPastelito",
-        "ʙʀʏᴀɴ_ɢᴍ"
+        "ʙʀʏᴀɴ_ɢᴍ",
+        "Antutu 821b"
     ],
     "VIP": [
         "LaNubi23",
