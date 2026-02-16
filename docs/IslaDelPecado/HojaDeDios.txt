@@ -112,8 +112,9 @@ URL Ranks by DiscoPeligro.
         "CAROL_RM",
         "ღPastelito",
         "Bymaxter23",
-        "Sainthe",
-        "ʙʀʏᴀɴ_ɢᴍ"
+        "ʙʀʏᴀɴ_ɢᴍ",
+        "Milenkoo",
+        "Roxytooty"
     ],
     "Partner": [
         "Edielღ༒"
