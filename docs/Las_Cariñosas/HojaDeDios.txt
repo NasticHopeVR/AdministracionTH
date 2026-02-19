@@ -263,7 +263,6 @@ URL Ranks by DiscoPeligro.
         "ItsHosh 星",
         "M_A_G_G_Y",
         "_MimiPR_",
-        "Matabots",
         "Tsuki VR",
         "XtremeBB",
         "ladilar fce7",
