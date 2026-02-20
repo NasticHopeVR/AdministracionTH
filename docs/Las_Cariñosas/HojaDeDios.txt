@@ -147,7 +147,8 @@ URL Ranks by DiscoPeligro.
         "biliustick48",
         "-Wing-",
         "ɪᴛᴢᴜɴʏ ®",
-        "Bollito_Sx"
+        "Bollito_Sx",
+        "Abilene034"
     ],
     "Icon": [
         "Icοn4500",
@@ -263,6 +264,7 @@ URL Ranks by DiscoPeligro.
         "ItsHosh 星",
         "M_A_G_G_Y",
         "_MimiPR_",
+        "ʙᴀʀᴄᴏᴅᴇ",
         "Tsuki VR",
         "XtremeBB",
         "ladilar fce7",
