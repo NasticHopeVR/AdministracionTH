@@ -264,7 +264,9 @@ URL Ranks by DiscoPeligro.
         "XtremeBB",
         "ladilar fce7",
         "Akita Neru〆",
-        "josyelin"
+        "josyelin",
+        "kami․in․sky",
+        "iTeo_zz"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
