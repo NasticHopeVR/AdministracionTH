@@ -208,7 +208,6 @@ URL Ranks by DiscoPeligro.
         "TheDoctorSnake",
         "aperta",
         "Littlebunnyy19",
-        "marovimartin",
         "Vanny77",
         "-RollBack-",
         "لØセ₳_M̶B̶",
@@ -244,10 +243,6 @@ URL Ranks by DiscoPeligro.
         "Kyokaツ",
         "rebe_76 754d",
         "KΣIA ღ",
-        "Luismi92",
-        "SrCuatro",
-        "AndreaAlejandra",
-        "-Marcyy-",
         "soyDaddyVR",
         "Delicattia",
         "Imseett",
@@ -269,7 +264,9 @@ URL Ranks by DiscoPeligro.
         "XtremeBB",
         "ladilar fce7",
         "Akita Neru〆",
-        "josyelin"
+        "josyelin",
+        "kami․in․sky",
+        "iTeo_zz"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
