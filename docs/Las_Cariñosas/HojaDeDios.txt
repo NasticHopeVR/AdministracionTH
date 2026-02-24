@@ -265,7 +265,8 @@ URL Ranks by DiscoPeligro.
         "Akita Neru〆",
         "josyelin",
         "Aeris_Kami",
-        "iTeo_zz"
+        "iTeo_zz",
+        "-Jane Doe"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
