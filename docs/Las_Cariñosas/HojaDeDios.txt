@@ -266,7 +266,9 @@ URL Ranks by DiscoPeligro.
         "josyelin",
         "Aeris_Kami",
         "iTeo_zz",
-        "-Jane Doe"
+        "-Jane Doe",
+        "Capibara․ 1eb1",
+        "Tocina Bacon"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
