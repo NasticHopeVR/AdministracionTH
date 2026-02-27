@@ -112,6 +112,11 @@ URL Ranks by DiscoPeligro.
         "Milenkoo",
         "Roxytooty"
     ],
+    "Moonlight": [
+        "LordZeroRe",
+        "運вυηηуѕєηραι運",
+        "Damimilktea"
+    ],
     "Partner": [
         "Edielღ༒"
     ]
