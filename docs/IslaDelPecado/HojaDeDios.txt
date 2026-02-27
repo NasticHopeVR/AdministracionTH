@@ -117,6 +117,13 @@ URL Ranks by DiscoPeligro.
         "運вυηηуѕєηραι運",
         "Damimilktea"
     ],
+    "Caotic": [
+        "EdVanGohg",
+        "lokito_sen",
+        "ArithKtv",
+        "ღJackღ",
+        "Kimmy0419"
+    ],
     "Partner": [
         "Edielღ༒"
     ]
