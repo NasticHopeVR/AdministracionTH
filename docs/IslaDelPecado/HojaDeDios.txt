@@ -112,6 +112,18 @@ URL Ranks by DiscoPeligro.
         "Milenkoo",
         "Roxytooty"
     ],
+    "Moonlight": [
+        "LordZeroRe",
+        "運вυηηуѕєηραι運",
+        "Damimilktea"
+    ],
+    "Caotic": [
+        "EdVanGohg",
+        "lokito_sen",
+        "ArithKtv",
+        "ღJackღ",
+        "Kimmy0419"
+    ],
     "Partner": [
         "Edielღ༒"
     ]
