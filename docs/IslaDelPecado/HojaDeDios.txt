@@ -79,38 +79,24 @@ URL Ranks by DiscoPeligro.
         "GideonToffu"
     ],
     "Sorteo": [
-        "LaNubi23",
-        "_saoo_",
-        "ΛПGΣL̥",
-        "lokito_sen",
-        "EdVanGohg",
-        "ღPastelito",
-        "ʙʀʏᴀɴ_ɢᴍ",
-        "Antutu 821b"
+        "DISPONIBLE"
     ],
     "VIP": [
         "LaNubi23",
         "Tommy1313",
         "ღKookie",
-        "GREAT_ONE",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "ღ̴N̴u̴g̴g̴e̴t̴ღ",
         "YovisPoro",
         "Kyokaツ",
         "SirRorshack",
-        "NaranjitaACN",
         "_saoo_",
         "Cyx_23",
-        "NΛΣŁ",
         "ΛПGΣL̥",
-        "lokito_sen",
-        "EdVanGohg",
         "CAROL_RM",
-        "ღPastelito",
         "Bymaxter23",
         "ʙʀʏᴀɴ_ɢᴍ",
-        "Milenkoo",
-        "Roxytooty"
+        "Milenkoo"
     ],
     "Moonlight": [
         "LordZeroRe",
