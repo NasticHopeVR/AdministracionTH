@@ -121,7 +121,8 @@ URL Ranks by DiscoPeligro.
         "lokito_sen",
         "ArithKtv",
         "ღJackღ",
-        "Kimmy0419"
+        "Kimmy0419",
+        "sᴀᴏ ღ"
     ],
     "Partner": [
         "Edielღ༒"
