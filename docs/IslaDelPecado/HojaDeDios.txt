@@ -78,37 +78,8 @@ URL Ranks by DiscoPeligro.
         "Aurelian796",
         "GideonToffu"
     ],
-    "Sorteo": [
-        "LaNubi23",
-        "_saoo_",
-        "ΛПGΣL̥",
-        "lokito_sen",
-        "EdVanGohg",
-        "ღPastelito",
-        "ʙʀʏᴀɴ_ɢᴍ",
-        "Antutu 821b"
-    ],
-    "VIP": [
-        "LaNubi23",
-        "Tommy1313",
-        "ღKookie",
-        "GREAT_ONE",
-        "༒d̷a̷r̷i̷1̷8̷༒",
-        "ღ̴N̴u̴g̴g̴e̴t̴ღ",
-        "YovisPoro",
-        "Kyokaツ",
-        "SirRorshack",
-        "NaranjitaACN",
-        "NΛΣŁ",
-        "ΛПGΣL̥",
-        "lokito_sen",
-        "EdVanGohg",
-        "ღPastelito",
-        "Bymaxter23",
-        "ʙʀʏᴀɴ_ɢᴍ",
-        "Milenkoo",
-        "Roxytooty"
-    ],
+    "Sorteo": [],
+    "VIP": [],
     "Moonlight": [
         "LordZeroRe",
         "運вυηηуѕєηραι運",
@@ -119,8 +90,7 @@ URL Ranks by DiscoPeligro.
         "lokito_sen",
         "ArithKtv",
         "ღJackღ",
-        "Kimmy0419",
-        "sᴀᴏ ღ"
+        "Kimmy0419"
     ],
     "Partner": [
         "Edielღ༒"
