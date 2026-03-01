@@ -43,6 +43,7 @@ URL Ranks by DiscoPeligro.
         "snake45655"
     ],
     "ManagerDancer": [
+        "konflakes_",
         "ღItzAkaneღ"
     ],
     "Seguridad": [
@@ -53,9 +54,6 @@ URL Ranks by DiscoPeligro.
     ],
     "InversorC": [
         "GREAT_ONE"
-    ],
-    "BloodNight": [
-        "wgoodnightw"
     ],
     "AdminFemboy": [
         "KazumiiVT"
@@ -77,19 +75,26 @@ URL Ranks by DiscoPeligro.
         "Aurelian796",
         "GideonToffu"
     ],
-    "Sorteo": [],
-    "VIP": [],
-    "Moonlight": [
-        "LordZeroRe",
-        "運вυηηуѕєηραι運",
-        "Damimilktea"
-    ],
-    "Caotic": [
-        "EdVanGohg",
+    "VIP": [
+        "LaNubi23",
+        "Tommy1313",
+        "ღKookie",
+        "GREAT_ONE",
+        "༒d̷a̷r̷i̷1̷8̷༒",
+        "ღ̴N̴u̴g̴g̴e̴t̴ღ",
+        "YovisPoro",
+        "Kyokaツ",
+        "SirRorshack",
+        "NaranjitaACN",
+        "NΛΣŁ",
+        "ΛПGΣL̥",
         "lokito_sen",
-        "ArithKtv",
-        "ღJackღ",
-        "Kimmy0419"
+        "EdVanGohg",
+        "ღPastelito",
+        "Bymaxter23",
+        "ʙʀʏᴀɴ_ɢᴍ",
+        "Milenkoo",
+        "Roxytooty"
     ],
     "Partner": [
         "Edielღ༒"
