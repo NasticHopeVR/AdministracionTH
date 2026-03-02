@@ -256,7 +256,8 @@ URL Ranks by DiscoPeligro.
         "-Jane Doe",
         "Capibara․ 1eb1",
         "Tocina Bacon",
-        "Robi1"
+        "Robi1",
+        "Fire_Starter"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
