@@ -282,6 +282,7 @@ URL Ranks by DiscoPeligro.
         "DJ CEVICHE",
         "duckis",
         "Darect",
-        "Sofi-Sticada"
+        "Sofi-Sticada",
+        "Farra_v18"
     ]
 }
