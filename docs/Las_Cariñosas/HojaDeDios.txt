@@ -256,7 +256,9 @@ URL Ranks by DiscoPeligro.
         "Capibara․ 1eb1",
         "Tocina Bacon",
         "Robi1",
-        "Fire_Starter"
+        "Fire_Starter",
+        "Farra_v18",
+        "Farra_v18"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
@@ -280,6 +282,7 @@ URL Ranks by DiscoPeligro.
         "DJ CEVICHE",
         "duckis",
         "Darect",
-        "Sofi-Sticada"
+        "Sofi-Sticada",
+        "Farra_v18"
     ]
 }

@@ -78,13 +78,10 @@ URL Ranks by DiscoPeligro.
     "VIP": [
         "LaNubi23",
         "Tommy1313",
-        "ღKookie",
+        "Ƴevgeny",
         "GREAT_ONE",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "ღ̴N̴u̴g̴g̴e̴t̴ღ",
-        "YovisPoro",
-        "Kyokaツ",
-        "SirRorshack",
         "NaranjitaACN",
         "NΛΣŁ",
         "ΛПGΣL̥",
@@ -94,7 +91,8 @@ URL Ranks by DiscoPeligro.
         "Bymaxter23",
         "ʙʀʏᴀɴ_ɢᴍ",
         "Milenkoo",
-        "Roxytooty"
+        "Roxytooty",
+        "Farra_v18"
     ],
     "Partner": [
         "Edielღ༒"
