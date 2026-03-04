@@ -1,17 +1,17 @@
 [
   {
-    "displayName": "SugarLoliUwU, OtroAmigo123",
-    "rank": "Dinamico",
+    "users": ["SugarLoliUwU", "OtroAmigo123"],
+    "ranks": ["Dinamico"],
     "groups": ["VIP", "Staff"]
   },
   {
-    "displayName": "Sainthe",
-    "rank": "element0",
+    "users": ["Sainthe"],
+    "ranks": ["element0"],
     "groups": ["Staff"]
   },
   {
-    "displayName": "PersonaA, PersonaB, PersonaC",
-    "rank": "Donador",
+    "users": ["PersonaA", "PersonaB", "PersonaC"],
+    "ranks": ["Donador"],
     "groups": ["VIP"]
   }
 ]
