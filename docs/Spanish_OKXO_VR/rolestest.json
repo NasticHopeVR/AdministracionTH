@@ -1,11 +1,11 @@
 [
   {
-    "users": ["OtroAmigo123", "Sainthe"],
+    "users": ["OtroAmigo123", "Sainthe", "Vymper"],
     "ranks": ["element0"],
     "groups": ["VIP", "Staff"]
   },
   {
-    "users": ["Sainthe"],
+    "users": ["Sainthe", "Vymper"],
     "ranks": ["Seccion2"],
     "groups": ["Staff"]
   },
