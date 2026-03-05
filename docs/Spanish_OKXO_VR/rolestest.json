@@ -12,7 +12,7 @@
     "users": ["Vymper"],
     "groups": ["Staff"],
     "custom_indexes": {
-      "vymper": 1
+      "vymper": 5
     }
   },
   {
