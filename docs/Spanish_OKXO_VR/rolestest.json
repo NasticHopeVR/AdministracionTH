@@ -1,10 +1,10 @@
 [
   {
     "ranks": ["Dyn1"],
-    "users":["OtroAmigo123", "Sainthe"],
+    "users": ["OtroAmigo123", "Sainthe"],
     "groups": ["VIP", "Staff"],
     "custom_indexes": {
-      "sainthe": 2,
+      "sainthe": 2
     }
   },
   {
@@ -13,10 +13,11 @@
     "groups": ["Staff"],
     "custom_indexes": {
       "vymper": 1
+    }
   },
   {
     "ranks": ["Donador"],
-    "users":["PersonaB", "PersonaC"],
+    "users": ["PersonaB", "PersonaC"],
     "groups": ["VIP"],
     "custom_indexes": {
       "personab": 5,
