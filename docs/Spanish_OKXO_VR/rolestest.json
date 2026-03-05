@@ -4,7 +4,7 @@
     "users": ["OtroAmigo123", "Sainthe"],
     "groups": ["VIP", "Staff"],
     "custom_indexes": {
-      "sainthe": 2
+      "2": ["sainthe"]
     }
   },
   {
@@ -12,7 +12,7 @@
     "users": ["Vymper"],
     "groups": ["Staff"],
     "custom_indexes": {
-      "vymper": 8
+      "8": ["vymper"]
     }
   },
   {
@@ -20,8 +20,8 @@
     "users": ["PersonaB", "PersonaC"],
     "groups": ["VIP"],
     "custom_indexes": {
-      "personab": 5,
-      "personac": 8
+      "5": ["personab"],
+      "8": ["personac"]
     }
   }
 ]
