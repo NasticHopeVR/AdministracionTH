@@ -156,7 +156,8 @@ URL Ranks by DiscoPeligro.
     ],
     "Lunari": [
         "Akita Neru〆",
-        "dequer12"
+        "dequer12",
+        "josyelin"
     ],
     "VIP": [
         "El_CADEJO_SV",
