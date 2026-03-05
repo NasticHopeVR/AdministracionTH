@@ -10,7 +10,7 @@
   {
     "ranks": ["Dyn2"],
     "users": ["Vymper"],
-    "groups": ["Staff"]
+    "groups": ["Staff"],
     "custom_indexes": {
       "vymper": 1
   },
