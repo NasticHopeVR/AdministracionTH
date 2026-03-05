@@ -84,7 +84,6 @@ URL Ranks by DiscoPeligro.
         "ღ̴N̴u̴g̴g̴e̴t̴ღ",
         "NaranjitaACN",
         "NΛΣŁ",
-        "ΛПGΣL̥",
         "lokito_sen",
         "EdVanGohg",
         "ღPastelito",
@@ -93,6 +92,11 @@ URL Ranks by DiscoPeligro.
         "Milenkoo",
         "Roxytooty",
         "Farra_v18"
+    ],
+    "Moonlight": [
+        "LordZeroRe",
+        "運вυηηуѕєηραι運",
+        "Damimilktea"
     ],
     "Partner": [
         "Edielღ༒"
