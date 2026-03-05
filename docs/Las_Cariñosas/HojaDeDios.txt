@@ -154,6 +154,10 @@ URL Ranks by DiscoPeligro.
         "Icοn4500",
         "karу"
     ],
+    "Lunari": [
+        "Akita Neru〆",
+        "dequer12"
+    ],
     "VIP": [
         "El_CADEJO_SV",
         "BebecitaShey",
@@ -166,19 +170,14 @@ URL Ranks by DiscoPeligro.
         "Warm®",
         "AG TrinalGore54",
         "inniedum",
-        "VEПDEƬƬΛ",
         "Karlozz",
         "LEA ღ",
         "Dulcecоmocandy",
         "SeleNix",
         "Alliebearcx",
         "Nаru",
-        "Sanssha",
         "galogb204",
         "Matabots",
-        "ᴋɪᴅᴀ_ʟʏs22",
-        "ʀʊʄʊʟ",
-        "Dᴀʏɪ",
         "GERMAN002",
         "GREAT_ONE",
         "ʚ-Aquileswolf-ɞ",
@@ -191,7 +190,6 @@ URL Ranks by DiscoPeligro.
         "berna mow",
         "BebecitaShey",
         "ucranianalive_",
-        "ZeroPositivo",
         "ZooboxSan",
         "Shyvanae",
         "TheDoctorSnake",
