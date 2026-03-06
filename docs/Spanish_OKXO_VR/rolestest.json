@@ -1,18 +1,18 @@
 [
   {
     "ranks": ["Dyn1"],
-    "users": [""],
+    "users": ["Sainthe"],
     "groups": ["VIP", "Staff"],
     "custom_indexes": {
-      "3": [""]
+      "3": ["Sainthe"]
     }
   },
   {
     "ranks": ["Dyn2"],
-    "users": ["Sainthe", "Vymper", "SugarLoliUwU"],
+    "users": ["Vymper", "SugarLoliUwU"],
     "groups": ["CoOwner"],
     "custom_indexes": {
-      "3": ["Sainthe", "Vymper", "SugarLoliUwU"]
+      "3": ["Vymper", "SugarLoliUwU"]
     }
   },
   {
