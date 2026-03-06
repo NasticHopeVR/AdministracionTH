@@ -9,18 +9,18 @@
   },
   {
     "ranks": ["Dyn2"],
-    "users": ["Vymper", "SugarLoliUwU"],
+    "users": ["SugarLoliUwU"],
     "groups": ["CoOwner"],
     "custom_indexes": {
-      "3": ["Vymper", "SugarLoliUwU"]
+      "3": ["SugarLoliUwU"]
     }
   },
   {
     "ranks": ["Dyn3"],
-    "users": [""],
+    "users": ["Vymper"],
     "groups": ["VIP"],
     "custom_indexes": {
-      "4": [""]
+      "16": ["Vymper"]
     }
   }
 ]
