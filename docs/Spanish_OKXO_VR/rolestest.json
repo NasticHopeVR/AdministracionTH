@@ -1,7 +1,7 @@
 [
   {
     "ranks": ["Dyn1"],
-    "users": ["OtroAmigo123", "SugarLoliUwU"],
+    "users": ["SugarLoliUwU"],
     "groups": ["VIP", "Staff"],
     "custom_indexes": {
       "3": ["SugarLoliUwU"]
@@ -9,19 +9,18 @@
   },
   {
     "ranks": ["Dyn2"],
-    "users": ["Vymper", "Sainthe"],
+    "users": ["Sainthe"],
     "groups": ["Staff"],
     "custom_indexes": {
-      "5": ["Vymper", "Sainthe"]
+      "5": ["Sainthe"]
     }
   },
   {
-    "ranks": ["Donador"],
+    "ranks": ["Dyn3"],
     "users": ["PersonaB", "PersonaC"],
     "groups": ["VIP"],
     "custom_indexes": {
-      "5": ["personab"],
-      "8": ["personac"]
+      "4": ["Vymper"]
     }
   }
 ]
