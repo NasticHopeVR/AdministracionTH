@@ -1,18 +1,18 @@
 [
   {
     "ranks": ["Dyn1"],
-    "users": ["OtroAmigo123", "Sainthe", "SugarLoliUwU"],
+    "users": ["OtroAmigo123", "SugarLoliUwU"],
     "groups": ["VIP", "Staff"],
     "custom_indexes": {
-      "3": ["sainthe", "SugarLoliUwU"]
+      "3": ["SugarLoliUwU"]
     }
   },
   {
     "ranks": ["Dyn2"],
-    "users": ["Vymper"],
+    "users": ["Vymper", "Sainthe"],
     "groups": ["Staff"],
     "custom_indexes": {
-      "8": ["vymper"]
+      "8": ["vymper", "Sainthe"]
     }
   },
   {
