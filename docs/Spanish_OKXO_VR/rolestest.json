@@ -12,7 +12,7 @@
     "users": ["Vymper", "Sainthe"],
     "groups": ["Staff"],
     "custom_indexes": {
-      "5": ["vymper", "Sainthe"]
+      "5": ["vymper", "sainthe"]
     }
   },
   {
