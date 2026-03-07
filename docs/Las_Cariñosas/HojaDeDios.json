@@ -1,125 +1,7 @@
 [
     {
         "ranks": [
-            "Co-Owner",
-            "DancerCari",
-            "Dextro",
-            "NoviaIcon",
-            "VIP"
-        ],
-        "users": [
-            "Areck_demon",
-            "Beiker07",
-            "D O V Ē",
-            "Deıssʏ",
-            "Dilocc",
-            "Dulcecоmocandy",
-            "Erill․♥",
-            "Gio©",
-            "IG XimenaGtz04",
-            "Karurus_Sღ",
-            "Kevin GlezAnc",
-            "MaurixG",
-            "OsitoPauPau",
-            "ReikaVermysthra",
-            "Roxytooty",
-            "Sainthe",
-            "Seruly",
-            "Shirou1711",
-            "Sr_Espinoza",
-            "TAILINGXA",
-            "Tapia135777",
-            "YojanR1501",
-            "_Viscochin_",
-            "dequer12",
-            "elite442",
-            "raycrash",
-            "sabaxius",
-            "Ƙυѕт",
-            "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
-            "ღEquiღ",
-            "ღItzAkaneღ",
-            "ღᴋᴀᴍɪᴍɪ",
-            "Ｅｕｐｈｏｒｉｉａ",
-            "ｍｅｏｗ?"
-        ],
-        "groups": [
-            [
-                "Co-Owner"
-            ],
-            [
-                "DancerCari"
-            ],
-            [
-                "Dextro"
-            ],
-            [
-                "NoviaIcon"
-            ],
-            [
-                "VIP"
-            ]
-        ],
-        "custom_indexes": {
-            "1": [
-                "Tapia135777",
-                "YojanR1501",
-                "dequer12",
-                "elite442"
-            ],
-            "3": [
-                "Dilocc",
-                "IG XimenaGtz04",
-                "Karurus_Sღ",
-                "Kevin GlezAnc",
-                "Sr_Espinoza",
-                "TAILINGXA",
-                "Ƙυѕт"
-            ],
-            "7": [
-                "Sainthe",
-                "ღItzAkaneღ"
-            ],
-            "8": [
-                "Dulcecоmocandy"
-            ],
-            "9": [
-                "Areck_demon",
-                "Beiker07",
-                "D O V Ē",
-                "Deıssʏ",
-                "Erill․♥",
-                "Gio©",
-                "MaurixG",
-                "OsitoPauPau",
-                "ReikaVermysthra",
-                "Roxytooty",
-                "Seruly",
-                "Shirou1711",
-                "_Viscochin_",
-                "raycrash",
-                "sabaxius",
-                "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
-                "ღEquiღ",
-                "ღᴋᴀᴍɪᴍɪ",
-                "Ｅｕｐｈｏｒｉｉａ",
-                "ｍｅｏｗ?"
-            ]
-        }
-    },
-    {
-        "ranks": [
-            "AdminManager",
-            "DancerCapitan",
-            "Icon",
-            "InversorA",
-            "InversorB",
-            "InversorC",
-            "JokerCircus",
-            "Mod",
-            "Partner",
-            "Pecador",
-            "VIP"
+            "Banners1"
         ],
         "users": [
             "-Jane Doe",
@@ -250,39 +132,17 @@
             "ｱﾑｱﾑｷ尺ﾉｲﾑ"
         ],
         "groups": [
-            [
-                "AdminManager"
-            ],
-            [
-                "DancerCapitan"
-            ],
-            [
-                "Icon"
-            ],
-            [
-                "InversorA"
-            ],
-            [
-                "InversorB"
-            ],
-            [
-                "InversorC"
-            ],
-            [
-                "JokerCircus"
-            ],
-            [
-                "Mod"
-            ],
-            [
-                "Partner"
-            ],
-            [
-                "Pecador"
-            ],
-            [
-                "VIP"
-            ]
+            "AdminManager",
+            "DancerCapitan",
+            "Icon",
+            "InversorA",
+            "InversorB",
+            "InversorC",
+            "JokerCircus",
+            "Mod",
+            "Partner",
+            "Pecador",
+            "VIP"
         ],
         "custom_indexes": {
             "2": [
@@ -443,6 +303,100 @@
     },
     {
         "ranks": [
+            "Banners2"
+        ],
+        "users": [
+            "Areck_demon",
+            "Beiker07",
+            "D O V Ē",
+            "Deıssʏ",
+            "Dilocc",
+            "Dulcecоmocandy",
+            "Erill․♥",
+            "Gio©",
+            "IG XimenaGtz04",
+            "Karurus_Sღ",
+            "Kevin GlezAnc",
+            "MaurixG",
+            "OsitoPauPau",
+            "ReikaVermysthra",
+            "Roxytooty",
+            "Sainthe",
+            "Seruly",
+            "Shirou1711",
+            "Sr_Espinoza",
+            "TAILINGXA",
+            "Tapia135777",
+            "YojanR1501",
+            "_Viscochin_",
+            "dequer12",
+            "elite442",
+            "raycrash",
+            "sabaxius",
+            "Ƙυѕт",
+            "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
+            "ღEquiღ",
+            "ღItzAkaneღ",
+            "ღᴋᴀᴍɪᴍɪ",
+            "Ｅｕｐｈｏｒｉｉａ",
+            "ｍｅｏｗ?"
+        ],
+        "groups": [
+            "Co-Owner",
+            "DancerCari",
+            "Dextro",
+            "NoviaIcon",
+            "VIP"
+        ],
+        "custom_indexes": {
+            "1": [
+                "Tapia135777",
+                "YojanR1501",
+                "dequer12",
+                "elite442"
+            ],
+            "3": [
+                "Dilocc",
+                "IG XimenaGtz04",
+                "Karurus_Sღ",
+                "Kevin GlezAnc",
+                "Sr_Espinoza",
+                "TAILINGXA",
+                "Ƙυѕт"
+            ],
+            "7": [
+                "Sainthe",
+                "ღItzAkaneღ"
+            ],
+            "8": [
+                "Dulcecоmocandy"
+            ],
+            "9": [
+                "Areck_demon",
+                "Beiker07",
+                "D O V Ē",
+                "Deıssʏ",
+                "Erill․♥",
+                "Gio©",
+                "MaurixG",
+                "OsitoPauPau",
+                "ReikaVermysthra",
+                "Roxytooty",
+                "Seruly",
+                "Shirou1711",
+                "_Viscochin_",
+                "raycrash",
+                "sabaxius",
+                "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
+                "ღEquiღ",
+                "ღᴋᴀᴍɪᴍɪ",
+                "Ｅｕｐｈｏｒｉｉａ",
+                "ｍｅｏｗ?"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "Friends"
         ],
         "users": [
@@ -499,9 +453,7 @@
             "｢Demonic｣"
         ],
         "groups": [
-            [
-                "Friends"
-            ]
+            "Friends"
         ]
     }
 ]
