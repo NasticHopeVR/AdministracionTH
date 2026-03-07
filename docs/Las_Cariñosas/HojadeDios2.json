@@ -1,9 +1,12 @@
 [
   {
-    "ranks": ["Co-Owner"],
-    "users": ["ღItzAkaneღ", "Sainthe"],
+    "ranks": ["Co-Owner", "Banners1"],
+    "users": ["ღItzAkaneღ", "Sainthe", "SugarLoliUwU"],
     "groups": ["Co-Owner"],
-    "custom_indexes": {}
+    "custom_indexes": {
+      "3": ["SugarLoliUwU"],
+      "1": ["Sainthe"]
+    }
   },
   {
     "ranks": ["NoviaIcon"],
@@ -101,4 +104,5 @@
     "groups": ["Partner"],
     "custom_indexes": {}
   }
+
 ]
