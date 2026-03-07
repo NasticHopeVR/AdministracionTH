@@ -465,17 +465,21 @@
             "SrCuatro",
             "SugarLoliUwU",
             "Sunday0",
+            "Tapia135777",
             "Teeete",
             "TheDoctorSnake",
             "Tocina Bacon",
             "Warm®",
             "XoX_Ashley_XoX",
             "XxX_Alexa_XxX",
+            "YojanR1501",
             "ZooboxSan",
             "_MimiPR_",
             "aSeraku",
             "aperta",
             "berna mow",
+            "dequer12",
+            "elite442",
             "galogb204",
             "hakunamatata93",
             "iTeo_zz",
@@ -500,6 +504,12 @@
             ]
         ],
         "custom_indexes": {
+            "1": [
+                "Tapia135777",
+                "YojanR1501",
+                "dequer12",
+                "elite442"
+            ],
             "2": [
                 "-Jane Doe",
                 "-Marcyy-",
@@ -575,30 +585,6 @@
                 "ო Y A M I ო",
                 "ＴＯＫＡＹＯ",
                 "ｱﾑｱﾑｷ尺ﾉｲﾑ"
-            ]
-        }
-    },
-    {
-        "ranks": [
-            "VIP"
-        ],
-        "users": [
-            "Tapia135777",
-            "YojanR1501",
-            "dequer12",
-            "elite442"
-        ],
-        "groups": [
-            [
-                "VIP"
-            ]
-        ],
-        "custom_indexes": {
-            "1": [
-                "Tapia135777",
-                "YojanR1501",
-                "dequer12",
-                "elite442"
             ]
         }
     },
