@@ -10,10 +10,11 @@
   },
   {
     "ranks": ["NoviaIcon", "Co-Owner", "Banner2"],
-    "users": ["Dulcecоmocandy", "Sainthe"],
+    "users": ["Dulcecоmocandy", "Sainthe", "Akita Neru〆", "dequer12"],
     "groups": ["NoviaIcon"],
     "custom_indexes": {
-      "7": ["Sainthe"]
+      "7": ["Sainthe"],
+      "1": ["Akita Neru〆", "dequer12"]
     }
   },
   {
