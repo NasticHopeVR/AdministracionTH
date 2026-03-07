@@ -9,6 +9,14 @@
     }
   },
   {
+    "ranks": ["Co-Owner", "Banners2"],
+    "users": ["ღItzAkaneღ"],
+    "groups": ["Co-Owner"],
+    "custom_indexes": {
+	  "7": ["ღItzAkaneღ"]	
+	}
+  },
+  {
     "ranks": ["NoviaIcon", "Banners2"],
     "users": ["Dulcecоmocandy"],
     "groups": ["NoviaIcon"],
@@ -73,14 +81,16 @@
 	}
   },
   {
-    "ranks": ["Bonice"],
+    "ranks": ["Bonice", "Banners2"],
     "users": ["Brandynauta","sara_dj03"],
     "groups": ["Bonice"],
-    "custom_indexes": {}
+    "custom_indexes": {
+	  "2": ["Brandynauta","sara_dj03"]
+	}
   },
   {
     "ranks": ["DancerCapitan"],
-    "users": ["KatheKatt","ღItzAkaneღ"],
+    "users": [],
     "groups": ["DancerCapitan"],
     "custom_indexes": {}
   },
@@ -89,7 +99,7 @@
     "users": ["_Viscochin_","Shirou1711","Roxytooty","OsitoPauPau","sabaxius","Gio©","ღᴋᴀᴍɪᴍɪ","Ｅｕｐｈｏｒｉｉａ","Areck_demon","Erill․♥","ｍｅｏｗ?","Beiker07","Deıssʏ","raycrash","ღEquiღ","Seruly","D O V Ē","MaurixG","ʚɞ sᴇx ᴅᴇsɪʀᴇ","ReikaVermysthra"],
     "groups": ["DancerCari"],
     "custom_indexes": {
-	  "9": ["_Viscochin_","Shirou1711","Roxytooty","OsitoPauPau","sabaxius","Gio©","ღᴋᴀᴍɪᴍɪ","Ｅｕｐｈｏｒｉｉａ","Areck_demon","Erill․♥","ｍｅｏｗ?","Beiker07","Deıssʏ","raycrash","ღEquiღ","Seruly","D O V Ē","MaurixG","ʚɞ sᴇx ᴅᴇsɪʀᴇ","ReikaVermysthra"]	
+	  "9": ["_Viscochin_","KatheKatt","Shirou1711","Roxytooty","OsitoPauPau","sabaxius","Gio©","ღᴋᴀᴍɪᴍɪ","Ｅｕｐｈｏｒｉｉａ","Areck_demon","Erill․♥","ｍｅｏｗ?","Beiker07","Deıssʏ","raycrash","ღEquiღ","Seruly","D O V Ē","MaurixG","ʚɞ sᴇx ᴅᴇsɪʀᴇ","ReikaVermysthra"]	
 	}
   },
   {
