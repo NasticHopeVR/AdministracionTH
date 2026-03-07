@@ -1,10 +1,11 @@
 [
   {
-    "ranks": ["Co-Owner", "Banner1"],
-    "users": ["ღItzAkaneღ", "Sainthe", "SugarLoliUwU"],
+    "ranks": ["Co-Owner", "Mod", "Banner1"],
+    "users": ["ღItzAkaneღ", "Sainthe", "SugarLoliUwU", "ParzivalOkazaki"],
     "groups": ["Co-Owner"],
     "custom_indexes": {
       "3": ["SugarLoliUwU"],
+      "4": ["ParzivalOkazaki"],
       "1": ["Sainthe"]
     }
   },
