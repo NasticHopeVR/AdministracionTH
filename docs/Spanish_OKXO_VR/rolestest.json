@@ -1,19 +1,20 @@
 [
   {
-    "ranks": ["Co-Owner", "Mod", "Banner1"],
-    "users": ["ღItzAkaneღ", "Sainthe", "SugarLoliUwU", "ParzivalOkazaki"],
-    "groups": ["Co-Owner"],
+    "ranks": ["Mod", "Banner1"],
+    "users": ["ღItzAkaneღ", "SugarLoliUwU", "ParzivalOkazaki"],
+    "groups": ["Mod"],
     "custom_indexes": {
       "3": ["SugarLoliUwU"],
-      "4": ["ParzivalOkazaki"],
-      "1": ["Sainthe"]
+      "4": ["ParzivalOkazaki"]
     }
   },
   {
-    "ranks": ["NoviaIcon"],
-    "users": ["Dulcecоmocandy"],
+    "ranks": ["NoviaIcon", "Co-Owner", "Banner2"],
+    "users": ["Dulcecоmocandy", "Sainthe"],
     "groups": ["NoviaIcon"],
-    "custom_indexes": {}
+    "custom_indexes": {
+      "7": ["Sainthe"]
+    }
   },
   {
     "ranks": ["InversorA"],
