@@ -1,35 +1,33 @@
 [
     {
         "ranks": [
-            "Co-Owner"
+            "Co-Owner",
+            "Banners2"
         ],
         "users": [
-            "Sainthe",
-            "ღItzAkaneღ"
+            "ღItzAkaneღ",
+            "Sainthe"
         ],
         "groups": [
-            [
-                "Co-Owner"
-            ]
+            "Co-Owner"
         ],
         "custom_indexes": {
             "7": [
-                "Sainthe",
-                "ღItzAkaneღ"
+                "ღItzAkaneღ",
+                "Sainthe"
             ]
         }
     },
     {
         "ranks": [
-            "NoviaIcon"
+            "NoviaIcon",
+            "Banners2"
         ],
         "users": [
             "Dulcecоmocandy"
         ],
         "groups": [
-            [
-                "NoviaIcon"
-            ]
+            "NoviaIcon"
         ],
         "custom_indexes": {
             "8": [
@@ -39,15 +37,14 @@
     },
     {
         "ranks": [
-            "InversorA"
+            "InversorA",
+            "Banners1"
         ],
         "users": [
             "ElTaino"
         ],
         "groups": [
-            [
-                "InversorA"
-            ]
+            "InversorA"
         ],
         "custom_indexes": {
             "6": [
@@ -57,15 +54,14 @@
     },
     {
         "ranks": [
-            "InversorB"
+            "InversorB",
+            "Banners1"
         ],
         "users": [
             "ᴇᴛᴀᴅɪʟᴀᴠ"
         ],
         "groups": [
-            [
-                "InversorB"
-            ]
+            "InversorB"
         ],
         "custom_indexes": {
             "6": [
@@ -75,15 +71,14 @@
     },
     {
         "ranks": [
-            "InversorC"
+            "InversorC",
+            "Banners1"
         ],
         "users": [
             "NeoDino"
         ],
         "groups": [
-            [
-                "InversorC"
-            ]
+            "InversorC"
         ],
         "custom_indexes": {
             "6": [
@@ -93,162 +88,157 @@
     },
     {
         "ranks": [
-            "Pecador"
+            "Pecador",
+            "Banners1"
         ],
         "users": [
-            "CAROL_RM",
-            "GERMAN002",
             "GREAT_ONE",
-            "Houltler",
-            "ISLA DEL PECADO",
-            "KazumiiVT",
-            "NΛΣŁ",
-            "ShadowN01",
             "SweetMochi0",
+            "NΛΣŁ",
+            "KazumiiVT",
             "konflakes_",
+            "GERMAN002",
+            "ISLA DEL PECADO",
             "mrbb88",
+            "CAROL_RM",
+            "Houltler",
+            "ShadowN01",
             "༒d̷a̷r̷i̷1̷8̷༒"
         ],
         "groups": [
-            [
-                "Pecador"
-            ]
+            "Pecador"
         ],
         "custom_indexes": {
             "5": [
-                "CAROL_RM",
-                "GERMAN002",
                 "GREAT_ONE",
-                "Houltler",
-                "ISLA DEL PECADO",
-                "KazumiiVT",
-                "NΛΣŁ",
-                "ShadowN01",
                 "SweetMochi0",
+                "NΛΣŁ",
+                "KazumiiVT",
                 "konflakes_",
+                "GERMAN002",
+                "ISLA DEL PECADO",
                 "mrbb88",
+                "CAROL_RM",
+                "Houltler",
+                "ShadowN01",
                 "༒d̷a̷r̷i̷1̷8̷༒"
             ]
         }
     },
     {
         "ranks": [
-            "Dextro"
+            "Dextro",
+            "Banners2"
         ],
         "users": [
-            "Dilocc",
-            "IG XimenaGtz04",
-            "Karurus_Sღ",
-            "Kevin GlezAnc",
             "Sr_Espinoza",
+            "Dilocc",
+            "Ƙυѕт",
             "TAILINGXA",
-            "Ƙυѕт"
+            "Kevin GlezAnc",
+            "Karurus_Sღ",
+            "IG XimenaGtz04"
         ],
         "groups": [
-            [
-                "Dextro"
-            ]
+            "Dextro"
         ],
         "custom_indexes": {
             "3": [
-                "Dilocc",
-                "IG XimenaGtz04",
-                "Karurus_Sღ",
-                "Kevin GlezAnc",
                 "Sr_Espinoza",
+                "Dilocc",
+                "Ƙυѕт",
                 "TAILINGXA",
-                "Ƙυѕт"
+                "Kevin GlezAnc",
+                "Karurus_Sღ",
+                "IG XimenaGtz04"
             ]
         }
     },
     {
         "ranks": [
-            "Mod"
+            "Mod",
+            "Banners1"
         ],
         "users": [
-            "Andrömeda",
-            "ImVxc",
             "MithZh",
-            "Mαятιи_MxVr",
-            "ParzivalOkazaki",
+            "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
             "RohandrileVR",
+            "ƝƛƓȺ★ƑʘɌȾ",
             "Strikkеrz",
+            "ImVxc",
+            "ParzivalOkazaki",
+            "Mαятιи_MxVr",
             "Uni ウサギ",
             "graygrace",
-            "ƝƛƓȺ★ƑʘɌȾ",
-            "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ"
+            "Andrömeda"
         ],
         "groups": [
-            [
-                "Mod"
-            ]
+            "Mod"
         ],
         "custom_indexes": {
             "4": [
-                "Andrömeda",
-                "ImVxc",
                 "MithZh",
-                "Mαятιи_MxVr",
-                "ParzivalOkazaki",
+                "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
                 "RohandrileVR",
+                "ƝƛƓȺ★ƑʘɌȾ",
                 "Strikkеrz",
+                "ImVxc",
+                "ParzivalOkazaki",
+                "Mαятιи_MxVr",
                 "Uni ウサギ",
                 "graygrace",
-                "ƝƛƓȺ★ƑʘɌȾ",
-                "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ"
+                "Andrömeda"
             ]
         }
     },
     {
         "ranks": [
-            "JokerCircus"
+            "JokerCircus",
+            "Banners1"
         ],
         "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "JokerStein",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
+            "XionWolf V",
             "RocketSaul",
-            "XionWolf V"
+            "MarlonQC",
+            "FXSCAR",
+            "Naim Ulloa",
+            "MokaPaut",
+            "GreyGrace",
+            "KirikuVT",
+            "Amurysse",
+            "JokerStein",
+            "Cuervito_"
         ],
         "groups": [
-            [
-                "JokerCircus"
-            ]
+            "JokerCircus"
         ],
         "custom_indexes": {
             "13": [
-                "Amurysse",
-                "Cuervito_",
-                "FXSCAR",
-                "GreyGrace",
-                "JokerStein",
-                "KirikuVT",
-                "MarlonQC",
-                "MokaPaut",
-                "Naim Ulloa",
+                "XionWolf V",
                 "RocketSaul",
-                "XionWolf V"
+                "MarlonQC",
+                "FXSCAR",
+                "Naim Ulloa",
+                "MokaPaut",
+                "GreyGrace",
+                "KirikuVT",
+                "Amurysse",
+                "JokerStein",
+                "Cuervito_"
             ]
         }
     },
     {
         "ranks": [
-            "DancerCapitan"
+            "DancerCapitan",
+            "Banners1"
         ],
         "users": [
             "KatheKatt",
             "ღItzAkaneღ"
         ],
         "groups": [
-            [
-                "DancerCapitan"
-            ]
+            "DancerCapitan"
         ],
         "custom_indexes": {
             "11": [
@@ -259,57 +249,56 @@
     },
     {
         "ranks": [
-            "DancerCari"
+            "DancerCari",
+            "Banners2"
         ],
         "users": [
-            "Areck_demon",
             "Beiker07",
-            "D O V Ē",
-            "Deıssʏ",
-            "Erill․♥",
-            "Gio©",
-            "MaurixG",
-            "OsitoPauPau",
-            "ReikaVermysthra",
-            "Roxytooty",
-            "Seruly",
-            "Shirou1711",
             "_Viscochin_",
+            "ReikaVermysthra",
             "raycrash",
-            "sabaxius",
-            "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
-            "ღEquiღ",
+            "Erill․♥",
+            "Roxytooty",
+            "Shirou1711",
+            "OsitoPauPau",
             "ღᴋᴀᴍɪᴍɪ",
-            "Ｅｕｐｈｏｒｉｉａ",
-            "ｍｅｏｗ?"
+            "Areck_demon",
+            "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
+            "Seruly",
+            "D O V Ē",
+            "ｍｅｏｗ?",
+            "MaurixG",
+            "sabaxius",
+            "ღEquiღ",
+            "Deıssʏ",
+            "Gio©",
+            "Ｅｕｐｈｏｒｉｉａ"
         ],
         "groups": [
-            [
-                "DancerCari"
-            ]
+            "DancerCari"
         ],
         "custom_indexes": {
             "9": [
-                "Areck_demon",
                 "Beiker07",
-                "D O V Ē",
-                "Deıssʏ",
-                "Erill․♥",
-                "Gio©",
-                "MaurixG",
-                "OsitoPauPau",
-                "ReikaVermysthra",
-                "Roxytooty",
-                "Seruly",
-                "Shirou1711",
                 "_Viscochin_",
+                "ReikaVermysthra",
                 "raycrash",
-                "sabaxius",
-                "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
-                "ღEquiღ",
+                "Erill․♥",
+                "Roxytooty",
+                "Shirou1711",
+                "OsitoPauPau",
                 "ღᴋᴀᴍɪᴍɪ",
-                "Ｅｕｐｈｏｒｉｉａ",
-                "ｍｅｏｗ?"
+                "Areck_demon",
+                "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
+                "Seruly",
+                "D O V Ē",
+                "ｍｅｏｗ?",
+                "MaurixG",
+                "sabaxius",
+                "ღEquiღ",
+                "Deıssʏ",
+                "Gio©",
+                "Ｅｕｐｈｏｒｉｉａ"
             ]
         }
     },
@@ -318,95 +307,91 @@
             "Friends"
         ],
         "users": [
-            "-Tai",
-            "-Wing-",
-            "969King",
-            "Abilene034",
-            "Alegnamon",
-            "AndreaAlejandra",
-            "BEETHOHIR0",
-            "Chaos Spectrum",
-            "ContinuumChaos",
-            "DR․Plague_",
-            "DarkCrim",
-            "Diṧconnect",
             "GUILEAS",
-            "K r i s t i n i",
-            "Kaelh",
-            "LordRagnar",
-            "M Ѧ Y ҂",
-            "Matiusito",
-            "Maurocv",
-            "Miizuho-",
-            "Mikunita",
-            "NYADETH",
-            "Nevadi",
-            "Nuniˎ星ˊ˗",
-            "RensellaVT",
-            "Retrosnz",
-            "SpaceGalaxy‘sPET",
-            "StreetLove?",
-            "VaKass",
-            "WorldDestroyers",
+            "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
             "Xiomis",
             "XmatrixX97",
-            "[ ICHIGO ]",
-            "biliustick48",
-            "faunotears",
-            "gabo121567",
-            "lShadou",
-            "patata-kun",
-            "samantha2301",
-            "¿ ᴇ-sᴇx ?",
-            "¿ǫᴜɪᴄᴋɪᴇ-sᴇx?",
-            "¿ɪʀʟ-sᴇx?",
-            "¿ɪᴍᴀɢɪɴᴀʀʏ-sᴇx?",
-            "ɪᴛᴢᴜɴʏ ®",
-            "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
-            "༒ MAGO ༒",
-            "༒MixedDesire's༒",
-            "『ϟsxϟ』ツ",
             "バツMakiバツ",
+            "Retrosnz",
+            "『ϟsxϟ』ツ",
+            "LordRagnar",
+            "BEETHOHIR0",
+            "༒ MAGO ༒",
+            "Diṧconnect",
+            "969King",
+            "Nevadi",
+            "DarkCrim",
+            "Chaos Spectrum",
+            "[ ICHIGO ]",
+            "Kaelh",
+            "M Ѧ Y ҂",
+            "NYADETH",
+            "¿ɪᴍᴀɢɪɴᴀʀʏ-sᴇx?",
+            "Abilene034",
+            "StreetLove?",
+            "WorldDestroyers",
             "匚尺丨丂",
-            "｢Demonic｣"
+            "gabo121567",
+            "biliustick48",
+            "AndreaAlejandra",
+            "lShadou",
+            "¿ ᴇ-sᴇx ?",
+            "samantha2301",
+            "Alegnamon",
+            "¿ɪʀʟ-sᴇx?",
+            "VaKass",
+            "patata-kun",
+            "SpaceGalaxy‘sPET",
+            "-Wing-",
+            "Maurocv",
+            "-Tai",
+            "faunotears",
+            "ContinuumChaos",
+            "༒MixedDesire's༒",
+            "DR․Plague_",
+            "Nuniˎ星ˊ˗",
+            "Matiusito",
+            "｢Demonic｣",
+            "ɪᴛᴢᴜɴʏ ®",
+            "Mikunita",
+            "K r i s t i n i",
+            "Miizuho-",
+            "¿ǫᴜɪᴄᴋɪᴇ-sᴇx?",
+            "RensellaVT"
         ],
         "groups": [
-            [
-                "Friends"
-            ]
+            "Friends"
         ]
     },
     {
         "ranks": [
-            "Icon"
+            "Icon",
+            "Banners1"
         ],
         "users": [
-            "Icοn4500",
-            "karу"
+            "karу",
+            "Icοn4500"
         ],
         "groups": [
-            [
-                "Icon"
-            ]
+            "Icon"
         ],
         "custom_indexes": {
             "16": [
-                "Icοn4500",
-                "karу"
+                "karу",
+                "Icοn4500"
             ]
         }
     },
     {
         "ranks": [
-            "AdminManager"
+            "AdminManager",
+            "Banners1"
         ],
         "users": [
             "SugarLoliUwU"
         ],
         "groups": [
-            [
-                "AdminManager"
-            ]
+            "AdminManager"
         ],
         "custom_indexes": {
             "3": [
@@ -416,235 +401,246 @@
     },
     {
         "ranks": [
-            "VIP"
+            "VIP",
+            "Banners1"
         ],
         "users": [
-            "-Jane Doe",
-            "-Marcyy-",
-            "AG TrinalGore54",
-            "Aeris_Kami",
-            "Akita Neru〆",
-            "Alliebearcx",
-            "AndreaAlejandra",
-            "AngelSq",
-            "BebecitaShey",
-            "Capibara․ 1eb1",
-            "CopycatPortal",
-            "Daku_KamiFemboy",
-            "Diegomex 8f11",
-            "DrFarras",
             "Dulcecоmocandy",
-            "El_CADEJO_SV",
-            "Erika01",
-            "EstafiGamerMeta 21d6",
-            "Fire_Starter",
-            "FrankTM",
-            "GERMAN002",
-            "GREAT_ONE",
-            "Icοn4500",
-            "Imseett",
-            "ItsHosh 星",
-            "Josuewe",
-            "Karlozz",
-            "Kyokaツ",
-            "KΣIA ღ",
-            "LEA ღ",
-            "LadyBoom9",
-            "Lexi_Cineru",
-            "Littlebunnyy19",
-            "Luismi92",
-            "Matabots",
-            "NiquinPRO",
-            "Nаru",
-            "Robi1",
-            "SCrifer",
-            "SHATIER",
-            "SeleNix",
-            "Shyvanae",
-            "SirRorshack",
-            "SrCuatro",
-            "SugarLoliUwU",
-            "Sunday0",
-            "Tapia135777",
-            "Teeete",
-            "TheDoctorSnake",
-            "Tocina Bacon",
-            "Warm®",
-            "XoX_Ashley_XoX",
-            "XxX_Alexa_XxX",
-            "YojanR1501",
             "ZooboxSan",
-            "_MimiPR_",
-            "aSeraku",
-            "aperta",
-            "berna mow",
-            "dequer12",
-            "elite442",
-            "galogb204",
-            "hakunamatata93",
-            "iTeo_zz",
-            "inniedum",
-            "josyelin",
-            "kapita",
-            "marovimartin",
-            "rebe_76 754d",
-            "sg_1464",
-            "tr0y4n0Ҳ",
-            "ucranianalive_",
-            "ʙᴀʀᴄᴏᴅᴇ",
-            "ʚ -Moonwolf- ɞ",
-            "ʚ-Aquileswolf-ɞ",
+            "Sunday0",
+            "SirRorshack",
             "ო Y A M I ო",
+            "Warm®",
+            "Nаru",
+            "BebecitaShey",
+            "galogb204",
+            "EstafiGamerMeta 21d6",
+            "Luismi92",
+            "hakunamatata93",
+            "CopycatPortal",
+            "ʙᴀʀᴄᴏᴅᴇ",
+            "Erika01",
+            "-Marcyy-",
+            "Aeris_Kami",
+            "Daku_KamiFemboy",
+            "sg_1464",
+            "rebe_76 754d",
+            "_MimiPR_",
+            "Tocina Bacon",
+            "ｱﾑｱﾑｷ尺ﾉｲﾑ",
+            "Kyokaツ",
+            "Fire_Starter",
+            "Alliebearcx",
+            "Shyvanae",
             "ＴＯＫＡＹＯ",
-            "ｱﾑｱﾑｷ尺ﾉｲﾑ"
+            "LEA ღ",
+            "Akita Neru〆",
+            "berna mow",
+            "Teeete",
+            "AngelSq",
+            "josyelin",
+            "NiquinPRO",
+            "SeleNix",
+            "tr0y4n0Ҳ",
+            "Lexi_Cineru",
+            "AG TrinalGore54",
+            "aperta",
+            "SHATIER",
+            "AndreaAlejandra",
+            "ItsHosh 星",
+            "Capibara․ 1eb1",
+            "XoX_Ashley_XoX",
+            "SCrifer",
+            "SugarLoliUwU",
+            "ucranianalive_",
+            "DrFarras",
+            "ʚ -Moonwolf- ɞ",
+            "KΣIA ღ",
+            "Diegomex 8f11",
+            "aSeraku",
+            "TheDoctorSnake",
+            "Josuewe",
+            "Littlebunnyy19",
+            "XxX_Alexa_XxX",
+            "GREAT_ONE",
+            "SrCuatro",
+            "kapita",
+            "LadyBoom9",
+            "iTeo_zz",
+            "Matabots",
+            "El_CADEJO_SV",
+            "FrankTM",
+            "Robi1",
+            "marovimartin",
+            "Karlozz",
+            "GERMAN002",
+            "Imseett",
+            "inniedum",
+            "ʚ-Aquileswolf-ɞ",
+            "-Jane Doe",
+            "Icοn4500"
         ],
         "groups": [
-            [
-                "VIP"
-            ]
+            "VIP"
         ],
         "custom_indexes": {
-            "1": [
-                "Tapia135777",
-                "YojanR1501",
-                "dequer12",
-                "elite442"
-            ],
             "2": [
-                "-Jane Doe",
-                "-Marcyy-",
-                "AG TrinalGore54",
-                "Aeris_Kami",
-                "Akita Neru〆",
-                "Alliebearcx",
-                "AndreaAlejandra",
-                "AngelSq",
-                "BebecitaShey",
-                "Capibara․ 1eb1",
-                "CopycatPortal",
-                "Daku_KamiFemboy",
-                "Diegomex 8f11",
-                "DrFarras",
                 "Dulcecоmocandy",
-                "El_CADEJO_SV",
-                "Erika01",
-                "EstafiGamerMeta 21d6",
-                "Fire_Starter",
-                "FrankTM",
-                "GERMAN002",
-                "GREAT_ONE",
-                "Icοn4500",
-                "Imseett",
-                "ItsHosh 星",
-                "Josuewe",
-                "Karlozz",
-                "Kyokaツ",
-                "KΣIA ღ",
-                "LEA ღ",
-                "LadyBoom9",
-                "Lexi_Cineru",
-                "Littlebunnyy19",
-                "Luismi92",
-                "Matabots",
-                "NiquinPRO",
-                "Nаru",
-                "Robi1",
-                "SCrifer",
-                "SHATIER",
-                "SeleNix",
-                "Shyvanae",
-                "SirRorshack",
-                "SrCuatro",
-                "SugarLoliUwU",
-                "Sunday0",
-                "Teeete",
-                "TheDoctorSnake",
-                "Tocina Bacon",
-                "Warm®",
-                "XoX_Ashley_XoX",
-                "XxX_Alexa_XxX",
                 "ZooboxSan",
-                "_MimiPR_",
-                "aSeraku",
-                "aperta",
-                "berna mow",
-                "galogb204",
-                "hakunamatata93",
-                "iTeo_zz",
-                "inniedum",
-                "josyelin",
-                "kapita",
-                "marovimartin",
-                "rebe_76 754d",
-                "sg_1464",
-                "tr0y4n0Ҳ",
-                "ucranianalive_",
-                "ʙᴀʀᴄᴏᴅᴇ",
-                "ʚ -Moonwolf- ɞ",
-                "ʚ-Aquileswolf-ɞ",
+                "Sunday0",
+                "SirRorshack",
                 "ო Y A M I ო",
+                "Warm®",
+                "Nаru",
+                "BebecitaShey",
+                "galogb204",
+                "EstafiGamerMeta 21d6",
+                "Luismi92",
+                "hakunamatata93",
+                "CopycatPortal",
+                "ʙᴀʀᴄᴏᴅᴇ",
+                "Erika01",
+                "-Marcyy-",
+                "Aeris_Kami",
+                "Daku_KamiFemboy",
+                "sg_1464",
+                "rebe_76 754d",
+                "_MimiPR_",
+                "Tocina Bacon",
+                "ｱﾑｱﾑｷ尺ﾉｲﾑ",
+                "Kyokaツ",
+                "Fire_Starter",
+                "Alliebearcx",
+                "Shyvanae",
                 "ＴＯＫＡＹＯ",
-                "ｱﾑｱﾑｷ尺ﾉｲﾑ"
+                "LEA ღ",
+                "Akita Neru〆",
+                "berna mow",
+                "Teeete",
+                "AngelSq",
+                "josyelin",
+                "NiquinPRO",
+                "SeleNix",
+                "tr0y4n0Ҳ",
+                "Lexi_Cineru",
+                "AG TrinalGore54",
+                "aperta",
+                "SHATIER",
+                "AndreaAlejandra",
+                "ItsHosh 星",
+                "Capibara․ 1eb1",
+                "XoX_Ashley_XoX",
+                "SCrifer",
+                "SugarLoliUwU",
+                "ucranianalive_",
+                "DrFarras",
+                "ʚ -Moonwolf- ɞ",
+                "KΣIA ღ",
+                "Diegomex 8f11",
+                "aSeraku",
+                "TheDoctorSnake",
+                "Josuewe",
+                "Littlebunnyy19",
+                "XxX_Alexa_XxX",
+                "GREAT_ONE",
+                "SrCuatro",
+                "kapita",
+                "LadyBoom9",
+                "iTeo_zz",
+                "Matabots",
+                "El_CADEJO_SV",
+                "FrankTM",
+                "Robi1",
+                "marovimartin",
+                "Karlozz",
+                "GERMAN002",
+                "Imseett",
+                "inniedum",
+                "ʚ-Aquileswolf-ɞ",
+                "-Jane Doe",
+                "Icοn4500"
             ]
         }
     },
     {
         "ranks": [
-            "Partner"
+            "VIP",
+            "Banners2"
         ],
         "users": [
-            "ALCARAZZ",
-            "DJ CEVICHE",
-            "Darect",
-            "FXSCAR",
-            "Fluffy_kiwi",
-            "Jensell1",
-            "JokerStein",
-            "Karlozz",
-            "MarlonQC",
-            "Naim Ulloa",
-            "Pely Vega",
-            "Sofi-Sticada",
-            "SymphonyOwU",
-            "XionWolf V",
-            "ari․33",
-            "cortis9",
-            "duckis",
-            "innari",
-            "ო Y A M I ო",
-            "ᴜѕᴀɢɪᴠʀ",
-            "Ｓｈｎａｐｉｉ",
-            "ＴＯＫＡＹＯ"
+            "Tapia135777",
+            "elite442",
+            "dequer12",
+            "YojanR1501"
         ],
         "groups": [
-            [
-                "Partner"
+            "VIP"
+        ],
+        "custom_indexes": {
+            "1": [
+                "Tapia135777",
+                "elite442",
+                "dequer12",
+                "YojanR1501"
             ]
+        }
+    },
+    {
+        "ranks": [
+            "Partner",
+            "Banners1"
+        ],
+        "users": [
+            "Naim Ulloa",
+            "MarlonQC",
+            "FXSCAR",
+            "ო Y A M I ო",
+            "ALCARAZZ",
+            "Sofi-Sticada",
+            "Darect",
+            "innari",
+            "XionWolf V",
+            "ＴＯＫＡＹＯ",
+            "cortis9",
+            "DJ CEVICHE",
+            "Jensell1",
+            "ᴜѕᴀɢɪᴠʀ",
+            "ari․33",
+            "SymphonyOwU",
+            "duckis",
+            "JokerStein",
+            "Ｓｈｎａｐｉｉ",
+            "Fluffy_kiwi",
+            "Karlozz",
+            "Pely Vega"
+        ],
+        "groups": [
+            "Partner"
         ],
         "custom_indexes": {
             "6": [
-                "ALCARAZZ",
-                "DJ CEVICHE",
-                "Darect",
-                "FXSCAR",
-                "Fluffy_kiwi",
-                "Jensell1",
-                "JokerStein",
-                "Karlozz",
-                "MarlonQC",
                 "Naim Ulloa",
-                "Pely Vega",
-                "Sofi-Sticada",
-                "SymphonyOwU",
-                "XionWolf V",
-                "ari․33",
-                "cortis9",
-                "duckis",
-                "innari",
+                "MarlonQC",
+                "FXSCAR",
                 "ო Y A M I ო",
+                "ALCARAZZ",
+                "Sofi-Sticada",
+                "Darect",
+                "innari",
+                "XionWolf V",
+                "ＴＯＫＡＹＯ",
+                "cortis9",
+                "DJ CEVICHE",
+                "Jensell1",
                 "ᴜѕᴀɢɪᴠʀ",
+                "ari․33",
+                "SymphonyOwU",
+                "duckis",
+                "JokerStein",
                 "Ｓｈｎａｐｉｉ",
-                "ＴＯＫＡＹＯ"
+                "Fluffy_kiwi",
+                "Karlozz",
+                "Pely Vega"
             ]
         }
     }
