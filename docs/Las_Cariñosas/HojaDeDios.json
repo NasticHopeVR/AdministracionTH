@@ -401,6 +401,23 @@
     },
     {
         "ranks": [
+            "Owner",
+            "Banners1"
+        ],
+        "users": [
+            "Nastic Hope"
+        ],
+        "groups": [
+            "Owner"
+        ],
+        "custom_indexes": {
+            "10": [
+                "Nastic Hope"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "VIP",
             "Banners1"
         ],
