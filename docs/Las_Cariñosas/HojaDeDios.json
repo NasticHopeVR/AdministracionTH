@@ -418,6 +418,27 @@
     },
     {
         "ranks": [
+            "Lunaris",
+            "Banners2"
+        ],
+        "users": [
+            "josyelin",
+            "Akita Neru〆",
+            "dequer12"
+        ],
+        "groups": [
+            "Lunaris"
+        ],
+        "custom_indexes": {
+            "1": [
+                "josyelin",
+                "Akita Neru〆",
+                "dequer12"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "VIP",
             "Banners1"
         ],
