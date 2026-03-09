@@ -1,248 +1,100 @@
 URL Ranks by DiscoPeligro.
-[
-    {
-        "ranks": [
-            "Owner"
-        ],
-        "users": [
-            "GERMAN002"
-        ],
-        "groups": [
-            "Owner"
-        ]
-    },
-    {
-        "ranks": [
-            "Co-owner1"
-        ],
-        "users": [
-            "ISLA DEL PECADO",
-            "ShadowN01"
-        ],
-        "groups": [
-            "Co-owner1"
-        ]
-    },
-    {
-        "ranks": [
-            "Co-owner2"
-        ],
-        "users": [
-            "Konflakes"
-        ],
-        "groups": [
-            "Co-owner2"
-        ]
-    },
-    {
-        "ranks": [
-            "Co-owner3"
-        ],
-        "users": [
-            "mrbb88"
-        ],
-        "groups": [
-            "Co-owner3"
-        ]
-    },
-    {
-        "ranks": [
-            "Co-owner4"
-        ],
-        "users": [
-            "RohandrileVR"
-        ],
-        "groups": [
-            "Co-owner4"
-        ]
-    },
-    {
-        "ranks": [
-            "Co-owner5"
-        ],
-        "users": [
-            "CAROL_RM"
-        ],
-        "groups": [
-            "Co-owner5"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "SweetMochi0"
-        ],
-        "groups": [
-            "InversorA"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorB"
-        ],
-        "users": [
-            "_Wilker_D_Soto_"
-        ],
-        "groups": [
-            "InversorB"
-        ]
-    },
-    {
-        "ranks": [
-            "Dancer"
-        ],
-        "users": [
-            "ReikaVermysthra",
-            "Shirou1711",
-            "misi-quest",
-            "_Viscochin_",
-            "OsitoPauPau",
-            "Hekkah",
-            "Erill․♥",
-            "Pamelachuu",
-            "Roxytooty",
-            "kfezito",
-            "ღᴋᴀᴍɪᴍɪ",
-            "EnzoNova"
-        ],
-        "groups": [
-            "Dancer"
-        ]
-    },
-    {
-        "ranks": [
-            "DJ"
-        ],
-        "users": [
-            "snake45655"
-        ],
-        "groups": [
-            "DJ"
-        ]
-    },
-    {
-        "ranks": [
-            "ManagerDancer"
-        ],
-        "users": [
-            "ღItzAkaneღ",
-            "konflakes_"
-        ],
-        "groups": [
-            "ManagerDancer"
-        ]
-    },
-    {
-        "ranks": [
-            "Seguridad"
-        ],
-        "users": [
-            "Houltler",
-            "NaranjitaACN",
-            "༒d̷a̷r̷i̷1̷8̷༒",
-            "NΛΣŁ"
-        ],
-        "groups": [
-            "Seguridad"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorC"
-        ],
-        "users": [
-            "GREAT_ONE"
-        ],
-        "groups": [
-            "InversorC"
-        ]
-    },
-    {
-        "ranks": [
-            "AdminFemboy"
-        ],
-        "users": [
-            "KazumiiVT"
-        ],
-        "groups": [
-            "AdminFemboy"
-        ]
-    },
-    {
-        "ranks": [
-            "Pompompurin"
-        ],
-        "users": [
-            "c1geerzs"
-        ],
-        "groups": [
-            "Pompompurin"
-        ]
-    },
-    {
-        "ranks": [
-            "Akihide"
-        ],
-        "users": [
-            "Akihide"
-        ],
-        "groups": [
-            "Akihide"
-        ]
-    },
-    {
-        "ranks": [
-            "Host"
-        ],
-        "users": [
-            "Zaykran"
-        ],
-        "groups": [
-            "Host"
-        ]
-    },
-    {
-        "ranks": [
-            "Elixir"
-        ],
-        "users": [
-            "Aurelian796",
-            "poisonliz",
-            "tori_cole",
-            "๛Ryu๛",
-            "DEVILZOO_",
-            "GideonToffu"
-        ],
-        "groups": [
-            "Elixir"
-        ]
-    },
-    {
-        "ranks": [
-            "VIP"
-        ],
-        "users": [
-            "NΛΣŁ",
-            "ღPastelito",
-            "..",
-            "Tommy1313",
-            "GREAT_ONE",
-            "Milenkoo",
-            "Bymaxter23",
-            "ღ̴N̴u̴g̴g̴e̴t̴ღ",
-            "lokito_sen",
-            "ʙʀʏᴀɴ_ɢᴍ",
-            "NaranjitaACN",
-            "Roxytooty",
-            "EdVanGohg",
-            "LaNubi23",
-            "༒d̷a̷r̷i̷1̷8̷༒",
-            "Ƴevgeny"
-        ],
-        "groups": [
-            "VIP"
-        ]
-    }
-]
+{
+    "Owner": [
+        "GERMAN002"
+    ],
+    "Co-owner1": [
+        "ShadowN01",
+        "ISLA DEL PECADO"
+    ],
+    "Co-owner2": [
+        "Konflakes"
+    ],
+    "Co-owner3": [
+        "mrbb88"
+    ],
+    "Co-owner4": [
+        "RohandrileVR"
+    ],
+    "Co-owner5": [
+        "CAROL_RM"
+    ],
+    "InversorA": [
+        "SweetMochi0"
+    ],
+    "InversorB": [
+        "_Wilker_D_Soto_"
+    ],
+    "Dancer": [
+        "Shirou1711",
+        "OsitoPauPau",
+        "_Viscochin_",
+        "Roxytooty",
+        "Erill․♥",
+        "ღᴋᴀᴍɪᴍɪ",
+        "misi-quest",
+        "Pamelachuu",
+        "ReikaVermysthra",
+        "EnzoNova",
+        "Hekkah",
+        "kfezito"
+    ],
+    "DJ": [
+        "snake45655"
+    ],
+    "ManagerDancer": [
+        "konflakes_",
+        "ღItzAkaneღ"
+    ],
+    "Seguridad": [
+        "༒d̷a̷r̷i̷1̷8̷༒",
+        "NaranjitaACN",
+        "Houltler",
+        "NΛΣŁ"
+    ],
+    "InversorC": [
+        "GREAT_ONE"
+    ],
+    "AdminFemboy": [
+        "KazumiiVT"
+    ],
+    "Pompompurin": [
+        "c1geerzs"
+    ],
+    "Akihide": [
+        "Akihide"
+    ],
+    "Host": [
+        "Zaykran"
+    ],
+    "Elixir": [
+        "poisonliz",
+        "๛Ryu๛",
+        "tori_cole",
+        "DEVILZOO_",
+        "Aurelian796",
+        "GideonToffu"
+    ],
+    "VIP": [
+        "LaNubi23",
+        "Tommy1313",
+        "Ƴevgeny",
+        "GREAT_ONE",
+        "༒d̷a̷r̷i̷1̷8̷༒",
+        "ღ̴N̴u̴g̴g̴e̴t̴ღ",
+        "NaranjitaACN",
+        "NΛΣŁ",
+        "ΛПGΣL̥",
+        "lokito_sen",
+        "EdVanGohg",
+        "ღPastelito",
+        "Bymaxter23",
+        "ʙʀʏᴀɴ_ɢᴍ",
+        "Milenkoo",
+        "Roxytooty",
+        "Farra_v18"
+    ],
+    "Partner": [
+        "Edielღ༒"
+    ]
+}
