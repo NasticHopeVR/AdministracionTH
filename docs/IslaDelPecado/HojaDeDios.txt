@@ -92,6 +92,9 @@ URL Ranks by DiscoPeligro.
         "ʙʀʏᴀɴ_ɢᴍ",
         "Milenkoo",
         "Roxytooty",
+        "Akita Neru〆",
+        "josyelin",
+        "dequer12",
         "Farra_v18"
     ],
     "Partner": [
