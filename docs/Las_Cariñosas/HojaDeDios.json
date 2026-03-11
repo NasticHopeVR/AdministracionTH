@@ -413,6 +413,20 @@
     },
     {
         "ranks": [
+            "Co-Owner"
+        ],
+        "users": [
+            "Nastic Hope",
+            "Sainthe",
+            "SugarLoliUwU",
+            "ღItzAkaneღ"
+        ],
+        "groups": [
+            "Co-Owner"
+        ]
+    },
+    {
+        "ranks": [
             "DancerCapitan"
         ],
         "users": [
@@ -425,16 +439,13 @@
     },
     {
         "ranks": [
-            "Co-Owner"
+            "NoviaIcon"
         ],
         "users": [
-            "Nastic Hope",
-            "Sainthe",
-            "SugarLoliUwU",
-            "ღItzAkaneღ"
+            "Dulcecоmocandy"
         ],
         "groups": [
-            "Co-Owner"
+            "NoviaIcon"
         ]
     },
     {
@@ -548,17 +559,6 @@
     },
     {
         "ranks": [
-            "NoviaIcon"
-        ],
-        "users": [
-            "Dulcecоmocandy"
-        ],
-        "groups": [
-            "NoviaIcon"
-        ]
-    },
-    {
-        "ranks": [
             "InversorA"
         ],
         "users": [
@@ -641,6 +641,27 @@
     },
     {
         "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "JokerStein",
+            "KirikuVT",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
+        ]
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -669,27 +690,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "JokerStein",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
         ]
     },
     {
