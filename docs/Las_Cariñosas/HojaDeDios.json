@@ -342,6 +342,7 @@
             "Sr_Espinoza",
             "ReikaVermysthra",
             "sara_dj03",
+            "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ＴＯＫＡＹＯ",
             "ო Y A M I ო",
             "Warm®",
@@ -349,7 +350,6 @@
             "Akita Neru〆",
             "josyelin",
             "duckis",
-            "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ɪᴛᴢᴜɴʏ ®",
             "StreetLove?"
         ],
@@ -397,16 +397,16 @@
             "2": [
                 "sara_dj03"
             ],
+            "12": [
+                "ᴇᴛᴀᴅɪʟᴀᴠ",
+                "Warm®",
+                "ɪᴛᴢᴜɴʏ ®",
+                "StreetLove?"
+            ],
             "11": [
                 "ＴＯＫＡＹＯ",
                 "ო Y A M I ო",
                 "duckis"
-            ],
-            "12": [
-                "Warm®",
-                "ᴇᴛᴀᴅɪʟᴀᴠ",
-                "ɪᴛᴢᴜɴʏ ®",
-                "StreetLove?"
             ],
             "1": [
                 "dequer12",
@@ -666,6 +666,17 @@
         ],
         "groups": [
             "Bonice"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorB"
+        ],
+        "users": [
+            "ᴇᴛᴀᴅɪʟᴀᴠ"
+        ],
+        "groups": [
+            "InversorB"
         ]
     },
     {
