@@ -12,7 +12,6 @@
             "Alliebearcx",
             "Amurysse",
             "AndreaAlejandra",
-            "Andrömeda",
             "AngelSq",
             "BebecitaShey",
             "CAROL_RM",
@@ -39,7 +38,6 @@
             "Houltler",
             "ISLA DEL PECADO",
             "Icοn4500",
-            "ImVxc",
             "Imseett",
             "ItsHosh 星",
             "Jensell1",
@@ -61,9 +59,7 @@
             "MarlonQC",
             "Matabots",
             "Mike300w",
-            "MithZh",
             "MokaPaut",
-            "Mαятιи_MxVr",
             "Naim Ulloa",
             "Nastic Hope",
             "NeoDino",
@@ -71,12 +67,10 @@
             "NΛΣŁ",
             "Nаru",
             "Pao_EliUwu19k",
-            "ParzivalOkazaki",
             "Pely Vega",
             "Prototipo0121",
             "Robi1",
             "RocketSaul",
-            "RohandrileVR",
             "SCrifer",
             "SSJSour",
             "Sanssha",
@@ -86,7 +80,6 @@
             "SirRorshack",
             "Sofi-Sticada",
             "SrCuatro",
-            "Strikkеrz",
             "SugarLoliUwU",
             "Sunday0",
             "SweetMochi0",
@@ -96,7 +89,6 @@
             "Teeete",
             "TheDoctorSnake",
             "Tocina Bacon",
-            "Uni ウサギ",
             "VEПDEƬƬΛ",
             "VΛLΞRǃΛ",
             "XionWolf V",
@@ -114,7 +106,6 @@
             "cortis9",
             "elite442",
             "galogb204",
-            "graygrace",
             "hakunamatata93",
             "iTeo_zz",
             "innari",
@@ -128,12 +119,11 @@
             "rebe_76 754d",
             "sg_1464",
             "ucranianalive_",
-            "ƝƛƓȺ★ƑʘɌȾ",
+            "Ƙυѕт",
             "ʀʊʄʊʟ",
             "ʙᴀʀᴄᴏᴅᴇ",
             "ʚ -Moonwolf- ɞ",
             "ʚ-Aquileswolf-ɞ",
-            "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
             "༒d̷a̷r̷i̷1̷8̷༒",
             "༺ღKyokaღ༻",
             "ღItzAkaneღ",
@@ -154,7 +144,6 @@
                 "ElTaino",
                 "NeoDino",
                 "FXSCAR",
-                "MarlonQC",
                 "XionWolf V",
                 "Naim Ulloa",
                 "Karlozz",
@@ -270,22 +259,13 @@
                 "Pao_EliUwu19k",
                 "Farra_v18"
             ],
-            "4": [
-                "Uni ウサギ",
-                "Strikkеrz",
-                "Andrömeda",
-                "Mαятιи_MxVr",
-                "RohandrileVR",
-                "graygrace",
-                "ƝƛƓȺ★ƑʘɌȾ",
-                "ImVxc",
-                "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
-                "ParzivalOkazaki",
-                "MithZh"
-            ],
             "16": [
                 "JokerStein",
                 "karу"
+            ],
+            "4": [
+                "MarlonQC",
+                "Ƙυѕт"
             ],
             "13": [
                 "MokaPaut",
@@ -397,18 +377,6 @@
     },
     {
         "ranks": [
-            "DancerCapitan"
-        ],
-        "users": [
-            "KatheKatt",
-            "ღItzAkaneღ"
-        ],
-        "groups": [
-            "DancerCapitan"
-        ]
-    },
-    {
-        "ranks": [
             "Co-Owner"
         ],
         "users": [
@@ -419,6 +387,18 @@
         ],
         "groups": [
             "Co-Owner"
+        ]
+    },
+    {
+        "ranks": [
+            "DancerCapitan"
+        ],
+        "users": [
+            "KatheKatt",
+            "ღItzAkaneღ"
+        ],
+        "groups": [
+            "DancerCapitan"
         ]
     },
     {
@@ -585,23 +565,35 @@
     },
     {
         "ranks": [
-            "Mod"
+            "JokerCircus"
         ],
         "users": [
-            "Andrömeda",
-            "ImVxc",
-            "MithZh",
-            "Mαятιи_MxVr",
-            "ParzivalOkazaki",
-            "RohandrileVR",
-            "Strikkеrz",
-            "Uni ウサギ",
-            "graygrace",
-            "ƝƛƓȺ★ƑʘɌȾ",
-            "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ"
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "JokerStein",
+            "KirikuVT",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
         ],
         "groups": [
-            "Mod"
+            "JokerCircus"
+        ]
+    },
+    {
+        "ranks": [
+            "Icon"
+        ],
+        "users": [
+            "JokerStein",
+            "karу"
+        ],
+        "groups": [
+            "Icon"
         ]
     },
     {
@@ -638,35 +630,15 @@
     },
     {
         "ranks": [
-            "JokerCircus"
+            "Mod"
         ],
         "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "JokerStein",
-            "KirikuVT",
             "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
+            "Warm®",
+            "Ƙυѕт"
         ],
         "groups": [
-            "JokerCircus"
-        ]
-    },
-    {
-        "ranks": [
-            "Icon"
-        ],
-        "users": [
-            "JokerStein",
-            "karу"
-        ],
-        "groups": [
-            "Icon"
+            "Mod"
         ]
     },
     {
