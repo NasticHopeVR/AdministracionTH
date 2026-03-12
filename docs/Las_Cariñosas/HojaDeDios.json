@@ -20,15 +20,12 @@
             "CopycatPortal",
             "Cuervito_",
             "DJ CEVICHE",
-            "Daku_KamiFemboy",
             "Danny_504",
             "Darect",
             "Diegomex 8f11",
-            "DrFarras",
             "Dᴀʏɪ",
             "ElTaino",
             "El_CADEJO_SV",
-            "Erika01",
             "EstafiGamerMeta 21d6",
             "FXSCAR",
             "Farra_v18",
@@ -79,7 +76,6 @@
             "Robi1",
             "RocketSaul",
             "RohandrileVR",
-            "SCrifer",
             "SSJSour",
             "Sanssha",
             "SeleNix",
@@ -227,16 +223,12 @@
                 "aperta",
                 "Littlebunnyy19",
                 "marovimartin",
-                "Daku_KamiFemboy",
-                "DrFarras",
                 "LadyBoom9",
                 "Josuewe",
                 "AngelSq",
                 "Teeete",
                 "kapita",
                 "Sunday0",
-                "Erika01",
-                "SCrifer",
                 "SirRorshack",
                 "Lexi_Cineru",
                 "༺ღKyokaღ༻",
@@ -439,17 +431,6 @@
     },
     {
         "ranks": [
-            "NoviaIcon"
-        ],
-        "users": [
-            "Dulcecоmocandy"
-        ],
-        "groups": [
-            "NoviaIcon"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -464,14 +445,11 @@
             "BebecitaShey",
             "Capibara․ 1eb1",
             "CopycatPortal",
-            "Daku_KamiFemboy",
             "Danny_504",
             "Diegomex 8f11",
-            "DrFarras",
             "Dulcecоmocandy",
             "Dᴀʏɪ",
             "El_CADEJO_SV",
-            "Erika01",
             "EstafiGamerMeta 21d6",
             "Farra_v18",
             "Fire_Starter",
@@ -499,7 +477,6 @@
             "Pao_EliUwu19k",
             "Prototipo0121",
             "Robi1",
-            "SCrifer",
             "SSJSour",
             "Sanssha",
             "SeleNix",
@@ -555,6 +532,17 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "NoviaIcon"
+        ],
+        "users": [
+            "Dulcecоmocandy"
+        ],
+        "groups": [
+            "NoviaIcon"
         ]
     },
     {
@@ -641,27 +629,6 @@
     },
     {
         "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "JokerStein",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -690,6 +657,27 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "JokerStein",
+            "KirikuVT",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
         ]
     },
     {
