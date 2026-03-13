@@ -2,6 +2,22 @@ URL Ranks by DiscoPeligro.
 [
     {
         "ranks": [
+            "Banners1"
+        ],
+        "users": [
+            "CAROL_RM"
+        ],
+        "groups": [
+            "Banners1"
+        ],
+        "custom_indexes": {
+            "1": [
+                "CAROL_RM"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "Owner"
         ],
         "users": [
@@ -16,8 +32,8 @@ URL Ranks by DiscoPeligro.
             "Co-owner1"
         ],
         "users": [
-            "ShadowN01",
-            "ISLA DEL PECADO"
+            "ISLA DEL PECADO",
+            "ShadowN01"
         ],
         "groups": [
             "Co-owner1"
@@ -94,18 +110,18 @@ URL Ranks by DiscoPeligro.
             "Dancer"
         ],
         "users": [
+            "EnzoNova",
+            "Erill․♥",
+            "Hekkah",
+            "OsitoPauPau",
+            "Pamelachuu",
+            "ReikaVermysthra",
+            "Roxytooty",
             "Shirou1711",
             "_Viscochin_",
-            "misi-quest",
-            "ღᴋᴀᴍɪᴍɪ",
-            "Erill․♥",
-            "ReikaVermysthra",
-            "Hekkah",
             "kfezito",
-            "EnzoNova",
-            "Pamelachuu",
-            "OsitoPauPau",
-            "Roxytooty"
+            "misi-quest",
+            "ღᴋᴀᴍɪᴍɪ"
         ],
         "groups": [
             "Dancer"
@@ -120,6 +136,40 @@ URL Ranks by DiscoPeligro.
         ],
         "groups": [
             "DJ"
+        ]
+    },
+    {
+        "ranks": [
+            "VIP"
+        ],
+        "users": [
+            "..",
+            "Akita Neru〆",
+            "Bymaxter23",
+            "GREAT_ONE",
+            "LaNubi23",
+            "Milenkoo",
+            "NaranjitaACN",
+            "NΛΣŁ",
+            "Roxytooty",
+            "StreetLove?",
+            "Tommy1313",
+            "Warm®",
+            "dequer12",
+            "duckis",
+            "josyelin",
+            "Ƴevgeny",
+            "ɪᴛᴢᴜɴʏ ®",
+            "ʙʀʏᴀɴ_ɢᴍ",
+            "༒d̷a̷r̷i̷1̷8̷༒",
+            "ო Y A M I ო",
+            "ღPastelito",
+            "ღ̴N̴u̴g̴g̴e̴t̴ღ",
+            "ᴇᴛᴀᴅɪʟᴀᴠ",
+            "ＴＯＫＡＹＯ"
+        ],
+        "groups": [
+            "VIP"
         ]
     },
     {
@@ -139,10 +189,10 @@ URL Ranks by DiscoPeligro.
             "Seguridad"
         ],
         "users": [
-            "༒d̷a̷r̷i̷1̷8̷༒",
             "Houltler",
+            "NaranjitaACN",
             "NΛΣŁ",
-            "NaranjitaACN"
+            "༒d̷a̷r̷i̷1̷8̷༒"
         ],
         "groups": [
             "Seguridad"
@@ -208,11 +258,11 @@ URL Ranks by DiscoPeligro.
             "Elixir"
         ],
         "users": [
-            "poisonliz",
-            "DEVILZOO_",
-            "tori_cole",
             "Aurelian796",
+            "DEVILZOO_",
             "GideonToffu",
+            "poisonliz",
+            "tori_cole",
             "๛Ryu๛"
         ],
         "groups": [
@@ -221,29 +271,13 @@ URL Ranks by DiscoPeligro.
     },
     {
         "ranks": [
-            "VIP"
+            "Partner"
         ],
         "users": [
-            "NaranjitaACN",
-            "NΛΣŁ",
-            "Roxytooty",
-            "LaNubi23",
-            "ღPastelito",
-            "Tommy1313",
-            "..",
-            "Ƴevgeny",
-            "Milenkoo",
-            "ღ̴N̴u̴g̴g̴e̴t̴ღ",
-            "Akita Neru〆",
-            "GREAT_ONE",
-            "dequer12",
-            "josyelin",
-            "༒d̷a̷r̷i̷1̷8̷༒",
-            "Bymaxter23",
-            "ʙʀʏᴀɴ_ɢᴍ"
+            "Edielღ༒"
         ],
         "groups": [
-            "VIP"
+            "Partner"
         ]
     }
 ]
