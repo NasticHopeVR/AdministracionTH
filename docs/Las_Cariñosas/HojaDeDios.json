@@ -397,17 +397,6 @@
     },
     {
         "ranks": [
-            "NoviaIcon"
-        ],
-        "users": [
-            "Dulcecоmocandy"
-        ],
-        "groups": [
-            "NoviaIcon"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -512,6 +501,17 @@
     },
     {
         "ranks": [
+            "NoviaIcon"
+        ],
+        "users": [
+            "Dulcecоmocandy"
+        ],
+        "groups": [
+            "NoviaIcon"
+        ]
+    },
+    {
+        "ranks": [
             "InversorA"
         ],
         "users": [
@@ -556,6 +556,18 @@
     },
     {
         "ranks": [
+            "Icon"
+        ],
+        "users": [
+            "JokerStein",
+            "karу"
+        ],
+        "groups": [
+            "Icon"
+        ]
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -584,18 +596,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "Icon"
-        ],
-        "users": [
-            "JokerStein",
-            "karу"
-        ],
-        "groups": [
-            "Icon"
         ]
     },
     {
