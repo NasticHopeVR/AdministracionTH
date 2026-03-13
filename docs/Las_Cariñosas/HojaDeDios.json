@@ -371,18 +371,6 @@
     },
     {
         "ranks": [
-            "DancerCapitan"
-        ],
-        "users": [
-            "KatheKatt",
-            "ღItzAkaneღ"
-        ],
-        "groups": [
-            "DancerCapitan"
-        ]
-    },
-    {
-        "ranks": [
             "Co-Owner"
         ],
         "users": [
@@ -393,6 +381,18 @@
         ],
         "groups": [
             "Co-Owner"
+        ]
+    },
+    {
+        "ranks": [
+            "DancerCapitan"
+        ],
+        "users": [
+            "KatheKatt",
+            "ღItzAkaneღ"
+        ],
+        "groups": [
+            "DancerCapitan"
         ]
     },
     {
@@ -556,18 +556,6 @@
     },
     {
         "ranks": [
-            "Icon"
-        ],
-        "users": [
-            "JokerStein",
-            "karу"
-        ],
-        "groups": [
-            "Icon"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -617,6 +605,18 @@
         ],
         "groups": [
             "JokerCircus"
+        ]
+    },
+    {
+        "ranks": [
+            "Icon"
+        ],
+        "users": [
+            "JokerStein",
+            "karу"
+        ],
+        "groups": [
+            "Icon"
         ]
     },
     {
