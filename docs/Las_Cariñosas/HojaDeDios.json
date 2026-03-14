@@ -151,7 +151,6 @@
             "Mike300w",
             "MokaPaut",
             "Naim Ulloa",
-            "Nastic Hope",
             "NeoDino",
             "NΛΣŁ",
             "Nаru",
@@ -355,9 +354,6 @@
             ],
             "3": [
                 "SugarLoliUwU"
-            ],
-            "10": [
-                "Nastic Hope"
             ]
         }
     },
@@ -519,26 +515,6 @@
     },
     {
         "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -567,6 +543,26 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
         ]
     },
     {
@@ -700,7 +696,6 @@
             "Co-Owner"
         ],
         "users": [
-            "Nastic Hope",
             "Sainthe",
             "SugarLoliUwU"
         ],
