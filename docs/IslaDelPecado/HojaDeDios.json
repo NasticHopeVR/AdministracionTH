@@ -6,6 +6,9 @@
         "users": [
             "CAROL_RM",
             "GERMAN002",
+            "ISLA DEL PECADO",
+            "Konflakes",
+            "ShadowN01",
             "SugarLoliUwU",
             "vymper"
         ],
@@ -14,12 +17,41 @@
         ],
         "custom_indexes": {
             "16": [
-                "GERMAN002"
+                "GERMAN002",
+                "ISLA DEL PECADO"
+            ],
+            "13": [
+                "ShadowN01"
+            ],
+            "7": [
+                "Konflakes"
+            ],
+            "3": [
+                "CAROL_RM"
             ],
             "1": [
-                "CAROL_RM",
                 "vymper",
                 "SugarLoliUwU"
+            ]
+        }
+    },
+    {
+        "ranks": [
+            "Banners2"
+        ],
+        "users": [
+            "RohandrileVR",
+            "mrbb88"
+        ],
+        "groups": [
+            "Banners2"
+        ],
+        "custom_indexes": {
+            "6": [
+                "mrbb88"
+            ],
+            "3": [
+                "RohandrileVR"
             ]
         }
     },
