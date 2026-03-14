@@ -4,14 +4,20 @@
             "Banners1"
         ],
         "users": [
-            "CAROL_RM"
+            "CAROL_RM",
+            "SugarLoliUwU",
+            "vymper"
         ],
         "groups": [
             "Banners1"
         ],
         "custom_indexes": {
             "1": [
-                "CAROL_RM"
+                "CAROL_RM",
+                "vymper"
+            ],
+            "3": [
+                "SugarLoliUwU"
             ]
         }
     },
@@ -20,7 +26,8 @@
             "Owner"
         ],
         "users": [
-            "GERMAN002"
+            "GERMAN002",
+            "SugarLoliUwU"
         ],
         "groups": [
             "Owner"
@@ -144,7 +151,6 @@
         "users": [
             "..",
             "Akita Neru〆",
-            "Bymaxter23",
             "GREAT_ONE",
             "LaNubi23",
             "Milenkoo",
@@ -159,10 +165,8 @@
             "josyelin",
             "Ƴevgeny",
             "ɪᴛᴢᴜɴʏ ®",
-            "ʙʀʏᴀɴ_ɢᴍ",
             "༒d̷a̷r̷i̷1̷8̷༒",
             "ო Y A M I ო",
-            "ღPastelito",
             "ღ̴N̴u̴g̴g̴e̴t̴ღ",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ＴＯＫＡＹＯ"
@@ -266,6 +270,17 @@
         ],
         "groups": [
             "Elixir"
+        ]
+    },
+    {
+        "ranks": [
+            "VIPManager"
+        ],
+        "users": [
+            "vymper"
+        ],
+        "groups": [
+            "VIPManager"
         ]
     },
     {
