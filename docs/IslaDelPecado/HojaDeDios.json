@@ -5,6 +5,7 @@
         ],
         "users": [
             "CAROL_RM",
+            "SugarLoliUwU",
             "vymper"
         ],
         "groups": [
@@ -14,6 +15,9 @@
             "1": [
                 "CAROL_RM",
                 "vymper"
+            ],
+            "3": [
+                "SugarLoliUwU"
             ]
         }
     },
@@ -22,7 +26,8 @@
             "Owner"
         ],
         "users": [
-            "GERMAN002"
+            "GERMAN002",
+            "SugarLoliUwU"
         ],
         "groups": [
             "Owner"
