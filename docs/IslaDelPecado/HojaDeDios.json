@@ -24,6 +24,7 @@
             "OsitoPauPau",
             "Pamelachuu",
             "ReikaVermysthra",
+            "Roxytooty",
             "ShadowN01",
             "Shirou1711",
             "SugarLoliUwU",
@@ -71,6 +72,7 @@
                 "Shirou1711",
                 "OsitoPauPau",
                 "_Viscochin_",
+                "Roxytooty",
                 "Erill․♥",
                 "ღᴋᴀᴍɪᴍɪ",
                 "misi-quest",
@@ -130,7 +132,6 @@
             "NaranjitaACN",
             "NΛΣŁ",
             "RohandrileVR",
-            "Roxytooty",
             "StreetLove?",
             "Tommy1313",
             "Warm®",
@@ -157,7 +158,6 @@
                 "RohandrileVR"
             ],
             "5": [
-                "Roxytooty",
                 "༒d̷a̷r̷i̷1̷8̷༒",
                 "NaranjitaACN",
                 "GREAT_ONE",
@@ -192,21 +192,7 @@
             "Owner"
         ],
         "users": [
-            "ArithKtv",
-            "Aurelian796",
-            "DEVILZOO_",
-            "Damimilktea",
-            "EdVanGohg",
-            "GERMAN002",
-            "GideonToffu",
-            "Kimmy0419",
-            "LordZeroRe",
-            "lokito_sen",
-            "poisonliz",
-            "tori_cole",
-            "๛Ryu๛",
-            "ღJackღ",
-            "運вυηηуѕєηραι運"
+            "GERMAN002"
         ],
         "groups": [
             "Owner"
@@ -411,6 +397,50 @@
         ],
         "groups": [
             "Host"
+        ]
+    },
+    {
+        "ranks": [
+            "Elixir"
+        ],
+        "users": [
+            "Aurelian796",
+            "DEVILZOO_",
+            "GideonToffu",
+            "poisonliz",
+            "tori_cole",
+            "๛Ryu๛"
+        ],
+        "groups": [
+            "Elixir"
+        ]
+    },
+    {
+        "ranks": [
+            "Caotic"
+        ],
+        "users": [
+            "ArithKtv",
+            "EdVanGohg",
+            "Kimmy0419",
+            "lokito_sen",
+            "ღJackღ"
+        ],
+        "groups": [
+            "Caotic"
+        ]
+    },
+    {
+        "ranks": [
+            "Moonlight"
+        ],
+        "users": [
+            "Damimilktea",
+            "LordZeroRe",
+            "運вυηηуѕєηραι運"
+        ],
+        "groups": [
+            "Moonlight"
         ]
     },
     {
