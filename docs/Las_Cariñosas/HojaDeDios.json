@@ -348,8 +348,8 @@
                 "KatheKatt"
             ],
             "16": [
-                "JokerStein",
-                "karу"
+                "karу",
+                "JokerStein"
             ],
             "3": [
                 "SugarLoliUwU"
@@ -685,7 +685,6 @@
             "Icon"
         ],
         "users": [
-            "JokerStein",
             "karу"
         ],
         "groups": [
@@ -725,6 +724,17 @@
         ],
         "groups": [
             "InversorB"
+        ]
+    },
+    {
+        "ranks": [
+            "Owner"
+        ],
+        "users": [
+            "JokerStein"
+        ],
+        "groups": [
+            "Owner"
         ]
     }
 ]
