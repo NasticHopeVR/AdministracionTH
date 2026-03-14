@@ -5,6 +5,7 @@
         ],
         "users": [
             "CAROL_RM",
+            "GERMAN002",
             "SugarLoliUwU",
             "vymper"
         ],
@@ -12,11 +13,12 @@
             "Banners1"
         ],
         "custom_indexes": {
+            "16": [
+                "GERMAN002"
+            ],
             "1": [
                 "CAROL_RM",
-                "vymper"
-            ],
-            "3": [
+                "vymper",
                 "SugarLoliUwU"
             ]
         }
