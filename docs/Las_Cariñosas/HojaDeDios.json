@@ -118,7 +118,6 @@
             "ElTaino",
             "El_CADEJO_SV",
             "Erika01",
-            "EstafiGamerMeta 21d6",
             "FXSCAR",
             "Farra_v18",
             "Fire_Starter",
@@ -141,7 +140,6 @@
             "KatheKatt",
             "KazumiiVT",
             "KirikuVT",
-            "KΣIA ღ",
             "LEA ღ",
             "LadyBoom9",
             "LiardT",
@@ -154,7 +152,6 @@
             "Naim Ulloa",
             "Nastic Hope",
             "NeoDino",
-            "NiquinPRO",
             "NΛΣŁ",
             "Nаru",
             "Pao_EliUwu19k",
@@ -206,7 +203,6 @@
             "lordbelcebu",
             "marovimartin",
             "mrbb88",
-            "rebe_76 754d",
             "sg_1464",
             "ucranianalive_",
             "Ƙυѕт",
@@ -287,8 +283,6 @@
                 "XoX_Ashley_XoX",
                 "ｱﾑｱﾑｷ尺ﾉｲﾑ",
                 "XxX_Alexa_XxX",
-                "NiquinPRO",
-                "EstafiGamerMeta 21d6",
                 "berna mow",
                 "ucranianalive_",
                 "ZeroPositivo",
@@ -306,8 +300,6 @@
                 "Sunday0",
                 "Erika01",
                 "SCrifer",
-                "rebe_76 754d",
-                "KΣIA ღ",
                 "Luismi92",
                 "SrCuatro",
                 "AndreaAlejandra",
@@ -340,10 +332,6 @@
                 "Pao_EliUwu19k",
                 "Farra_v18"
             ],
-            "16": [
-                "JokerStein",
-                "karу"
-            ],
             "4": [
                 "MarlonQC",
                 "Ƙυѕт"
@@ -359,6 +347,10 @@
             "11": [
                 "KatheKatt"
             ],
+            "16": [
+                "JokerStein",
+                "karу"
+            ],
             "3": [
                 "SugarLoliUwU"
             ],
@@ -366,6 +358,17 @@
                 "Nastic Hope"
             ]
         }
+    },
+    {
+        "ranks": [
+            "NoviaIcon"
+        ],
+        "users": [
+            "Dulcecоmocandy"
+        ],
+        "groups": [
+            "NoviaIcon"
+        ]
     },
     {
         "ranks": [
@@ -389,7 +392,6 @@
             "Dᴀʏɪ",
             "El_CADEJO_SV",
             "Erika01",
-            "EstafiGamerMeta 21d6",
             "Farra_v18",
             "Fire_Starter",
             "FrankTM",
@@ -402,7 +404,6 @@
             "Josuewe",
             "KaosKynG",
             "Karlozz",
-            "KΣIA ღ",
             "LEA ღ",
             "LadyBoom9",
             "LiardT",
@@ -410,7 +411,6 @@
             "Luismi92",
             "Matabots",
             "Mike300w",
-            "NiquinPRO",
             "Nаru",
             "Pao_EliUwu19k",
             "Prototipo0121",
@@ -453,7 +453,6 @@
             "kapita",
             "lordbelcebu",
             "marovimartin",
-            "rebe_76 754d",
             "sg_1464",
             "ucranianalive_",
             "ɪᴛᴢᴜɴʏ ®",
@@ -469,17 +468,6 @@
         ],
         "groups": [
             "VIP"
-        ]
-    },
-    {
-        "ranks": [
-            "NoviaIcon"
-        ],
-        "users": [
-            "Dulcecоmocandy"
-        ],
-        "groups": [
-            "NoviaIcon"
         ]
     },
     {
@@ -535,7 +523,6 @@
             "Cuervito_",
             "FXSCAR",
             "GreyGrace",
-            "JokerStein",
             "KirikuVT",
             "MarlonQC",
             "MokaPaut",
@@ -577,18 +564,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "Icon"
-        ],
-        "users": [
-            "JokerStein",
-            "karу"
-        ],
-        "groups": [
-            "Icon"
         ]
     },
     {
@@ -703,6 +678,18 @@
         ],
         "groups": [
             "Friends"
+        ]
+    },
+    {
+        "ranks": [
+            "Icon"
+        ],
+        "users": [
+            "JokerStein",
+            "karу"
+        ],
+        "groups": [
+            "Icon"
         ]
     },
     {
