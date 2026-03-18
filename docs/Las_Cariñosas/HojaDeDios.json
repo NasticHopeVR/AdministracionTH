@@ -7,13 +7,13 @@
             "Akita Neru〆",
             "Areck_demon",
             "D O V Ē",
-            "Deıssʏ",
             "Dulcecоmocandy",
             "Dɪᴇ Aɴᴏɴʏᴍɪᴛᴀ̈ᴛ",
             "Erill․♥",
             "Gio©",
             "JMAUPS",
             "MaurixG",
+            "MΛTHIΛ",
             "OsitoPauPau",
             "ReikaVermysthra",
             "Roxytooty",
@@ -22,12 +22,10 @@
             "Shirou1711",
             "StreetLove?",
             "Tatsumi02233",
-            "_Viscochin_",
             "dequer12",
             "duckis",
             "josyelin",
             "oyasuu_2213",
-            "sabaxius",
             "sara_dj03",
             "ɪᴛᴢᴜɴʏ ®",
             "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
@@ -35,9 +33,9 @@
             "ღEquiღ",
             "ღᴋᴀᴍɪᴍɪ",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
+            "ᴰᴼ卄ᴬ",
             "Ｅｕｐｈｏｒｉｉａ",
             "ＴＯＫＡＹＯ",
-            "［LCM-A］ Mathia 8910",
             "ｍｅｏｗ?"
         ],
         "groups": [
@@ -47,25 +45,23 @@
             "8": [
                 "Dulcecоmocandy"
             ],
-            "9": [
-                "_Viscochin_",
+            "4": [
                 "Shirou1711",
                 "Roxytooty",
                 "OsitoPauPau",
-                "sabaxius",
                 "Gio©",
                 "ღᴋᴀᴍɪᴍɪ",
                 "Ｅｕｐｈｏｒｉｉａ",
                 "Areck_demon",
                 "Erill․♥",
                 "ｍｅｏｗ?",
-                "Deıssʏ",
                 "ღEquiღ",
                 "Seruly",
                 "D O V Ē",
                 "MaurixG",
                 "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
-                "ReikaVermysthra"
+                "ReikaVermysthra",
+                "ᴰᴼ卄ᴬ"
             ],
             "2": [
                 "sara_dj03"
@@ -81,7 +77,7 @@
                 "oyasuu_2213",
                 "Tatsumi02233",
                 "JMAUPS",
-                "［LCM-A］ Mathia 8910"
+                "MΛTHIΛ"
             ],
             "11": [
                 "ＴＯＫＡＹＯ",
@@ -211,7 +207,6 @@
             "༒d̷a̷r̷i̷1̷8̷༒",
             "ᴋɪᴅᴀ_ʟʏs22",
             "ᴜѕᴀɢɪᴠʀ",
-            "ᴰᴼ卄ᴬ",
             "Ｓｈｎａｐｉｉ",
             "ｱﾑｱﾑｷ尺ﾉｲﾑ"
         ],
@@ -274,7 +269,6 @@
                 "SugarLoliUwU"
             ],
             "15": [
-                "ᴰᴼ卄ᴬ",
                 "VenusAlyx"
             ],
             "2": [
@@ -496,26 +490,6 @@
     },
     {
         "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -539,6 +513,26 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
         ]
     },
     {
@@ -569,12 +563,23 @@
     },
     {
         "ranks": [
+            "DancerGuest"
+        ],
+        "users": [
+            "VenusAlyx",
+            "_Viscochin_"
+        ],
+        "groups": [
+            "DancerGuest"
+        ]
+    },
+    {
+        "ranks": [
             "DancerCari"
         ],
         "users": [
             "Areck_demon",
             "D O V Ē",
-            "Deıssʏ",
             "Erill․♥",
             "Gio©",
             "MaurixG",
@@ -583,11 +588,10 @@
             "Roxytooty",
             "Seruly",
             "Shirou1711",
-            "_Viscochin_",
-            "sabaxius",
             "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
             "ღEquiღ",
             "ღᴋᴀᴍɪᴍɪ",
+            "ᴰᴼ卄ᴬ",
             "Ｅｕｐｈｏｒｉｉａ",
             "ｍｅｏｗ?"
         ],
@@ -643,27 +647,15 @@
     },
     {
         "ranks": [
-            "DancerGuest"
-        ],
-        "users": [
-            "VenusAlyx",
-            "ᴰᴼ卄ᴬ"
-        ],
-        "groups": [
-            "DancerGuest"
-        ]
-    },
-    {
-        "ranks": [
             "InversorA"
         ],
         "users": [
             "Dɪᴇ Aɴᴏɴʏᴍɪᴛᴀ̈ᴛ",
             "JMAUPS",
+            "MΛTHIΛ",
             "SRHiggins",
             "Tatsumi02233",
-            "oyasuu_2213",
-            "［LCM-A］ Mathia 8910"
+            "oyasuu_2213"
         ],
         "groups": [
             "InversorA"
