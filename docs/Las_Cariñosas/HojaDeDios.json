@@ -83,15 +83,15 @@
                 "JMAUPS",
                 "［LCM-A］ Mathia 8910"
             ],
+            "11": [
+                "ＴＯＫＡＹＯ",
+                "ო Y A M I ო",
+                "duckis"
+            ],
             "1": [
                 "dequer12",
                 "Akita Neru〆",
                 "josyelin"
-            ],
-            "11": [
-                "ＴＯＫＡＹＯ",
-                "duckis",
-                "ო Y A M I ო"
             ]
         }
     },
@@ -175,6 +175,7 @@
             "TheDoctorSnake",
             "Tocina Bacon",
             "VEПDEƬƬΛ",
+            "VenusAlyx",
             "VΛLΞRǃΛ",
             "Warm®",
             "XionWolf V",
@@ -207,10 +208,10 @@
             "ʚ -Moonwolf- ɞ",
             "ʚ-Aquileswolf-ɞ",
             "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
-            "ѕаіηt",
             "༒d̷a̷r̷i̷1̷8̷༒",
             "ᴋɪᴅᴀ_ʟʏs22",
             "ᴜѕᴀɢɪᴠʀ",
+            "ᴰᴼ卄ᴬ",
             "Ｓｈｎａｐｉｉ",
             "ｱﾑｱﾑｷ尺ﾉｲﾑ"
         ],
@@ -273,7 +274,8 @@
                 "SugarLoliUwU"
             ],
             "15": [
-                "ѕаіηt"
+                "ᴰᴼ卄ᴬ",
+                "VenusAlyx"
             ],
             "2": [
                 "El_CADEJO_SV",
@@ -494,6 +496,26 @@
     },
     {
         "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
+        ]
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -517,26 +539,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
         ]
     },
     {
@@ -644,7 +646,8 @@
             "DancerGuest"
         ],
         "users": [
-            "ѕаіηt"
+            "VenusAlyx",
+            "ᴰᴼ卄ᴬ"
         ],
         "groups": [
             "DancerGuest"
