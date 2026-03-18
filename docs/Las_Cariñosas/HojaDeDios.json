@@ -14,6 +14,7 @@
             "Gio©",
             "JMAUPS",
             "MaurixG",
+            "MΛTHIΛ",
             "OsitoPauPau",
             "ReikaVermysthra",
             "Roxytooty",
@@ -37,7 +38,6 @@
             "ᴇᴛᴀᴅɪʟᴀᴠ",
             "Ｅｕｐｈｏｒｉｉａ",
             "ＴＯＫＡＹＯ",
-            "［LCM-A］ Mathia 8910",
             "ｍｅｏｗ?"
         ],
         "groups": [
@@ -81,7 +81,7 @@
                 "oyasuu_2213",
                 "Tatsumi02233",
                 "JMAUPS",
-                "［LCM-A］ Mathia 8910"
+                "MΛTHIΛ"
             ],
             "11": [
                 "ＴＯＫＡＹＯ",
@@ -496,26 +496,6 @@
     },
     {
         "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -539,6 +519,26 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
         ]
     },
     {
@@ -660,10 +660,10 @@
         "users": [
             "Dɪᴇ Aɴᴏɴʏᴍɪᴛᴀ̈ᴛ",
             "JMAUPS",
+            "MΛTHIΛ",
             "SRHiggins",
             "Tatsumi02233",
-            "oyasuu_2213",
-            "［LCM-A］ Mathia 8910"
+            "oyasuu_2213"
         ],
         "groups": [
             "InversorA"
