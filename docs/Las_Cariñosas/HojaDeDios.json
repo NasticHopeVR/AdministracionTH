@@ -12,6 +12,7 @@
             "Erill․♥",
             "Gio©",
             "JMAUPS",
+            "MarlonQC",
             "MaurixG",
             "MΛTHIΛ",
             "OsitoPauPau",
@@ -44,6 +45,9 @@
         "custom_indexes": {
             "8": [
                 "Dulcecоmocandy"
+            ],
+            "14": [
+                "MarlonQC"
             ],
             "4": [
                 "Shirou1711",
@@ -143,7 +147,6 @@
             "LiardT",
             "Littlebunnyy19",
             "Luismi92",
-            "MarlonQC",
             "Mike300w",
             "MokaPaut",
             "Naim Ulloa",
@@ -251,12 +254,6 @@
                 "RocketSaul",
                 "Cuervito_"
             ],
-            "4": [
-                "MarlonQC",
-                "Ƙυѕт",
-                "Warm®",
-                "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ"
-            ],
             "11": [
                 "Amurysse",
                 "KatheKatt"
@@ -267,6 +264,11 @@
             ],
             "3": [
                 "SugarLoliUwU"
+            ],
+            "4": [
+                "Ƙυѕт",
+                "Warm®",
+                "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ"
             ],
             "15": [
                 "VenusAlyx"
@@ -490,6 +492,26 @@
     },
     {
         "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
+        ]
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -513,26 +535,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
         ]
     },
     {
