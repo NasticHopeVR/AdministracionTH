@@ -116,6 +116,7 @@
             "Cuervito_",
             "DADDY_J0TA",
             "Danny_504",
+            "Darect",
             "Diegomex 8f11",
             "Dᴀʏɪ",
             "El_CADEJO_SV",
@@ -163,6 +164,7 @@
             "Sanssha",
             "SeleNix",
             "ShadowN01",
+            "Sofi-Sticada",
             "SrCuatro",
             "SugarLoliUwU",
             "Sunday0",
@@ -186,6 +188,7 @@
             "_MimiPR_",
             "aSeraku",
             "aperta",
+            "ari․33",
             "berna mow",
             "cortis9",
             "elite442",
@@ -201,6 +204,7 @@
             "mrbb88",
             "sg_1464",
             "ucranianalive_",
+            "§CEVICHE§",
             "Ƙυѕт",
             "ʀʊʄʊʟ",
             "ʙᴀʀᴄᴏᴅᴇ",
@@ -228,7 +232,11 @@
                 "SymphonyOwU",
                 "ALCARAZZ",
                 "cortis9",
-                "Pely Vega"
+                "Pely Vega",
+                "ari․33",
+                "§CEVICHE§",
+                "Darect",
+                "Sofi-Sticada"
             ],
             "5": [
                 "CAROL_RM",
@@ -351,6 +359,17 @@
     },
     {
         "ranks": [
+            "NoviaIcon"
+        ],
+        "users": [
+            "Dulcecоmocandy"
+        ],
+        "groups": [
+            "NoviaIcon"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
@@ -448,17 +467,6 @@
     },
     {
         "ranks": [
-            "NoviaIcon"
-        ],
-        "users": [
-            "Dulcecоmocandy"
-        ],
-        "groups": [
-            "NoviaIcon"
-        ]
-    },
-    {
-        "ranks": [
             "InversorC"
         ],
         "users": [
@@ -492,6 +500,38 @@
     },
     {
         "ranks": [
+            "Partner"
+        ],
+        "users": [
+            "ALCARAZZ",
+            "Darect",
+            "FXSCAR",
+            "Fluffy_kiwi",
+            "Jensell1",
+            "JokerStein",
+            "Karlozz",
+            "MarlonQC",
+            "Naim Ulloa",
+            "Pely Vega",
+            "Sofi-Sticada",
+            "SymphonyOwU",
+            "XionWolf V",
+            "ari․33",
+            "cortis9",
+            "duckis",
+            "innari",
+            "§CEVICHE§",
+            "ო Y A M I ო",
+            "ᴜѕᴀɢɪᴠʀ",
+            "Ｓｈｎａｐｉｉ",
+            "ＴＯＫＡＹＯ"
+        ],
+        "groups": [
+            "Partner"
+        ]
+    },
+    {
+        "ranks": [
             "JokerCircus"
         ],
         "users": [
@@ -508,33 +548,6 @@
         ],
         "groups": [
             "JokerCircus"
-        ]
-    },
-    {
-        "ranks": [
-            "Partner"
-        ],
-        "users": [
-            "ALCARAZZ",
-            "FXSCAR",
-            "Fluffy_kiwi",
-            "Jensell1",
-            "JokerStein",
-            "Karlozz",
-            "MarlonQC",
-            "Naim Ulloa",
-            "Pely Vega",
-            "SymphonyOwU",
-            "XionWolf V",
-            "cortis9",
-            "innari",
-            "ო Y A M I ო",
-            "ᴜѕᴀɢɪᴠʀ",
-            "Ｓｈｎａｐｉｉ",
-            "ＴＯＫＡＹＯ"
-        ],
-        "groups": [
-            "Partner"
         ]
     },
     {
