@@ -110,7 +110,6 @@
             "AndreaAlejandra",
             "AngelSq",
             "BebecitaShey",
-            "CAROL_RM",
             "Capibara․ 1eb1",
             "CopycatPortal",
             "Cuervito_",
@@ -130,8 +129,6 @@
             "GERMAN002",
             "GREAT_ONE",
             "GreyGrace",
-            "Houltler",
-            "ISLA DEL PECADO",
             "Icοn4500",
             "Imseett",
             "ItsHosh 星",
@@ -142,7 +139,6 @@
             "KaosKynG",
             "Karlozz",
             "KatheKatt",
-            "KazumiiVT",
             "KirikuVT",
             "LEA ღ",
             "LadyBoom9",
@@ -152,7 +148,6 @@
             "MokaPaut",
             "Naim Ulloa",
             "NeoDino",
-            "NΛΣŁ",
             "Nаru",
             "Pao_EliUwu19k",
             "Pely Vega",
@@ -163,11 +158,9 @@
             "SSJSour",
             "Sanssha",
             "SeleNix",
-            "ShadowN01",
             "Sofi-Sticada",
             "SugarLoliUwU",
             "Sunday0",
-            "SweetMochi0",
             "SwuuXy",
             "SymphonyOwU",
             "Tapia135777",
@@ -198,10 +191,8 @@
             "inniedum",
             "kapita",
             "karу",
-            "konflakes_",
             "lordbelcebu",
             "marovimartin",
-            "mrbb88",
             "sg_1464",
             "sʟʏ ®",
             "ucranianalive_",
@@ -212,7 +203,6 @@
             "ʚ -Moonwolf- ɞ",
             "ʚ-Aquileswolf-ɞ",
             "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
-            "༒d̷a̷r̷i̷1̷8̷༒",
             "ᴋɪᴅᴀ_ʟʏs22",
             "ᴜѕᴀɢɪᴠʀ",
             "Ｓｈｎａｐｉｉ",
@@ -238,20 +228,6 @@
                 "§CEVICHE§",
                 "Darect",
                 "Sofi-Sticada"
-            ],
-            "5": [
-                "CAROL_RM",
-                "ShadowN01",
-                "konflakes_",
-                "mrbb88",
-                "GERMAN002",
-                "GREAT_ONE",
-                "KazumiiVT",
-                "༒d̷a̷r̷i̷1̷8̷༒",
-                "SweetMochi0",
-                "ISLA DEL PECADO",
-                "NΛΣŁ",
-                "Houltler"
             ],
             "13": [
                 "FXSCAR",
@@ -306,6 +282,8 @@
                 "ᴋɪᴅᴀ_ʟʏs22",
                 "ʀʊʄʊʟ",
                 "Dᴀʏɪ",
+                "GERMAN002",
+                "GREAT_ONE",
                 "ʚ-Aquileswolf-ɞ",
                 "ʚ -Moonwolf- ɞ",
                 "XoX_Ashley_XoX",
@@ -478,24 +456,22 @@
     },
     {
         "ranks": [
-            "Pecador"
+            "JokerCircus"
         ],
         "users": [
-            "CAROL_RM",
-            "GERMAN002",
-            "GREAT_ONE",
-            "Houltler",
-            "ISLA DEL PECADO",
-            "KazumiiVT",
-            "NΛΣŁ",
-            "ShadowN01",
-            "SweetMochi0",
-            "konflakes_",
-            "mrbb88",
-            "༒d̷a̷r̷i̷1̷8̷༒"
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
         ],
         "groups": [
-            "Pecador"
+            "JokerCircus"
         ]
     },
     {
@@ -528,26 +504,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
         ]
     },
     {
