@@ -146,6 +146,7 @@
             "Karlozz",
             "KirikuVT",
             "LEA ღ",
+            "Lady Farya",
             "LadyBoom9",
             "LiardT",
             "Littlebunnyy19",
@@ -243,7 +244,8 @@
                 "Naim Ulloa",
                 "KirikuVT",
                 "RocketSaul",
-                "Cuervito_"
+                "Cuervito_",
+                "Lady Farya"
             ],
             "11": [
                 "Amurysse"
@@ -343,6 +345,17 @@
     },
     {
         "ranks": [
+            "NoviaIcon"
+        ],
+        "users": [
+            "Dulcecоmocandy"
+        ],
+        "groups": [
+            "NoviaIcon"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
@@ -437,17 +450,6 @@
     },
     {
         "ranks": [
-            "NoviaIcon"
-        ],
-        "users": [
-            "Dulcecоmocandy"
-        ],
-        "groups": [
-            "NoviaIcon"
-        ]
-    },
-    {
-        "ranks": [
             "InversorC"
         ],
         "users": [
@@ -455,26 +457,6 @@
         ],
         "groups": [
             "InversorC"
-        ]
-    },
-    {
-        "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
         ]
     },
     {
@@ -507,6 +489,27 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "Lady Farya",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
         ]
     },
     {
