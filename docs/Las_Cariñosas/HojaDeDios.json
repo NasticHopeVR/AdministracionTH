@@ -349,6 +349,17 @@
     },
     {
         "ranks": [
+            "NoviaIcon"
+        ],
+        "users": [
+            "Dulcecоmocandy"
+        ],
+        "groups": [
+            "NoviaIcon"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
@@ -444,17 +455,6 @@
     },
     {
         "ranks": [
-            "NoviaIcon"
-        ],
-        "users": [
-            "Dulcecоmocandy"
-        ],
-        "groups": [
-            "NoviaIcon"
-        ]
-    },
-    {
-        "ranks": [
             "InversorC"
         ],
         "users": [
@@ -462,6 +462,28 @@
         ],
         "groups": [
             "InversorC"
+        ]
+    },
+    {
+        "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "Lady Farya",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
         ]
     },
     {
@@ -494,28 +516,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "Lady Farya",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
         ]
     },
     {
