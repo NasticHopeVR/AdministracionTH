@@ -13,6 +13,7 @@
             "Erill․♥",
             "Gio©",
             "JMAUPS",
+            "KatheKatt",
             "MarlonQC",
             "MaurixG",
             "MΛTHIΛ",
@@ -75,6 +76,9 @@
                 "ᴇᴛᴀᴅɪʟᴀᴠ",
                 "ɪᴛᴢᴜɴʏ ®",
                 "StreetLove?"
+            ],
+            "7": [
+                "KatheKatt"
             ],
             "13": [
                 "SRHiggins",
@@ -140,7 +144,6 @@
             "Josuewe",
             "KaosKynG",
             "Karlozz",
-            "KatheKatt",
             "KirikuVT",
             "LEA ღ",
             "LadyBoom9",
@@ -243,8 +246,7 @@
                 "Cuervito_"
             ],
             "11": [
-                "Amurysse",
-                "KatheKatt"
+                "Amurysse"
             ],
             "15": [
                 "_Viscochin_",
@@ -457,6 +459,26 @@
     },
     {
         "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
+        ]
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -485,26 +507,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
         ]
     },
     {
