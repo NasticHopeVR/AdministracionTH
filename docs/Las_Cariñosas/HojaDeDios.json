@@ -7,6 +7,7 @@
             "Akita Neru〆",
             "Areck_demon",
             "D O V Ē",
+            "Dios Carmesi",
             "Dulcecоmocandy",
             "Dɪᴇ Aɴᴏɴʏᴍɪᴛᴀ̈ᴛ",
             "Erill․♥",
@@ -83,6 +84,9 @@
                 "JMAUPS",
                 "MΛTHIΛ"
             ],
+            "6": [
+                "Dios Carmesi"
+            ],
             "11": [
                 "ＴＯＫＡＹＯ",
                 "ო Y A M I ო",
@@ -101,13 +105,11 @@
         ],
         "users": [
             "-Jane Doe",
-            "-Marcyy-",
             "AG TrinalGore54",
             "ALCARAZZ",
             "Aeris_Kami",
             "Alliebearcx",
             "Amurysse",
-            "AndreaAlejandra",
             "AngelSq",
             "BebecitaShey",
             "Capibara․ 1eb1",
@@ -144,6 +146,7 @@
             "LadyBoom9",
             "LiardT",
             "Littlebunnyy19",
+            "Luismi92",
             "Mike300w",
             "MokaPaut",
             "Naim Ulloa",
@@ -159,6 +162,7 @@
             "Sanssha",
             "SeleNix",
             "Sofi-Sticada",
+            "SrCuatro",
             "SugarLoliUwU",
             "Sunday0",
             "SwuuXy",
@@ -192,7 +196,6 @@
             "kapita",
             "karу",
             "lordbelcebu",
-            "marovimartin",
             "sg_1464",
             "sʟʏ ®",
             "ucranianalive_",
@@ -295,7 +298,6 @@
                 "TheDoctorSnake",
                 "aperta",
                 "Littlebunnyy19",
-                "marovimartin",
                 "LadyBoom9",
                 "Josuewe",
                 "AngelSq",
@@ -304,8 +306,8 @@
                 "Sunday0",
                 "Erika01",
                 "SCrifer",
-                "AndreaAlejandra",
-                "-Marcyy-",
+                "Luismi92",
+                "SrCuatro",
                 "Imseett",
                 "sg_1464",
                 "Tapia135777",
@@ -339,27 +341,14 @@
     },
     {
         "ranks": [
-            "NoviaIcon"
-        ],
-        "users": [
-            "Dulcecоmocandy"
-        ],
-        "groups": [
-            "NoviaIcon"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
             "-Jane Doe",
-            "-Marcyy-",
             "AG TrinalGore54",
             "Aeris_Kami",
             "Akita Neru〆",
             "Alliebearcx",
-            "AndreaAlejandra",
             "AngelSq",
             "BebecitaShey",
             "Capibara․ 1eb1",
@@ -387,6 +376,7 @@
             "LadyBoom9",
             "LiardT",
             "Littlebunnyy19",
+            "Luismi92",
             "Mike300w",
             "Nаru",
             "Pao_EliUwu19k",
@@ -396,6 +386,7 @@
             "SSJSour",
             "Sanssha",
             "SeleNix",
+            "SrCuatro",
             "StreetLove?",
             "SugarLoliUwU",
             "Sunday0",
@@ -425,7 +416,6 @@
             "josyelin",
             "kapita",
             "lordbelcebu",
-            "marovimartin",
             "sg_1464",
             "ucranianalive_",
             "ɪᴛᴢᴜɴʏ ®",
@@ -445,6 +435,17 @@
     },
     {
         "ranks": [
+            "NoviaIcon"
+        ],
+        "users": [
+            "Dulcecоmocandy"
+        ],
+        "groups": [
+            "NoviaIcon"
+        ]
+    },
+    {
+        "ranks": [
             "InversorC"
         ],
         "users": [
@@ -452,26 +453,6 @@
         ],
         "groups": [
             "InversorC"
-        ]
-    },
-    {
-        "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
         ]
     },
     {
@@ -504,6 +485,26 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
         ]
     },
     {
@@ -589,6 +590,7 @@
             "Co-Owner"
         ],
         "users": [
+            "Dios Carmesi",
             "Sainthe",
             "SugarLoliUwU"
         ],
