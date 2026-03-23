@@ -157,8 +157,10 @@
             "3": [
                 "RohandrileVR"
             ],
+            "10": [
+                "༒d̷a̷r̷i̷1̷8̷༒"
+            ],
             "4": [
-                "༒d̷a̷r̷i̷1̷8̷༒",
                 "NaranjitaACN",
                 "Houltler",
                 "NΛΣŁ"
@@ -332,20 +334,6 @@
     },
     {
         "ranks": [
-            "Seguridad"
-        ],
-        "users": [
-            "Houltler",
-            "NaranjitaACN",
-            "NΛΣŁ",
-            "༒d̷a̷r̷i̷1̷8̷༒"
-        ],
-        "groups": [
-            "Seguridad"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -367,6 +355,20 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "Seguridad"
+        ],
+        "users": [
+            "Houltler",
+            "NaranjitaACN",
+            "NΛΣŁ",
+            "༒d̷a̷r̷i̷1̷8̷༒"
+        ],
+        "groups": [
+            "Seguridad"
         ]
     },
     {

@@ -21,6 +21,7 @@
             "ReikaVermysthra",
             "Roxytooty",
             "SRHiggins",
+            "Sainthe",
             "Seruly",
             "Shirou1711",
             "StreetLove?",
@@ -32,6 +33,7 @@
             "sara_dj03",
             "ɪᴛᴢᴜɴʏ ®",
             "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
+            "༒ ᴋᴀɴᴀᴇ ༒",
             "ო Y A M I ო",
             "ღEquiღ",
             "ღᴋᴀᴍɪᴍɪ",
@@ -100,6 +102,10 @@
                 "ＴＯＫＡＹＯ",
                 "duckis",
                 "ო Y A M I ო"
+            ],
+            "16": [
+                "Sainthe",
+                "༒ ᴋᴀɴᴀᴇ ༒"
             ]
         }
     },
@@ -369,28 +375,6 @@
     },
     {
         "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "Lady Farya",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -419,6 +403,28 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "Lady Farya",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
         ]
     },
     {
@@ -501,19 +507,6 @@
     },
     {
         "ranks": [
-            "Co-Owner"
-        ],
-        "users": [
-            "Dios Carmesi",
-            "Sainthe",
-            "SugarLoliUwU"
-        ],
-        "groups": [
-            "Co-Owner"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -554,6 +547,7 @@
             "Robi1",
             "SCrifer",
             "SSJSour",
+            "Sainthe",
             "Sanssha",
             "SrCuatro",
             "StreetLove?",
@@ -592,6 +586,7 @@
             "ʙᴀʀᴄᴏᴅᴇ",
             "ʚ -Moonwolf- ɞ",
             "ʚ-Aquileswolf-ɞ",
+            "༒ ᴋᴀɴᴀᴇ ༒",
             "ო Y A M I ო",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ᴋɪᴅᴀ_ʟʏs22",
@@ -600,6 +595,19 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "Co-Owner"
+        ],
+        "users": [
+            "Dios Carmesi",
+            "Sainthe",
+            "SugarLoliUwU"
+        ],
+        "groups": [
+            "Co-Owner"
         ]
     },
     {
