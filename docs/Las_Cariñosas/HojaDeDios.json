@@ -158,6 +158,7 @@
             "Naim Ulloa",
             "NeoDino",
             "Pao_EliUwu19k",
+            "ParzivalOkazaki",
             "Pely Vega",
             "Prototipo0121",
             "Robi1",
@@ -275,7 +276,8 @@
             "4": [
                 "Ƙυѕт",
                 "Warm®",
-                "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ"
+                "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
+                "ParzivalOkazaki"
             ],
             "2": [
                 "El_CADEJO_SV",
@@ -377,28 +379,6 @@
     },
     {
         "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "Lady Farya",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -431,10 +411,33 @@
     },
     {
         "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "Lady Farya",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
+        ]
+    },
+    {
+        "ranks": [
             "Mod"
         ],
         "users": [
             "MarlonQC",
+            "ParzivalOkazaki",
             "Warm®",
             "Ƙυѕт",
             "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ"
