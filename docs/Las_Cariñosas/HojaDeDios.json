@@ -182,12 +182,12 @@
             "Sunday0",
             "SwuuXy",
             "SymphonyOwU",
+            "Sԋυɳҽ",
             "Tapia135777",
             "Tocina Bacon",
             "VEПDEƬƬΛ",
             "VenusAlyx",
             "Vexiop",
-            "VΛLΞRǃΛ",
             "Warm®",
             "XionWolf V",
             "XoX_Ashley_XoX",
@@ -352,7 +352,7 @@
                 "LiardT",
                 "Mike300w",
                 "SwuuXy",
-                "VΛLΞRǃΛ",
+                "Sԋυɳҽ",
                 "Danny_504",
                 "lordbelcebu",
                 "Pao_EliUwu19k",
@@ -393,6 +393,28 @@
     },
     {
         "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "Lady Farya",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
+        ]
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -421,28 +443,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "Lady Farya",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
         ]
     },
     {
@@ -552,17 +552,6 @@
     },
     {
         "ranks": [
-            "InversorB"
-        ],
-        "users": [
-            "ᴇᴛᴀᴅɪʟᴀᴠ"
-        ],
-        "groups": [
-            "InversorB"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -613,10 +602,10 @@
             "SugarLoliUwU",
             "Sunday0",
             "SwuuXy",
+            "Sԋυɳҽ",
             "Tapia135777",
             "Tocina Bacon",
             "VEПDEƬƬΛ",
-            "VΛLΞRǃΛ",
             "Warm®",
             "XoX_Ashley_XoX",
             "XxX_Alexa_XxX",
@@ -656,6 +645,17 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorB"
+        ],
+        "users": [
+            "ᴇᴛᴀᴅɪʟᴀᴠ"
+        ],
+        "groups": [
+            "InversorB"
         ]
     },
     {
