@@ -43,8 +43,10 @@
             "ᴄ̶ʜ̶ᴀ̶ɴ̶ᴇ̶ʟ̶",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ᴋɪᴋo",
+            "ᴏnly",
             "ᴘᴀᴘɪᴀɴᴅʏᴋɪɴɢ®",
             "ᴰᴼ卄ᴬ",
+            "『ϟsxϟ』ツ",
             "Ｅｕｐｈｏｒｉｉａ",
             "ＴＯＫＡＹＯ",
             "ｍｅｏｗ?"
@@ -85,7 +87,9 @@
                 "StreetLove?",
                 "Kii70",
                 "ᴄ̶ʜ̶ᴀ̶ɴ̶ᴇ̶ʟ̶",
-                "ᴋɪᴋo"
+                "ᴋɪᴋo",
+                "ᴏnly",
+                "『ϟsxϟ』ツ"
             ],
             "7": [
                 "KatheKatt"
@@ -161,7 +165,6 @@
             "Icοn4500",
             "Imseett",
             "ItsHosh 星",
-            "JakyFurry",
             "Jensell1",
             "John Wipe",
             "JokerStein",
@@ -206,6 +209,7 @@
             "XxX_Alexa_XxX",
             "Yasashi Teyko",
             "YojanR1501",
+            "Yukι-Nαgαto",
             "YuuCaliente19°",
             "ZeroPositivo",
             "ZooboxSan",
@@ -295,14 +299,14 @@
                 "karу",
                 "JokerStein"
             ],
-            "3": [
-                "JakyFurry"
-            ],
             "4": [
                 "Ƙυѕт",
                 "Warm®",
                 "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
                 "ParzivalOkazaki"
+            ],
+            "3": [
+                "Yukι-Nαgαto"
             ],
             "2": [
                 "El_CADEJO_SV",
@@ -405,28 +409,6 @@
     },
     {
         "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "Lady Farya",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -460,6 +442,28 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "Lady Farya",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
         ]
     },
     {
@@ -549,8 +553,8 @@
         ],
         "users": [
             "Dios Carmesi",
-            "JakyFurry",
-            "Sainthe"
+            "Sainthe",
+            "Yukι-Nαgαto"
         ],
         "groups": [
             "Co-Owner"
@@ -565,6 +569,17 @@
         ],
         "groups": [
             "Bonice"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorB"
+        ],
+        "users": [
+            "ᴇᴛᴀᴅɪʟᴀᴠ"
+        ],
+        "groups": [
+            "InversorB"
         ]
     },
     {
@@ -657,22 +672,13 @@
             "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ᴋɪᴅᴀ_ʟʏs22",
             "ᴋɪᴋo",
+            "ᴏnly",
+            "『ϟsxϟ』ツ",
             "ＴＯＫＡＹＯ",
             "ｱﾑｱﾑｷ尺ﾉｲﾑ"
         ],
         "groups": [
             "VIP"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorB"
-        ],
-        "users": [
-            "ᴇᴛᴀᴅɪʟᴀᴠ"
-        ],
-        "groups": [
-            "InversorB"
         ]
     },
     {
