@@ -1,0 +1,31 @@
+{
+  "comunidad": "LasCariñosas",
+  "perfil": "Vips2",
+  "version": "1.0",
+  "last_modified": "2026-03-26T18:28:49.332900",
+  "grid": {
+    "cols": 8,
+    "rows": 4,
+    "w": 256,
+    "h": 512,
+    "gap_x": 0,
+    "gap_y": 0,
+    "start_x": 0,
+    "start_y": 0
+  },
+  "assets": {
+    "atlas_url": "",
+    "frame_url": "",
+    "free_url": "",
+    "fuente_base": "arial.ttf",
+    "fuente_base_url": ""
+  },
+  "export": {
+    "nombre_original": "Vip 2.png",
+    "nombre_50": "Vip 2_50.png",
+    "nombre_25": "Vip 2_25.png",
+    "exportar_50": false,
+    "exportar_25": false
+  },
+  "cells": []
+}
