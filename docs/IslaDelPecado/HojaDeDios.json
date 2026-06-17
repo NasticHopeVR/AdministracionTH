@@ -120,39 +120,31 @@
             "..",
             "Chamb_er",
             "DarkFoxVT",
-            "EstafiGamerMeta 21d6",
             "GREAT_ONE",
             "GUILEAS",
-            "Gelacatil",
             "Houltler",
             "Killua_0",
             "LaNubi23",
             "Mowgly",
             "Nacho18_",
             "NaranjitaACN",
-            "NiquinPRO",
             "NΛΣŁ",
             "Pingüinito",
-            "PunkStarrrr",
             "Q̷ʊ̷ı̷₦̷₦̷_M̷B̷",
             "RohandrileVR",
             "Ruth_r",
-            "RyzerZ",
             "SMOKE EYES",
             "SUMMER DAY",
             "Six007",
             "SugarSkullMX",
             "Tiburcio 435f",
-            "Xiomis",
             "biliustick48",
             "galogb204",
             "mrbb88",
             "×ʟɨռɖɛʍǟռռ_115×",
-            "нσѕнι",
             "لØセ₳_M̶B̶",
             "٭KARLA٭",
             "୨ྉмєiྉ୧",
-            "๑Kuymi๑",
             "༒d̷a̷r̷i̷1̷8̷༒",
             "ღ̴N̴u̴g̴g̴e̴t̴ღ",
             "ᴘɪʙʙʟᴇ",
@@ -186,8 +178,6 @@
                 "..",
                 "ღ̴N̴u̴g̴g̴e̴t̴ღ",
                 "LaNubi23",
-                "Xiomis",
-                "нσѕнι",
                 "Chamb_er",
                 "SugarSkullMX",
                 "『ϟsxϟ』ツ",
@@ -222,14 +212,6 @@
                 "୨ྉмєiྉ୧",
                 "galogb204",
                 "--Angela--"
-            ],
-            "1": [
-                "NiquinPRO",
-                "Gelacatil",
-                "EstafiGamerMeta 21d6",
-                "PunkStarrrr",
-                "๑Kuymi๑",
-                "RyzerZ"
             ]
         }
     },
@@ -438,11 +420,9 @@
             "Six007",
             "SugarSkullMX",
             "Tiburcio 435f",
-            "Xiomis",
             "biliustick48",
             "galogb204",
             "×ʟɨռɖɛʍǟռռ_115×",
-            "нσѕнι",
             "لØセ₳_M̶B̶",
             "٭KARLA٭",
             "୨ྉмєiྉ୧",
@@ -494,22 +474,6 @@
         ],
         "groups": [
             "Bartender"
-        ]
-    },
-    {
-        "ranks": [
-            "Partner"
-        ],
-        "users": [
-            "EstafiGamerMeta 21d6",
-            "Gelacatil",
-            "NiquinPRO",
-            "PunkStarrrr",
-            "RyzerZ",
-            "๑Kuymi๑"
-        ],
-        "groups": [
-            "Partner"
         ]
     }
 ]
