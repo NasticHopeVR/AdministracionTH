@@ -120,8 +120,10 @@
             "..",
             "Chamb_er",
             "DarkFoxVT",
+            "Erick_Roxx",
             "GREAT_ONE",
             "GUILEAS",
+            "Gerardowapo",
             "Houltler",
             "Killua_0",
             "LaNubi23",
@@ -129,22 +131,28 @@
             "Nacho18_",
             "NaranjitaACN",
             "NΛΣŁ",
+            "Pexant",
             "Pingüinito",
             "Q̷ʊ̷ı̷₦̷₦̷_M̷B̷",
             "RohandrileVR",
             "Ruth_r",
+            "RyzerZ",
             "SMOKE EYES",
             "SUMMER DAY",
             "Six007",
             "SugarSkullMX",
             "Tiburcio 435f",
+            "Toroka Utsugi",
+            "Xiomis",
             "biliustick48",
             "galogb204",
             "mrbb88",
             "×ʟɨռɖɛʍǟռռ_115×",
+            "нσѕнι",
             "لØセ₳_M̶B̶",
             "٭KARLA٭",
             "୨ྉмєiྉ୧",
+            "๑Kuymi๑",
             "༒d̷a̷r̷i̷1̷8̷༒",
             "ღ̴N̴u̴g̴g̴e̴t̴ღ",
             "ᴘɪʙʙʟᴇ",
@@ -178,6 +186,8 @@
                 "..",
                 "ღ̴N̴u̴g̴g̴e̴t̴ღ",
                 "LaNubi23",
+                "Xiomis",
+                "нσѕнι",
                 "Chamb_er",
                 "SugarSkullMX",
                 "『ϟsxϟ』ツ",
@@ -212,6 +222,14 @@
                 "୨ྉмєiྉ୧",
                 "galogb204",
                 "--Angela--"
+            ],
+            "1": [
+                "๑Kuymi๑",
+                "RyzerZ",
+                "Erick_Roxx",
+                "Toroka Utsugi",
+                "Gerardowapo",
+                "Pexant"
             ]
         }
     },
@@ -420,9 +438,11 @@
             "Six007",
             "SugarSkullMX",
             "Tiburcio 435f",
+            "Xiomis",
             "biliustick48",
             "galogb204",
             "×ʟɨռɖɛʍǟռռ_115×",
+            "нσѕнι",
             "لØセ₳_M̶B̶",
             "٭KARLA٭",
             "୨ྉмєiྉ୧",
@@ -474,6 +494,22 @@
         ],
         "groups": [
             "Bartender"
+        ]
+    },
+    {
+        "ranks": [
+            "Partner"
+        ],
+        "users": [
+            "Erick_Roxx",
+            "Gerardowapo",
+            "Pexant",
+            "RyzerZ",
+            "Toroka Utsugi",
+            "๑Kuymi๑"
+        ],
+        "groups": [
+            "Partner"
         ]
     }
 ]
