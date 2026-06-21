@@ -1,6 +1,22 @@
 [
     {
         "ranks": [
+            "Banners1"
+        ],
+        "users": [
+            "-Yggdrasil"
+        ],
+        "groups": [
+            "Banners1"
+        ],
+        "custom_indexes": {
+            "13": [
+                "-Yggdrasil"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "CEOMANAGER"
         ],
         "users": [
