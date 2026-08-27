@@ -1,0 +1,4 @@
+{
+  "carteles": 1,
+  "tiempo": 60
+}
