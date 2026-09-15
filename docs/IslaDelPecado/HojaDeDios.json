@@ -7,6 +7,7 @@
             "ArithKtv",
             "Blumonsterghoul",
             "Damimilktea",
+            "Dios Carmesi",
             "EdVanGohg",
             "Edielღ༒",
             "EnzoNova",
@@ -17,7 +18,6 @@
             "ISLA DEL PECADO",
             "KazumiiVT",
             "Kimmy0419",
-            "King Karmen",
             "Konflakes",
             "LordZeroRe",
             "OsitoPauPau",
@@ -105,7 +105,7 @@
                 "Damimilktea"
             ],
             "8": [
-                "King Karmen"
+                "Dios Carmesi"
             ]
         }
     },
@@ -119,7 +119,6 @@
             "Camiilo A",
             "CatFort",
             "CoronelShephard",
-            "CriticalKiller",
             "DJ MALDAD PURA",
             "DarkFoxVT",
             "DayanCat",
@@ -130,10 +129,8 @@
             "GREAT_ONE",
             "Gerardowapo",
             "IDK_JAV1",
-            "JosuelolxD",
             "LaNubi23",
             "Locu-Thor",
-            "M4rco303",
             "Mowgly",
             "NicolleSakura",
             "NΛΣŁ",
@@ -144,17 +141,13 @@
             "RohandrileVR",
             "Rurik",
             "SMOKE EYES",
-            "SR_Raziel",
             "SUMMER DAY",
             "Satt_vt",
             "Soso 2020",
             "Toroka Utsugi",
             "Xiomis",
-            "Ziilverk",
-            "ZilvyVT",
             "biliustick48",
             "galogb204",
-            "jaocrkge",
             "mrbb88",
             "panda_om",
             "shinra28",
@@ -201,7 +194,6 @@
                 "SUMMER DAY",
                 "SMOKE EYES",
                 "DJ MALDAD PURA",
-                "jaocrkge",
                 "Soso 2020",
                 "shinra28",
                 "NicolleSakura"
@@ -231,13 +223,7 @@
                 "Toroka Utsugi",
                 "Gerardowapo",
                 "Pexant",
-                "Eiko Chan",
-                "ZilvyVT",
-                "Ziilverk",
-                "JosuelolxD",
-                "CriticalKiller",
-                "SR_Raziel",
-                "M4rco303"
+                "Eiko Chan"
             ]
         }
     },
@@ -246,9 +232,7 @@
             "Owner"
         ],
         "users": [
-            "GERMAN002",
-            "GREAT_ONE",
-            "Yukι-Nαgαto"
+            "GERMAN002"
         ],
         "groups": [
             "Owner"
@@ -259,9 +243,11 @@
             "Co-owner1"
         ],
         "users": [
+            "Dios Carmesi",
+            "GREAT_ONE",
             "ISLA DEL PECADO",
             "ShadowN01",
-            "SweetMochi0"
+            "Yukι-Nαgαto"
         ],
         "groups": [
             "Co-owner1"
@@ -269,10 +255,20 @@
     },
     {
         "ranks": [
+            "Co-owner2"
+        ],
+        "users": [
+            "Konflakes"
+        ],
+        "groups": [
+            "Co-owner2"
+        ]
+    },
+    {
+        "ranks": [
             "Co-owner3"
         ],
         "users": [
-            "Konflakes",
             "mrbb88"
         ],
         "groups": [
@@ -284,11 +280,21 @@
             "Co-owner4"
         ],
         "users": [
-            "RohandrileVR",
-            "༒d̷a̷r̷i̷1̷8̷༒"
+            "RohandrileVR"
         ],
         "groups": [
             "Co-owner4"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "SweetMochi0"
+        ],
+        "groups": [
+            "InversorA"
         ]
     },
     {
@@ -340,18 +346,6 @@
     },
     {
         "ranks": [
-            "AdminFemboy"
-        ],
-        "users": [
-            "KazumiiVT",
-            "King Karmen"
-        ],
-        "groups": [
-            "AdminFemboy"
-        ]
-    },
-    {
-        "ranks": [
             "Seguridad"
         ],
         "users": [
@@ -360,10 +354,22 @@
             "NΛΣŁ",
             "Oxemeron",
             "panda_om",
-            "wgoodnightw"
+            "wgoodnightw",
+            "༒d̷a̷r̷i̷1̷8̷༒"
         ],
         "groups": [
             "Seguridad"
+        ]
+    },
+    {
+        "ranks": [
+            "AdminFemboy"
+        ],
+        "users": [
+            "KazumiiVT"
+        ],
+        "groups": [
+            "AdminFemboy"
         ]
     },
     {
@@ -414,7 +420,6 @@
             "Xiomis",
             "biliustick48",
             "galogb204",
-            "jaocrkge",
             "shinra28",
             "нσѕнι",
             "لØセ₳_M̶B̶",
@@ -471,17 +476,11 @@
         ],
         "users": [
             "CoronelShephard",
-            "CriticalKiller",
             "Eiko Chan",
             "Erick_Roxx",
             "Gerardowapo",
-            "JosuelolxD",
-            "M4rco303",
             "Pexant",
-            "SR_Raziel",
-            "Toroka Utsugi",
-            "Ziilverk",
-            "ZilvyVT"
+            "Toroka Utsugi"
         ],
         "groups": [
             "Partner"
