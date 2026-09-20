@@ -1,22 +1,6 @@
 [
     {
         "ranks": [
-            "Banners1"
-        ],
-        "users": [
-            "-Yggdrasil"
-        ],
-        "groups": [
-            "Banners1"
-        ],
-        "custom_indexes": {
-            "13": [
-                "-Yggdrasil"
-            ]
-        }
-    },
-    {
-        "ranks": [
             "CEOMANAGER"
         ],
         "users": [
@@ -32,9 +16,7 @@
         ],
         "users": [
             "-DanteDMC-",
-            "-Yggdrasil",
             "Akino Happy",
-            "AngelMH",
             "Bunny Pirate",
             "CloverPD-",
             "CopycatPortal",
