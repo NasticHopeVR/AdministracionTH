@@ -125,6 +125,7 @@
             "IDK_JAV1",
             "LaNubi23",
             "Mowgly",
+            "NicolleSakura",
             "NΛΣŁ",
             "Oxemeron",
             "Q̷̰ṵ̷ḭ̷n̷̰n̷̰",
@@ -132,11 +133,16 @@
             "SMOKE EYES",
             "SUMMER DAY",
             "Soso 2020",
+            "Xiomis",
+            "Ziilverk",
+            "ZilvyVT",
             "biliustick48",
             "galogb204",
             "mrbb88",
             "panda_om",
+            "shinra28",
             "wgoodnightw",
+            "нσѕнι",
             "لØセ₳_M̶B̶",
             "୨ྉмєiྉ୧",
             "༒d̷a̷r̷i̷1̷8̷༒",
@@ -171,12 +177,16 @@
                 "..",
                 "ღ̴N̴u̴g̴g̴e̴t̴ღ",
                 "LaNubi23",
+                "Xiomis",
+                "нσѕнι",
                 "『ϟsxϟ』ツ",
                 "biliustick48",
                 "SUMMER DAY",
                 "SMOKE EYES",
                 "DJ MALDAD PURA",
-                "Soso 2020"
+                "Soso 2020",
+                "shinra28",
+                "NicolleSakura"
             ],
             "7": [
                 "DarkFoxVT"
@@ -188,6 +198,10 @@
                 "୨ྉмєiྉ୧",
                 "galogb204",
                 "--Angela--"
+            ],
+            "1": [
+                "ZilvyVT",
+                "Ziilverk"
             ]
         }
     },
@@ -369,12 +383,16 @@
             "DJ MALDAD PURA",
             "LaNubi23",
             "Mowgly",
+            "NicolleSakura",
             "Q̷̰ṵ̷ḭ̷n̷̰n̷̰",
             "SMOKE EYES",
             "SUMMER DAY",
             "Soso 2020",
+            "Xiomis",
             "biliustick48",
             "galogb204",
+            "shinra28",
+            "нσѕнι",
             "لØセ₳_M̶B̶",
             "୨ྉмєiྉ୧",
             "ღ̴N̴u̴g̴g̴e̴t̴ღ",
@@ -421,6 +439,18 @@
         ],
         "groups": [
             "Bartender"
+        ]
+    },
+    {
+        "ranks": [
+            "Partner"
+        ],
+        "users": [
+            "Ziilverk",
+            "ZilvyVT"
+        ],
+        "groups": [
+            "Partner"
         ]
     }
 ]
