@@ -11,12 +11,16 @@
             "GREAT_ONE",
             "IDK_JAV1",
             "JØT₳_M̶B̶",
+            "Marcy_vr",
             "Mowgly",
+            "Nosfet",
             "NΛΣŁ",
             "Oxemeron",
             "Q̷̰ṵ̷ḭ̷n̷̰n̷̰",
             "RohandrileVR",
+            "Shirou1711",
             "Soso 2020",
+            "XBaironXDev",
             "YARISSA",
             "biliustick48",
             "galogb204",
@@ -57,7 +61,6 @@
             ],
             "5": [
                 "YARISSA",
-                "AndreaAlejandra",
                 "『ϟsxϟ』ツ",
                 "biliustick48",
                 "༒N̴y̴x̴x̴ ༒",
@@ -70,6 +73,13 @@
                 "୨ྉмєiྉ୧",
                 "galogb204",
                 "--Angela--"
+            ],
+            "1": [
+                "AndreaAlejandra",
+                "XBaironXDev",
+                "Marcy_vr",
+                "Shirou1711",
+                "Nosfet"
             ]
         }
     },
@@ -398,7 +408,6 @@
         ],
         "users": [
             "--Angela--",
-            "AndreaAlejandra",
             "JØT₳_M̶B̶",
             "Mowgly",
             "Q̷̰ṵ̷ḭ̷n̷̰n̷̰",
@@ -412,6 +421,21 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "Partner"
+        ],
+        "users": [
+            "AndreaAlejandra",
+            "Marcy_vr",
+            "Nosfet",
+            "Shirou1711",
+            "XBaironXDev"
+        ],
+        "groups": [
+            "Partner"
         ]
     }
 ]
