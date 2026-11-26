@@ -36,35 +36,35 @@
             "Banners2"
         ],
         "custom_indexes": {
-            "4": [
-                "IDK_JAV1",
-                "panda_om",
-                "Oxemeron",
-                "NΛΣŁ",
-                "Dɪᴇ Aɴᴏɴʏᴍɪᴛᴀ̈ᴛ",
-                "wgoodnightw"
-            ],
             "2": [
                 "GREAT_ONE"
-            ],
-            "7": [
-                "DarkFoxVT"
-            ],
-            "3": [
-                "RohandrileVR"
-            ],
-            "10": [
-                "༒d̷a̷r̷i̷1̷8̷༒"
             ],
             "6": [
                 "mrbb88"
             ],
+            "10": [
+                "༒d̷a̷r̷i̷1̷8̷༒"
+            ],
+            "7": [
+                "DarkFoxVT"
+            ],
+            "4": [
+                "NΛΣŁ",
+                "Dɪᴇ Aɴᴏɴʏᴍɪᴛᴀ̈ᴛ",
+                "IDK_JAV1",
+                "wgoodnightw",
+                "Oxemeron",
+                "panda_om"
+            ],
+            "3": [
+                "RohandrileVR"
+            ],
             "5": [
-                "YARISSA",
-                "『ϟsxϟ』ツ",
-                "biliustick48",
                 "༒N̴y̴x̴x̴ ༒",
-                "Soso 2020"
+                "YARISSA",
+                "Soso 2020",
+                "『ϟsxϟ』ツ",
+                "biliustick48"
             ],
             "12": [
                 "JØT₳_M̶B̶",
@@ -129,60 +129,44 @@
             "Banners1"
         ],
         "custom_indexes": {
-            "5": [
-                "OsitoPauPau",
-                "Just Wirm",
-                "Ｋｏｒｄｅｘ",
-                "Huntercito",
-                "༒LuXxX༒",
-                "ღᴋᴀᴍɪᴍɪ",
-                "Erill․♥",
-                "EnzoNova",
-                "Blumonsterghoul",
-                "m e o ᴡ",
-                "misi-quest",
-                "ReikaVermysthra",
-                "FluffyBabe",
-                "~ X y r o ~",
-                "˚֍selenaఌ༅ ˙·"
-            ],
-            "8": [
-                "Dios Carmesi"
-            ],
-            "7": [
-                "Konflakes",
-                "konflakes_"
-            ],
-            "6": [
-                "snake45655"
-            ],
-            "16": [
-                "ISLA DEL PECADO",
-                "GERMAN002"
-            ],
-            "1": [
-                "Yukι-Nαgαto"
+            "4": [
+                "ღJackღ",
+                "lokito_sen",
+                "ArithKtv",
+                "EdVanGohg",
+                "Kimmy0419"
             ],
             "13": [
                 "ShadowN01"
             ],
-            "4": [
-                "ArithKtv",
-                "Kimmy0419",
-                "EdVanGohg",
-                "lokito_sen",
-                "ღJackღ"
-            ],
-            "9": [
-                "Edielღ༒"
-            ],
-            "15": [
-                "Damimilktea",
-                "運вυηηуѕєηραι運",
-                "LordZeroRe"
+            "5": [
+                "Huntercito",
+                "Erill․♥",
+                "༒LuXxX༒",
+                "OsitoPauPau",
+                "ღᴋᴀᴍɪᴍɪ",
+                "~ X y r o ~",
+                "m e o ᴡ",
+                "misi-quest",
+                "FluffyBabe",
+                "˚֍selenaఌ༅ ˙·",
+                "Ｋｏｒｄｅｘ",
+                "Just Wirm",
+                "ReikaVermysthra",
+                "EnzoNova",
+                "Blumonsterghoul"
             ],
             "14": [
                 "SweetMochi0"
+            ],
+            "15": [
+                "運вυηηуѕєηραι運",
+                "Damimilktea",
+                "LordZeroRe"
+            ],
+            "16": [
+                "ISLA DEL PECADO",
+                "GERMAN002"
             ],
             "2": [
                 "KazumiiVT"
@@ -190,10 +174,67 @@
             "11": [
                 "Zaykran"
             ],
+            "7": [
+                "Konflakes",
+                "konflakes_"
+            ],
+            "8": [
+                "Dios Carmesi"
+            ],
+            "1": [
+                "Yukι-Nαgαto"
+            ],
+            "6": [
+                "snake45655"
+            ],
+            "9": [
+                "Edielღ༒"
+            ],
             "12": [
                 "_Wilker_D_Soto_"
             ]
         }
+    },
+    {
+        "ranks": [
+            "Co-owner1"
+        ],
+        "users": [
+            "Dios Carmesi",
+            "GREAT_ONE",
+            "ISLA DEL PECADO",
+            "ShadowN01",
+            "Yukι-Nαgαto"
+        ],
+        "groups": [
+            "Co-owner1"
+        ]
+    },
+    {
+        "ranks": [
+            "Co-owner3"
+        ],
+        "users": [
+            "mrbb88"
+        ],
+        "groups": [
+            "Co-owner3"
+        ]
+    },
+    {
+        "ranks": [
+            "Caotic"
+        ],
+        "users": [
+            "ArithKtv",
+            "EdVanGohg",
+            "Kimmy0419",
+            "lokito_sen",
+            "ღJackღ"
+        ],
+        "groups": [
+            "Caotic"
+        ]
     },
     {
         "ranks": [
@@ -210,6 +251,17 @@
         ],
         "groups": [
             "Seguridad"
+        ]
+    },
+    {
+        "ranks": [
+            "Bartender"
+        ],
+        "users": [
+            "DarkFoxVT"
+        ],
+        "groups": [
+            "Bartender"
         ]
     },
     {
@@ -239,77 +291,13 @@
     },
     {
         "ranks": [
-            "Co-owner1"
+            "InversorA"
         ],
         "users": [
-            "Dios Carmesi",
-            "GREAT_ONE",
-            "ISLA DEL PECADO",
-            "ShadowN01",
-            "Yukι-Nαgαto"
+            "SweetMochi0"
         ],
         "groups": [
-            "Co-owner1"
-        ]
-    },
-    {
-        "ranks": [
-            "Co-owner2"
-        ],
-        "users": [
-            "Konflakes"
-        ],
-        "groups": [
-            "Co-owner2"
-        ]
-    },
-    {
-        "ranks": [
-            "DJ"
-        ],
-        "users": [
-            "_Wilker_D_Soto_",
-            "snake45655"
-        ],
-        "groups": [
-            "DJ"
-        ]
-    },
-    {
-        "ranks": [
-            "Owner"
-        ],
-        "users": [
-            "GERMAN002"
-        ],
-        "groups": [
-            "Owner"
-        ]
-    },
-    {
-        "ranks": [
-            "Caotic"
-        ],
-        "users": [
-            "ArithKtv",
-            "EdVanGohg",
-            "Kimmy0419",
-            "lokito_sen",
-            "ღJackღ"
-        ],
-        "groups": [
-            "Caotic"
-        ]
-    },
-    {
-        "ranks": [
-            "Elixir"
-        ],
-        "users": [
-            "Edielღ༒"
-        ],
-        "groups": [
-            "Elixir"
+            "InversorA"
         ]
     },
     {
@@ -327,39 +315,6 @@
     },
     {
         "ranks": [
-            "Bartender"
-        ],
-        "users": [
-            "DarkFoxVT"
-        ],
-        "groups": [
-            "Bartender"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "SweetMochi0"
-        ],
-        "groups": [
-            "InversorA"
-        ]
-    },
-    {
-        "ranks": [
-            "Co-owner4"
-        ],
-        "users": [
-            "RohandrileVR"
-        ],
-        "groups": [
-            "Co-owner4"
-        ]
-    },
-    {
-        "ranks": [
             "AdminFemboy"
         ],
         "users": [
@@ -367,17 +322,6 @@
         ],
         "groups": [
             "AdminFemboy"
-        ]
-    },
-    {
-        "ranks": [
-            "Co-owner3"
-        ],
-        "users": [
-            "mrbb88"
-        ],
-        "groups": [
-            "Co-owner3"
         ]
     },
     {
@@ -393,6 +337,39 @@
     },
     {
         "ranks": [
+            "Co-owner2"
+        ],
+        "users": [
+            "Konflakes"
+        ],
+        "groups": [
+            "Co-owner2"
+        ]
+    },
+    {
+        "ranks": [
+            "Co-owner4"
+        ],
+        "users": [
+            "RohandrileVR"
+        ],
+        "groups": [
+            "Co-owner4"
+        ]
+    },
+    {
+        "ranks": [
+            "Owner"
+        ],
+        "users": [
+            "GERMAN002"
+        ],
+        "groups": [
+            "Owner"
+        ]
+    },
+    {
+        "ranks": [
             "ManagerDancer"
         ],
         "users": [
@@ -400,6 +377,29 @@
         ],
         "groups": [
             "ManagerDancer"
+        ]
+    },
+    {
+        "ranks": [
+            "DJ"
+        ],
+        "users": [
+            "_Wilker_D_Soto_",
+            "snake45655"
+        ],
+        "groups": [
+            "DJ"
+        ]
+    },
+    {
+        "ranks": [
+            "Elixir"
+        ],
+        "users": [
+            "Edielღ༒"
+        ],
+        "groups": [
+            "Elixir"
         ]
     },
     {
